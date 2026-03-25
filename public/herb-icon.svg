@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#22573E"/>
+  <g transform="translate(50,50)">
+    <path d="M0,-30 C15,-25 20,-10 15,5 C10,20 5,30 0,35 C-5,30 -10,20 -15,5 C-20,-10 -15,-25 0,-30Z" fill="#C4A265" opacity="0.9"/>
+    <path d="M0,-20 C10,-16 13,-5 10,5 C7,15 3,22 0,25 C-3,22 -7,15 -10,5 C-13,-5 -10,-16 0,-20Z" fill="#FDF8F0" opacity="0.4"/>
+    <line x1="0" y1="-25" x2="0" y2="30" stroke="#22573E" stroke-width="1.5" opacity="0.5"/>
+  </g>
+</svg>

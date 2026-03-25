@@ -1,0 +1,3590 @@
+[
+  {
+    "id": "herb-1-1",
+    "pinyin": "Ma Huang",
+    "latin": "Ephedrae Herba",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid, Slightly Bitter",
+    "channels": [
+      "LU",
+      "UB"
+    ],
+    "indications": "1) Wind-Cold with NO sweat (powerful diaphoretic) · 2) Cough, wheezing, asthma · 3) Wind-water edema with urinary difficulty",
+    "contraindication": "May cause sweating and/or hypertension; caution with Qi/Yin deficiency",
+    "boardPearl": "\"Summertime Ma Huang\" = Xiang Ru. Dui Yao with Gui Zhi for severe Wind-Cold. Ma Huang enters Qi Level; Gui Zhi enters Blood Level. Honey-prepared (Zhi Ma Huang) = better for cough/asthma; Raw = stronger diaphoretic."
+  },
+  {
+    "id": "herb-1-2",
+    "pinyin": "Gui Zhi",
+    "latin": "Cinnamomi Ramulus",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "LU",
+      "UB",
+      "HT"
+    ],
+    "indications": "1) Wind-Cold WITH sweat (deficiency type) · 2) Warms the middle, improves blood circulation · 3) Harmonizes Ying and Wei; Bi Syndrome",
+    "contraindication": "Use only small doses in pregnancy",
+    "boardPearl": "Commonly used for Bi Syndrome. Dui Yao with Ma Huang for severe Wind-Cold. Unblocks Yang Qi of the chest (chest bi syndrome)."
+  },
+  {
+    "id": "herb-1-3",
+    "pinyin": "Zi Su Ye",
+    "latin": "Perillae Folium",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "SP"
+    ],
+    "indications": "1) Wind-Cold with nausea/vomiting · 2) Seafood poisoning · 3) Calms the fetus / morning sickness",
+    "contraindication": "Dispersing nature — caution with Qi deficiency",
+    "boardPearl": "WARE herb for nausea, vomiting, poor appetite AND calming restless fetus. Also treats seafood poisoning (along with Sheng Jiang)."
+  },
+  {
+    "id": "herb-1-4",
+    "pinyin": "Jing Jie",
+    "latin": "Schizonepetae Herba",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Slightly Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Skin rashes, allergic reactions · 2) Vents early-stage measles · 3) Headache and fever",
+    "contraindication": "Caution with exterior deficiency sweating",
+    "boardPearl": "Used for BOTH Wind-Cold AND Wind-Heat. Stops bleeding when charred."
+  },
+  {
+    "id": "herb-1-5",
+    "pinyin": "Fang Feng",
+    "latin": "Saposhnikoviae Radix",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Slightly Warm",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "UB",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Wind-Cold with dampness · 2) Relieves pain · 3) Promotes diuresis",
+    "contraindication": "Caution with Yin/Blood deficiency",
+    "boardPearl": "Especially for Wind-Cold accompanied by dampness. Called 'moisturizer among wind herbs' — relatively gentle."
+  },
+  {
+    "id": "herb-1-6",
+    "pinyin": "Qiang Huo",
+    "latin": "Notopterygii Rhizoma seu Radix",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "UB",
+      "KD"
+    ],
+    "indications": "1) Wind-Damp with headaches/body aches · 2) Occipital (Tai Yang) headache · 3) Promotes sweating, relieves pain",
+    "contraindication": "Caution with Blood/Yin deficiency",
+    "boardPearl": "Guides to Tai Yang and Du. Occipital headache. Dui Yao with Du Huo — one moderate (Du Huo), one powerful (Qiang Huo)."
+  },
+  {
+    "id": "herb-1-7",
+    "pinyin": "Xiang Ru",
+    "latin": "Moslae Herba",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Slightly Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Wind-Cold with digestive disorders · 2) Summer dampness and edema · 3) Promotes sweating, relieves nausea",
+    "contraindication": "Caution with sweating from deficiency",
+    "boardPearl": "\"Summertime Ma Huang\" — treats summer dampness and edema with urinary difficulty."
+  },
+  {
+    "id": "herb-1-8",
+    "pinyin": "Gao Ben",
+    "latin": "Ligustici Rhizoma",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "UB"
+    ],
+    "indications": "1) Vertex headache · 2) Neck pain from Wind-Cold · 3) Promotes sweating, relieves pain",
+    "contraindication": "Caution with Yin/Blood deficiency",
+    "boardPearl": "Guides to Tai Yang and Du. Key herb for VERTEX headache."
+  },
+  {
+    "id": "herb-1-9",
+    "pinyin": "Bai Zhi",
+    "latin": "Angelicae Dahuricae Radix",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Sinus congestion · 2) Frontal / Yang Ming headache · 3) Promotes healing of skin conditions",
+    "contraindication": "Caution with Yin deficiency",
+    "boardPearl": "Frontal (Yang Ming) headache. Key herb to unblock the nose (along with Cang Er Zi)."
+  },
+  {
+    "id": "herb-1-10",
+    "pinyin": "Xi Xin",
+    "latin": "Asari Herba",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "KD",
+      "HT"
+    ],
+    "indications": "1) Wind-Cold with headache/body aches · 2) Opens orifices, transforms thin mucus · 3) Toothache",
+    "contraindication": "Toxic in large doses; caution with Yin deficiency/sweating",
+    "boardPearl": "Opens the orifices. Treats toothache. Transforms thin mucus."
+  },
+  {
+    "id": "herb-1-11",
+    "pinyin": "Sheng Jiang",
+    "latin": "Zingiberis Rhizoma Recens",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Slightly Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Colds, coughs, digestive disorders · 2) Nausea and vomiting · 3) Seafood poisoning; reduces toxicity of Ban Xia",
+    "contraindication": "Caution with Yin deficiency heat",
+    "boardPearl": "Reduces toxicity of Ban Xia. Early-stage Wind-Cold tea with Cong Bai."
+  },
+  {
+    "id": "herb-1-12",
+    "pinyin": "Cong Bai",
+    "latin": "Allii Fistulosi Bulbus",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Very early stage Wind-Cold · 2) Promotes sweating, relieves congestion · 3) Disperses clumps",
+    "contraindication": "Caution with sweating from deficiency",
+    "boardPearl": "Tea with Sheng Jiang for very early stage Wind-Cold."
+  },
+  {
+    "id": "herb-1-13",
+    "pinyin": "Cang Er Zi",
+    "latin": "Xanthii Fructus",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Sinusitis and nasal congestion · 2) Headache and toothache · 3) Itching, skin conditions",
+    "contraindication": "Slightly Toxic; caution with dosing",
+    "boardPearl": "Itching + rashes AND opens nasal passages. Key herb to unblock the nose (with Bai Zhi)."
+  },
+  {
+    "id": "herb-1-14",
+    "pinyin": "Xin Yi Hua",
+    "latin": "Magnoliae Flos",
+    "category": "Herbs that Release the Exterior — Warm Acrid",
+    "categoryAbbrev": "WARE",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Sinus congestion from Wind-Cold · 2) Headache · 3) Nasal discharge",
+    "contraindication": "Caution with Yin deficiency",
+    "boardPearl": "Must be placed in cheesecloth/gauze bag prior to decocting."
+  },
+  {
+    "id": "herb-2-1",
+    "pinyin": "Bo He",
+    "latin": "Menthae Haplocalycis Herba",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Acrid, Aromatic",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Wind-Heat, Upper Jiao · 2) Constrained Liver Qi (with Chai Hu & Bai Shao) · 3) Clears turbid filth, helps Qi flow",
+    "contraindication": "Can cause profuse sweat",
+    "boardPearl": "Add in last 5 minutes of decocting. Used with Chai Hu & Bai Shao for constrained LV Qi with emotional instability."
+  },
+  {
+    "id": "herb-2-2",
+    "pinyin": "Niu Bang Zi",
+    "latin": "Arctii Fructus",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Wind-Heat with sore throat · 2) Skin disorders, relieves itching · 3) Unblocks bowel, promotes urination",
+    "contraindication": "Caution with SP/ST deficiency, diarrhea",
+    "boardPearl": "Slippery nature — promotes movement of both stool and urine. Benefits throat."
+  },
+  {
+    "id": "herb-2-3",
+    "pinyin": "Chan Tui",
+    "latin": "Cicadae Periostracum",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Sweet, Salty",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Wind-Heat with rashes/hives · 2) Relieves itching, promotes sweating · 3) Soothes throat",
+    "contraindication": "See specific cautions",
+    "boardPearl": "The SALTY herb in the CARE category."
+  },
+  {
+    "id": "herb-2-4",
+    "pinyin": "Sang Ye",
+    "latin": "Mori Folium",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Wind-Heat, clears LV · 2) Dry cough · 3) Benefits eyes",
+    "contraindication": "Caution with cold from deficiency",
+    "boardPearl": "Dui Yao with Ju Hua for LV, eyes, LU, and cough."
+  },
+  {
+    "id": "herb-2-5",
+    "pinyin": "Ju Hua",
+    "latin": "Chrysanthemi Flos",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Eye disorders (#1 — conjunctivitis, cataracts) · 2) Headaches · 3) Clears heat, dispels Wind-Heat",
+    "contraindication": "Caution with SP/ST deficiency",
+    "boardPearl": "#1 for Wind-Heat affecting the eyes. Dui Yao with Sang Ye."
+  },
+  {
+    "id": "herb-2-6",
+    "pinyin": "Man Jing Zi",
+    "latin": "Viticis Fructus",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "UB",
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Temporal (Shao Yang) excess headache · 2) Wind-Heat affecting face and eyes · 3) Bi Syndrome",
+    "contraindication": "Caution with ST/SP deficiency",
+    "boardPearl": "Only CARE herb that treats Bi Syndrome. Shao Yang (temporal) excess headache."
+  },
+  {
+    "id": "herb-2-7",
+    "pinyin": "Dan Dou Chi",
+    "latin": "Sojae Semen Preparatum",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Wind-Heat OR Wind-Cold exterior release · 2) Relieves irritability · 3) Fevers and digestive disorders",
+    "contraindication": "Caution with SP/ST deficiency",
+    "boardPearl": "Releases exterior in BOTH hot or cold syndrome. Does not injure Yin."
+  },
+  {
+    "id": "herb-2-8",
+    "pinyin": "Ge Gen",
+    "latin": "Puerariae Radix",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Sweet, Acrid",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Releases the muscle layer; neck/shoulder tension · 2) Generates/promotes fluids · 3) Raises Yang; vents measles",
+    "contraindication": "Caution with excess sweating",
+    "boardPearl": "Raises Yang. Releases muscle layer. Treats symptoms of hypertension. Guides other herbs upward."
+  },
+  {
+    "id": "herb-2-9",
+    "pinyin": "Chai Hu",
+    "latin": "Bupleuri Radix",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "GB",
+      "SJ",
+      "PC",
+      "LV"
+    ],
+    "indications": "1) Liver Qi stagnation · 2) Harmonizes Shao Yang (alternating fever/chills) · 3) Raises Yang",
+    "contraindication": "Caution with LV wind rising, Yin deficiency",
+    "boardPearl": "Harmonizes Shao Yang. Raises Yang. Checks malarial disorders (along with Qing Hao)."
+  },
+  {
+    "id": "herb-2-10",
+    "pinyin": "Sheng Ma",
+    "latin": "Cimicifugae Rhizoma",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "LU",
+      "SP",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) #1 for measles · 2) Yang Ming (frontal) headaches · 3) Raises Yang; Dai (Belt) Channel spasms",
+    "contraindication": "See dosing cautions",
+    "boardPearl": "#1 for measles. Raises Yang. Indicated for Dai (Belt/Girdling) Channel spasms."
+  },
+  {
+    "id": "herb-2-11",
+    "pinyin": "Mu Zei",
+    "latin": "Equiseti Hiemalis Herba",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Wind-Heat affecting eyes · 2) Superficial visual obstructions · 3) Promotes urination",
+    "contraindication": "See cautions",
+    "boardPearl": "Best for removing membranes from conjunctiva in superficial visual obstruction."
+  },
+  {
+    "id": "herb-2-12",
+    "pinyin": "Fu Ping",
+    "latin": "Spirodelae Herba",
+    "category": "Herbs that Release the Exterior — Cool Acrid",
+    "categoryAbbrev": "CARE",
+    "temperature": "Cool",
+    "taste": "Acrid",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Wind-Heat · 2) Eye disorders · 3) Promotes urination",
+    "contraindication": "Strongly diaphoretic — caution with sweating deficiency",
+    "boardPearl": "Strongly diaphoretic."
+  },
+  {
+    "id": "herb-3-1",
+    "pinyin": "Shi Gao",
+    "latin": "Gypsum Fibrosum",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Very Cold",
+    "taste": "Sweet, Acrid",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) #1 to clear internal heat at QI LEVEL · 2) High fever, thirst, cough (4 Bigs) · 3) Burns, sores",
+    "contraindication": "Cold from deficiency of SP/ST",
+    "boardPearl": "Coldest, most important to clear internal heat at Qi Level. Mineral. Dui Yao with Zhi Mu for \"4 Bigs\" — protects fluids and yin. Must be decocted first (30 min before other herbs) since it's a mineral."
+  },
+  {
+    "id": "herb-3-2",
+    "pinyin": "Zhi Mu",
+    "latin": "Anemarrhenae Rhizoma",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Yin deficiency-type fever (deficiency heat) · 2) Fever, irritability, insomnia, night sweats · 3) Moistening — ameliorates dryness of warming substances",
+    "contraindication": "May cause diarrhea",
+    "boardPearl": "Clears BOTH repletion AND vacuity heat. More for deficiency heat. Moistening. Dui Yao with Shi Gao. Dui Yao with Huang Bai for KD."
+  },
+  {
+    "id": "herb-3-3",
+    "pinyin": "Zhi Zi",
+    "latin": "Gardeniae Fructus",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "LU",
+      "ST",
+      "SJ"
+    ],
+    "indications": "1) Clears Damp-Heat in ALL 3 JIAOS · 2) Directs Damp-Heat down through urine · 3) Fever, headache, red eyes, jaundice",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "All 3 Jiaos. Cools blood when charred. Must be crushed prior to decoction."
+  },
+  {
+    "id": "herb-3-4",
+    "pinyin": "Dan Zhu Ye",
+    "latin": "Lophateri Herba",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "HT",
+      "SI",
+      "ST"
+    ],
+    "indications": "1) Damp-Heat in bladder with painful urination · 2) Promotes urination · 3) Treats associated irritability",
+    "contraindication": "SP/ST deficiency",
+    "boardPearl": "Best for fever, irritability, thirst AND dysuria."
+  },
+  {
+    "id": "herb-3-5",
+    "pinyin": "Xia Ku Cao",
+    "latin": "Prunellae Spica",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LV",
+      "GB"
+    ],
+    "indications": "1) Clears LV and eyes · 2) Nodules (especially inguinal area) · 3) Sore throat, gum inflammation",
+    "contraindication": "SP/ST deficiency",
+    "boardPearl": "Drains LV fire, dissipates nodules/goiter, benefits eyes. Key herb for scrofula and phlegm-fire nodules."
+  },
+  {
+    "id": "herb-3-6",
+    "pinyin": "Xi Gua",
+    "latin": "Citrulli Fructus",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "ST",
+      "UB"
+    ],
+    "indications": "1) Summer heatstroke · 2) Generates fluids · 3) Promotes diuresis, expels jaundice",
+    "contraindication": "Deficiency of the ST/SP (tummy)",
+    "boardPearl": "Watermelon. Summer heatstroke herb. Generates fluids."
+  },
+  {
+    "id": "herb-3-7",
+    "pinyin": "Tian Hua Fen",
+    "latin": "Trichosanthis Radix",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Clears heat, generates body fluids · 2) Cough, thirst, dry mouth · 3) Breast abscess",
+    "contraindication": "SP/ST cold deficiency; contra with Fu Zi",
+    "boardPearl": "Breast abscess. Generates fluids for LU and ST."
+  },
+  {
+    "id": "herb-3-8",
+    "pinyin": "Lu Gen",
+    "latin": "Phragmitis Rhizoma",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Clears heat, relieves thirst · 2) Treats heat when Yin has been injured · 3) Nausea from rebellion of Stomach Qi",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Excellent for treating nausea due to rebellion of Stomach Qi."
+  },
+  {
+    "id": "herb-3-9",
+    "pinyin": "Jue Ming Zi",
+    "latin": "Cassiae Semen",
+    "category": "Clear Heat — Drain Fire",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Bitter, Salty",
+    "channels": [
+      "LV",
+      "LI"
+    ],
+    "indications": "1) Eyes (clears LV) · 2) Constipation due to heat accumulation · 3) Headache and dizziness",
+    "contraindication": "Diarrhea from SP deficiency",
+    "boardPearl": "Eyes — clears LV. Moves the bowels."
+  },
+  {
+    "id": "herb-4-1",
+    "pinyin": "Shui Niu Jiao",
+    "latin": "Bubali Cornu",
+    "category": "Clear Heat — Cool Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "HT",
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Cools blood, reduces high fever · 2) Calms mind — delirium, coma, convulsions · 3) Arrests tremors, helps rashes",
+    "contraindication": "May deplete middle burner",
+    "boardPearl": "#1 for clearing fire from the HT and cooling the blood. Water buffalo horn — replacement for Xi Jiao (Rhinoceros horn)."
+  },
+  {
+    "id": "herb-4-2",
+    "pinyin": "Sheng Di Huang",
+    "latin": "Rehmanniae Radix",
+    "category": "Clear Heat — Cool Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Nourishes Yin, cools blood (whole body) · 2) High fever, irritability, insomnia · 3) Constipation from heat/dryness",
+    "contraindication": "May cause dampness; caution with loose stools",
+    "boardPearl": "Cloying. Nourishes Yin, cools blood whole body. Best for febrile disease when heat enters the Ying stage. Note: Shui Niu Jiao (not Sheng Di) is the direct replacement for Xi Jiao."
+  },
+  {
+    "id": "herb-4-3",
+    "pinyin": "Xuan Shen",
+    "latin": "Scrophulariae Radix",
+    "category": "Clear Heat — Cool Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty, Sweet, Bitter",
+    "channels": [
+      "LU",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Clears heat, cools blood, nourishes Yin (excess) · 2) Throat pain and scrofula · 3) Fever, dry mouth, constipation",
+    "contraindication": "SP/ST deficient cold",
+    "boardPearl": "Excess type. Throat pain and scrofula. Nourishes Yin and generates fluids."
+  },
+  {
+    "id": "herb-4-4",
+    "pinyin": "Mu Dan Pi",
+    "latin": "Moutan Cortex",
+    "category": "Clear Heat — Cool Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "HT",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Cools blood AND invigorates blood · 2) Reduces inflammation · 3) Clears deficiency heat",
+    "contraindication": "Caution in pregnancy; caution with excess menstrual bleeding",
+    "boardPearl": "Unique: Cools blood AND invigorates blood. Treats both excess and Xu. Clears deficiency heat."
+  },
+  {
+    "id": "herb-4-5",
+    "pinyin": "Zi Cao",
+    "latin": "Arnebiae/Lithospermi Radix",
+    "category": "Clear Heat — Cool Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Cools blood, promotes skin healing · 2) Vents rashes · 3) Sore throat, fever",
+    "contraindication": "SP/ST deficiency",
+    "boardPearl": "Only function in category is to vent rashes. Topical. Best for severe Heat-Toxin with inability of dark-purple rashes to erupt."
+  },
+  {
+    "id": "herb-5-1",
+    "pinyin": "Huang Qin",
+    "latin": "Scutellariae Radix",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LU",
+      "LI",
+      "GB",
+      "ST"
+    ],
+    "indications": "1) Clears heat/dries damp — Upper Jiao (LU) · 2) Sedates LV Yang · 3) Quiets the fetus",
+    "contraindication": "Cold from deficiency of SP/ST",
+    "boardPearl": "Upper Jiao — LU. First choice for LU heat causing cough. Stops bleeding when charred. Quiets fetus."
+  },
+  {
+    "id": "herb-5-2",
+    "pinyin": "Huang Lian",
+    "latin": "Coptidis Rhizoma",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "ST",
+      "LI",
+      "LV"
+    ],
+    "indications": "1) #1 for diarrhea, dysentery, vomiting (Damp-Heat) · 2) Clears heat from ST on both ends · 3) Topical for gums; stops bleeding",
+    "contraindication": "Caution with pattern of cold",
+    "boardPearl": "#1 herb for Damp-Heat diarrhea, dysentery, and vomiting. Clears HT fire. Topical for gums. Middle Jiao specialist. Note: the \"4 Bigs\" belong to Shi Gao (Qi Level)."
+  },
+  {
+    "id": "herb-5-3",
+    "pinyin": "Huang Bai",
+    "latin": "Phellodendri Cortex",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "KD",
+      "UB"
+    ],
+    "indications": "1) Clears Damp-Heat in LOWER JIAO · 2) Hot Leg Qi · 3) Clears both excess and deficient heat (Dui Yao with Zhi Mu for KD)",
+    "contraindication": "Cold from deficiency of SP/ST",
+    "boardPearl": "Lower Jiao specialist. Dui Yao with Zhi Mu for KD — clears both excess and deficient heat."
+  },
+  {
+    "id": "herb-5-4",
+    "pinyin": "Long Dan Cao",
+    "latin": "Gentianae Radix",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LV",
+      "GB"
+    ],
+    "indications": "1) Drains Damp-Heat from LV/GB channels · 2) Vaginal discharge and itching from Damp-Heat · 3) Jaundice, eye infections, anger",
+    "contraindication": "SP/ST deficiency cold",
+    "boardPearl": "BEST to clear heat, dry damp, and purge LV fire. Treats vaginal discharge and itching due to Damp-Heat."
+  },
+  {
+    "id": "herb-5-5",
+    "pinyin": "Ku Shen",
+    "latin": "Sophorae Flavescentis Radix",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "ST",
+      "LI",
+      "UB"
+    ],
+    "indications": "1) Chronic itching, skin diseases · 2) Expels wind, kills parasites · 3) Genital sores",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Dispels wind and kills parasites. Skin disease and genital sores."
+  },
+  {
+    "id": "herb-5-6",
+    "pinyin": "Qin Pi",
+    "latin": "Fraxini Cortex",
+    "category": "Clear Heat — Dry Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Astringent",
+    "channels": [
+      "LV",
+      "GB",
+      "LI"
+    ],
+    "indications": "1) Eyes · 2) Binds intestines (diarrhea) · 3) Wind-Damp Bi",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Eyes. Binds intestines. Wind-Damp-Bi."
+  },
+  {
+    "id": "herb-6-1",
+    "pinyin": "Jin Yin Hua",
+    "latin": "Lonicerae Flos",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Clears toxic heat — breast, throat, eye · 2) External Wind-Heat · 3) Venting and dispersing",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Dui Yao with Lian Qiao to clear Wind-Heat from Upper Jiao. Breast, throat, eye."
+  },
+  {
+    "id": "herb-6-2",
+    "pinyin": "Lian Qiao",
+    "latin": "Forsythiae Fructus",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU",
+      "HT",
+      "SI"
+    ],
+    "indications": "1) Clears heat and toxins — skin infections, tonsillitis · 2) Disperses heat from constraint · 3) Removes toxins, dissipates clumps, reduces abscesses",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Dui Yao with Jin Yin Hua. Dispersing heat from constraint. Best to clear heat in HT and disperse stagnation."
+  },
+  {
+    "id": "herb-6-3",
+    "pinyin": "Da Qing Ye",
+    "latin": "Isatidis Folium",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Very Cold",
+    "taste": "Bitter, Salty",
+    "channels": [
+      "HT",
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Severe sore throat · 2) Acute pharyngitis, tonsillitis, carbuncles · 3) Measles",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Colder than Ban Lan Gen (from same plant)."
+  },
+  {
+    "id": "herb-6-4",
+    "pinyin": "Ban Lan Gen",
+    "latin": "Isatidis Radix",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "ST"
+    ],
+    "indications": "1) Common cold, flu, viral infections · 2) Red, swollen throat — tonsillitis, scarlet fever, mumps · 3) Prevents viral epidemics",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Not as cold as Da Qing Ye. Can be used to prevent viral epidemics."
+  },
+  {
+    "id": "herb-6-5",
+    "pinyin": "Pu Gong Ying",
+    "latin": "Taraxaci Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Breast abscesses · 2) Clears heat/toxins from liver — hepatitis, jaundice · 3) Promotes lactation",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Dandelion. Breast abscesses. Promotes lactation. Steam for eyes (LV heat)."
+  },
+  {
+    "id": "herb-6-6",
+    "pinyin": "Zi Hua Di Ding",
+    "latin": "Violae Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Skin infections, boils, abscesses · 2) Red swollen eyes, sore throat · 3) Snake bite; mumps",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Red swollen eyes, very sore throat, pain in ears, mumps, snake bite."
+  },
+  {
+    "id": "herb-6-7",
+    "pinyin": "Bai Jiang Cao",
+    "latin": "Patriniae Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "ST",
+      "LI",
+      "LV"
+    ],
+    "indications": "1) Damp-Heat in blood — itchy skin lesions · 2) Jaundice · 3) Vaginal discharge",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Damp-Heat in blood leading to itchy skin lesions."
+  },
+  {
+    "id": "herb-6-8",
+    "pinyin": "Chuan Xin Lian",
+    "latin": "Andrographitis Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LU",
+      "ST",
+      "LI",
+      "SI"
+    ],
+    "indications": "1) Strong antimicrobial — respiratory infections · 2) Digestive system infections · 3) Anywhere in the body",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Strong antimicrobial. Anywhere in the body."
+  },
+  {
+    "id": "herb-6-9",
+    "pinyin": "Bai Hua She She Cao",
+    "latin": "Hedyotis Diffusae Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "ST",
+      "LI",
+      "SI"
+    ],
+    "indications": "1) Intestinal abscess from Damp-Heat · 2) Drains damp through urination · 3) Variety of cancers (anti-tumor)",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Anti-tumor effect — used for a variety of cancers. Named for leaves resembling snake's tongue."
+  },
+  {
+    "id": "herb-6-10",
+    "pinyin": "Bai Tou Weng",
+    "latin": "Pulsatillae Radix",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Dysentery due to Damp-Heat · 2) Respiratory infections · 3) Digestive infections",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Dysentery due to Damp-Heat. Used with Ma Chi Xian for dysentery."
+  },
+  {
+    "id": "herb-6-11",
+    "pinyin": "Ma Chi Xian",
+    "latin": "Portulacae Herba",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sour",
+    "channels": [
+      "LI",
+      "LV"
+    ],
+    "indications": "1) Dysentery (with Bai Tou Weng) · 2) Severe tenesmus (slippery) · 3) Stops bleeding in urine; gynecology",
+    "contraindication": "Caution in pregnancy",
+    "boardPearl": "\"Common Purslane.\" Slippery — used for severe tenesmus."
+  },
+  {
+    "id": "herb-6-12",
+    "pinyin": "He Ye",
+    "latin": "Nelumbinis Folium",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter",
+    "channels": [
+      "LV",
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Diarrhea from SP Qi deficiency (esp. after summerheat) · 2) Bleeding in Lower Jiao · 3) Raises clear Yang of Spleen",
+    "contraindication": "Caution with cold from deficiency",
+    "boardPearl": "Important for clearing summerheat. Raises clear Yang of Spleen. Stops bleeding."
+  },
+  {
+    "id": "herb-6-13",
+    "pinyin": "Lu Dou",
+    "latin": "Phaseoli Radiati Semen",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "ST"
+    ],
+    "indications": "1) Heat-related conditions — fever, thirst, irritability · 2) Summerheat · 3) Antidote to Zhi Fu Zi and Ba Dou",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Mung beans. Antidote to Zhi Fu Zi and Ba Dou. Summerheat."
+  },
+  {
+    "id": "herb-6-14",
+    "pinyin": "Bai Xian Pi",
+    "latin": "Dictamni Cortex",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Skin infections, eczema · 2) Intestinal abscess — dispels blood stasis · 3) Hot skin lesions (Damp-Heat)",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Important for treating Damp-Heat with hot skin lesions."
+  },
+  {
+    "id": "herb-6-15",
+    "pinyin": "Shan Dou Gen",
+    "latin": "Sophorae tonkinensis Radix",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Severe sore throat, swollen teeth/gums · 2) Cancer of lung and throat · 3) Respiratory/digestive infections",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Severe sore throat pain and throat/lung cancers."
+  },
+  {
+    "id": "herb-6-16",
+    "pinyin": "Tu Fu Ling",
+    "latin": "Smilacis Glabrae Rhizoma",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Drains Damp for joint pain · 2) Late-stage syphilis (muscle spasm) · 3) Hot skin lesions",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Late-stage muscle spasm associated with syphilis. Treats skin lesions and Damp-Heat."
+  },
+  {
+    "id": "herb-6-17",
+    "pinyin": "She Gan",
+    "latin": "Belamcandae Rhizoma",
+    "category": "Clear Heat — Relieve Toxicity",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Severe sore throat · 2) Transforming phlegm, wheezing · 3) Inflammatory skin conditions",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Benefits throat and dissolves Hot-Phlegm. Treats wheezing."
+  },
+  {
+    "id": "herb-7-1",
+    "pinyin": "Qing Hao",
+    "latin": "Artemisiae Annuae Herba",
+    "category": "Clear Heat — Clear Deficiency Heat",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LV",
+      "GB",
+      "KD"
+    ],
+    "indications": "1) Clears deficiency heat without injuring Qi, Blood, or Yin · 2) Malaria · 3) Summerheat",
+    "contraindication": "Weak digestion and diarrhea; SP/ST deficiency cold",
+    "boardPearl": "\"Sweet Annie.\" Clears deficiency heat and treats malaria. Also addresses summerheat but primary fame is for clearing Yin-level heat without injuring Qi/Blood/Yin. Checks malarial disorders (with Chai Hu)."
+  },
+  {
+    "id": "herb-7-2",
+    "pinyin": "Di Gu Pi",
+    "latin": "Lycii Cortex",
+    "category": "Clear Heat — Clear Deficiency Heat",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Steaming bone disorder with sweating · 2) Nourishes Yin/Blood while clearing heat · 3) Cools LU; toothache",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Wolfberry bark. Clears heat from both excess and deficiency in blood. Steaming bone disorder. Cools LU."
+  },
+  {
+    "id": "herb-7-3",
+    "pinyin": "Bai Wei",
+    "latin": "Cynanchi Atrati Radix",
+    "category": "Clear Heat — Clear Deficiency Heat",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Salty",
+    "channels": [
+      "ST",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Yin/fluid deficiency heat (esp. upper body) · 2) Sore throat and cough · 3) Nutritive and Blood level heat",
+    "contraindication": "Does NOT moisten the intestine",
+    "boardPearl": "Swallowwort root. Nutritive and Blood level. Does NOT moisten the intestine (differentiates from others)."
+  },
+  {
+    "id": "herb-7-4",
+    "pinyin": "Yin Chai Hu",
+    "latin": "Stellariae Radix",
+    "category": "Clear Heat — Clear Deficiency Heat",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet",
+    "channels": [
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Clears deficiency heat — fever, irritability, thirst · 2) Childhood nutritional impairment · 3) Steaming bone disorder",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Starwort root. Especially effective for steaming bone disorder and childhood nutritional impairment."
+  },
+  {
+    "id": "herb-8-1",
+    "pinyin": "Da Huang",
+    "latin": "Rhei Radix et Rhizoma",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Most important herb for excess heat accumulation in intestines · 2) Blood stasis, amenorrhea, traumatic injury · 3) Cools blood, stops bleeding without causing stasis",
+    "contraindication": "Pregnancy; seniors; menstruating; Qi/Blood/Yin/Yang deficiency",
+    "boardPearl": "Dui Yao with Mang Xiao (emphasis on draining heat). Stops bleeding without causing stasis. Wine-prepared = directed to upper body; charred = enhanced hemostatic effect."
+  },
+  {
+    "id": "herb-8-2",
+    "pinyin": "Mang Xiao",
+    "latin": "Natrii Sulfas",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty, Bitter",
+    "channels": [
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Softens hard stools · 2) Relieves constipation · 3) Promotes lactation for breast abscess",
+    "contraindication": "Pregnancy; nursing (reduces lactation at high dose)",
+    "boardPearl": "Mirabilite/Glauber's Salt. Dui Yao with Da Huang (emphasis on softening hardness). Softens hard stools."
+  },
+  {
+    "id": "herb-8-3",
+    "pinyin": "Fan Xie Ye",
+    "latin": "Sennae Folium",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LI"
+    ],
+    "indications": "1) Habitual constipation · 2) Stronger bowel-moving effect than Da Huang · 3) Constipation in weak/elderly",
+    "contraindication": "Pregnancy; nursing",
+    "boardPearl": "Senna Leaf. Moist in nature. Stronger bowel-moving effect than Da Huang."
+  },
+  {
+    "id": "herb-8-4",
+    "pinyin": "Lu Hui",
+    "latin": "Aloe",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LV",
+      "LI"
+    ],
+    "indications": "1) Constipation with HT/LV fire · 2) Cools Liver · 3) Kills parasites",
+    "contraindication": "Pregnancy; SP/ST deficiency",
+    "boardPearl": "Purgative for patients with Heart and Liver fire. Kills parasites."
+  },
+  {
+    "id": "herb-8-5",
+    "pinyin": "Huo Ma Ren",
+    "latin": "Cannabis Semen",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Dry constipation — enriches Yin, moistens intestines · 2) Post-surgery/postpartum/elderly constipation · 3) Hemorrhoids, habitual constipation",
+    "contraindication": "Excess may cause nausea/vomiting",
+    "boardPearl": "Moist laxative. Sweet and neutral. For deficiency constipation in elderly/postpartum."
+  },
+  {
+    "id": "herb-8-6",
+    "pinyin": "Yu Li Ren",
+    "latin": "Pruni Semen",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Acrid, Bitter, Sweet",
+    "channels": [
+      "SP",
+      "LI",
+      "SI"
+    ],
+    "indications": "1) Deficiency constipation · 2) Constipation from Qi stagnation · 3) Lubricates intestines, promotes BM",
+    "contraindication": "Pregnancy",
+    "boardPearl": "Treats constipation from Qi stagnation (differentiates from Huo Ma Ren which does not)."
+  },
+  {
+    "id": "herb-8-7",
+    "pinyin": "Qian Niu Zi",
+    "latin": "Pharbitidis Semen",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU",
+      "KD",
+      "LI"
+    ],
+    "indications": "1) Edema with distention/fullness · 2) Clears Damp-Heat in Qi level of all 3 Jiaos · 3) Cough, rebellious Qi, wheezing with constipation",
+    "contraindication": "Pregnancy; Qi/Yin deficiency",
+    "boardPearl": "Morning Glory seed. Deals with all 4 pathogenic fluids: phlegm, thin mucus, dampness, water."
+  },
+  {
+    "id": "herb-8-8",
+    "pinyin": "Gan Sui",
+    "latin": "Kansui Radix",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "KD",
+      "LI"
+    ],
+    "indications": "1) Ascites (excess type) · 2) Severe constipation · 3) Eliminates excess fluids",
+    "contraindication": "VERY TOXIC — short-term use only; contra in pregnancy",
+    "boardPearl": "Very toxic. For ascites. Violent cathartic — causes water to pass anally."
+  },
+  {
+    "id": "herb-8-9",
+    "pinyin": "Ba Dou",
+    "latin": "Crotoni Fructus",
+    "category": "Downward Draining",
+    "categoryAbbrev": "",
+    "temperature": "Hot",
+    "taste": "Acrid",
+    "channels": [
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Violent purgative for cold accumulation constipation · 2) Stubborn phlegm accumulation · 3) Ascites (schistosomiasis)",
+    "contraindication": "EXTREMELY TOXIC — very small dose (0.1–0.3g/day); can cause fatality",
+    "boardPearl": "\"Herbal equivalent of a battering ram.\" Acrid, hot, toxic. Pills/capsules only. Antidote: Lu Dou."
+  },
+  {
+    "id": "herb-9-1",
+    "pinyin": "Fu Ling",
+    "latin": "Poria",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "SP",
+      "KD",
+      "HT",
+      "LU"
+    ],
+    "indications": "1) Strengthens Spleen, drains dampness (#1 in category) · 2) Promotes Middle Jiao harmony · 3) Superficial edema, urinary difficulty, diarrhea in children",
+    "contraindication": "Sunken Spleen Qi",
+    "boardPearl": "Most commonly used herb in the Drain Damp category. Fungus."
+  },
+  {
+    "id": "herb-9-2",
+    "pinyin": "Fu Ling Pi",
+    "latin": "Poriae Cutis",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "SP",
+      "KD",
+      "HT",
+      "LU"
+    ],
+    "indications": "1) Drains dampness, promotes urination · 2) Mobilizes exterior to reduce subcutaneous edema · 3) More diuretic than Fu Ling",
+    "contraindication": "Sunken Spleen Qi",
+    "boardPearl": "Outer skin of Fu Ling. More diuretic than Fu Ling. Mobilizes exterior for subcutaneous edema."
+  },
+  {
+    "id": "herb-9-3",
+    "pinyin": "Fu Shen",
+    "latin": "Poriae Sclerotium Pararadicis",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "SP",
+      "KD",
+      "HT",
+      "LU"
+    ],
+    "indications": "1) Calms the Heart, quiets the Spirit · 2) Promotes urination, drains dampness · 3) Insomnia, anxiety",
+    "contraindication": "Yin deficiency",
+    "boardPearl": "Fungus around the root. PRIMARY action is calming the spirit."
+  },
+  {
+    "id": "herb-9-4",
+    "pinyin": "Chi Fu Ling",
+    "latin": "Poria Rubra",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "SP",
+      "KD",
+      "HT",
+      "LU"
+    ],
+    "indications": "1) Drains damp, clears heat · 2) Moves water · 3) Strengthens SP, resolves dampness",
+    "contraindication": "Sunken Spleen Qi",
+    "boardPearl": "Red in color. For moving water it \"cannot be beat.\""
+  },
+  {
+    "id": "herb-9-5",
+    "pinyin": "Ze Xie",
+    "latin": "Alismatis Rhizoma",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "KD",
+      "UB"
+    ],
+    "indications": "1) Drains dampness (Lower Jiao) · 2) Promotes urination · 3) Unblocks painful urinary dribbling",
+    "contraindication": "KD Yang deficiency",
+    "boardPearl": "Lower Jiao specialist for draining dampness."
+  },
+  {
+    "id": "herb-9-6",
+    "pinyin": "Yi Yi Ren",
+    "latin": "Coicis Semen",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "SP",
+      "ST",
+      "LU"
+    ],
+    "indications": "1) Drains dampness, strengthens SP · 2) Eliminates painful obstruction (Bi Syndrome) · 3) Harmonizes middle burner, promotes digestion",
+    "contraindication": "Caution in pregnancy",
+    "boardPearl": "Job's Tears. Facilitates resolution of dampness, strengthens SP, eliminates painful obstruction."
+  },
+  {
+    "id": "herb-9-7",
+    "pinyin": "Che Qian Zi",
+    "latin": "Plantaginis Semen",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "KD",
+      "UB",
+      "LV",
+      "LU"
+    ],
+    "indications": "1) Drains dampness, promotes urination · 2) Unblocks painful urinary dribbling · 3) Clears eyes, benefits vision",
+    "contraindication": "Yin deficiency",
+    "boardPearl": "Must be placed in cheesecloth/gauze prior to decocting. Solidifies stool while promoting urination — 'separates clear from turbid.'"
+  },
+  {
+    "id": "herb-9-8",
+    "pinyin": "Hua Shi",
+    "latin": "Talcum",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "ST",
+      "UB"
+    ],
+    "indications": "1) Drains dampness, clears heat · 2) Urinary tract infections · 3) Dispels phlegm",
+    "contraindication": "SP/ST deficiency; pregnancy",
+    "boardPearl": "Mineral-based. Must be placed in cheesecloth/gauze prior to decocting."
+  },
+  {
+    "id": "herb-9-9",
+    "pinyin": "Yin Chen (Hao)",
+    "latin": "Artemisiae Scopariae Herba",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter",
+    "channels": [
+      "SP",
+      "ST",
+      "LV",
+      "GB"
+    ],
+    "indications": "1) Jaundice and liver disorders · 2) Drains dampness, clears heat · 3) Resolves toxicity",
+    "contraindication": "Caution with Yin deficiency",
+    "boardPearl": "Key herb for jaundice."
+  },
+  {
+    "id": "herb-9-10",
+    "pinyin": "Han Fang Ji",
+    "latin": "Stephaniae Tetrandrae Radix",
+    "category": "Drain Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "UB",
+      "KD",
+      "SP"
+    ],
+    "indications": "1) Edema · 2) Drains dampness, dispels wind · 3) Reduces inflammation, relieves pain",
+    "contraindication": "Yin/Blood deficiency",
+    "boardPearl": "Unblocks channels. Treats edema and drains dampness. Reduces inflammation/relieves pain."
+  },
+  {
+    "id": "herb-10-1",
+    "pinyin": "Du Huo",
+    "latin": "Angelicae Pubescentis Radix",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "KD",
+      "UB"
+    ],
+    "indications": "1) Best for pain in LOWER body (back & knees) · 2) Dispels Wind-Damp, relieves pain · 3) Shao Yin headache; toothache",
+    "contraindication": "Very drying — can cause Yin harm",
+    "boardPearl": "Lower body specialist. Shao Yin. Dui Yao with Qiang Huo — Du Huo moderate, Qiang Huo powerful."
+  },
+  {
+    "id": "herb-10-2",
+    "pinyin": "Wei Ling Xian",
+    "latin": "Clematidis Radix",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Salty",
+    "channels": [
+      "UB"
+    ],
+    "indications": "1) Dispels Wind-Damp, alleviates pain/spasms · 2) Promotes circulation · 3) Softens small fish bones lodged in throat",
+    "contraindication": "Qi/Blood deficiency",
+    "boardPearl": "Fish bones lodged in throat!"
+  },
+  {
+    "id": "herb-10-3",
+    "pinyin": "Mu Gua",
+    "latin": "Chaenomelis Fructus",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sour",
+    "channels": [
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Relaxes sinews — esp. calf-muscle contractions · 2) Dispels Wind-Damp, alleviates pain · 3) Food stagnation",
+    "contraindication": "Caution with Yin deficiency",
+    "boardPearl": "Very effective for relaxing sinews, especially calf-muscle contractions."
+  },
+  {
+    "id": "herb-10-4",
+    "pinyin": "Sang Ji Sheng",
+    "latin": "Taxilli Herba",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Nourishes blood, calms the womb/fetus · 2) Strengthens sinews and bones · 3) Promotes lactation; dry scaly skin",
+    "contraindication": "Caution with cold from deficiency",
+    "boardPearl": "Nourishes blood and calms the womb. Promotes lactation. Benefits dry, scaly skin. From mulberry tree."
+  },
+  {
+    "id": "herb-10-5",
+    "pinyin": "Wu Jia Pi",
+    "latin": "Acanthopanacis Cortex",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Weak or soft sinews/bones from chronic Wind-Cold-Damp with LV/KD deficiency · 2) Elderly and children · 3) Delayed ability to take first steps",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Commonly used alone as herbal wine. Elderly. Children — delayed ability to take first steps."
+  },
+  {
+    "id": "herb-10-6",
+    "pinyin": "Qin Jiao",
+    "latin": "Gentianae Macrophylla Radix",
+    "category": "Dispel Wind-Damp",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "ST",
+      "LV",
+      "GB"
+    ],
+    "indications": "1) Wind-Damp Bi — joint pain · 2) Jaundice · 3) Moistens intestines; counters drying of other herbs",
+    "contraindication": "Caution with SP/ST cold",
+    "boardPearl": "Moistens intestines. Used to counter the drying nature of other herbs. Jaundice."
+  },
+  {
+    "id": "herb-11-1",
+    "pinyin": "Qian Hu",
+    "latin": "Peucedani Radix",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Cools and transforms Phlegm-Heat · 2) Releases the exterior · 3) Directs Qi downward",
+    "contraindication": "Caution with cough from Yin deficiency",
+    "boardPearl": "Both releases the exterior AND directs Qi downward."
+  },
+  {
+    "id": "herb-11-2",
+    "pinyin": "Chuan Bei Mu",
+    "latin": "Fritillariae Cirrhosae Bulbus",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU",
+      "HT"
+    ],
+    "indications": "1) Transforms phlegm, stops NON-productive cough · 2) Chronic cough, Yin-deficiency fire cough · 3) Clears heat, moistens lungs",
+    "contraindication": "Contra with Fu Zi",
+    "boardPearl": "Chronic and Yin-deficiency cough. Dui Yao with Xing Ren for dry cough with little/no phlegm."
+  },
+  {
+    "id": "herb-11-3",
+    "pinyin": "Zhe Bei Mu",
+    "latin": "Fritillariae Thunbergii Bulbus",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LU",
+      "HT"
+    ],
+    "indications": "1) Transforms phlegm, stops PRODUCTIVE cough (thick yellow phlegm) · 2) Clears acute Lung heat · 3) Moistens lungs",
+    "contraindication": "Contra with Fu Zi",
+    "boardPearl": "Stronger dispersing action — used more for externally contracted cough. Acute lung heat with thick yellow phlegm."
+  },
+  {
+    "id": "herb-11-4",
+    "pinyin": "Gua Lou",
+    "latin": "Trichosanthis Fructus",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "LU",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Transforms phlegm, stops cough · 2) Clears heat, resolves toxicity · 3) Breast abscess",
+    "contraindication": "SP/ST deficiency; contra with Fu Zi",
+    "boardPearl": "Stronger for clearing heat and transforming phlegm than Gua Lou Ren. Breast abscess."
+  },
+  {
+    "id": "herb-11-5",
+    "pinyin": "Zhu Ru",
+    "latin": "Bambusae Caulis in Taeniam",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST",
+      "GB"
+    ],
+    "indications": "1) Clears Phlegm-Heat · 2) Morning sickness · 3) Migraines",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Goes to LU, ST, GB. Morning sickness. Migraines. Miner's disease."
+  },
+  {
+    "id": "herb-11-6",
+    "pinyin": "Kun Bu",
+    "latin": "Eckloniae Thallus",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "LV",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Softens and transforms phlegm · 2) Reduces swelling, goiter · 3) Dissolves nodules",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Kelp. Only herb in this category that does NOT go to the Lungs."
+  },
+  {
+    "id": "herb-11-7",
+    "pinyin": "Hai Zao",
+    "latin": "Sargassum",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Salty",
+    "channels": [
+      "LV",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Softens and transforms phlegm · 2) Reduces swelling, promotes diuresis · 3) Clears heat, detoxifies",
+    "contraindication": "SP/ST cold deficiency; contra with Gan Cao",
+    "boardPearl": "Seaweed. Contra with Gan Cao (18 incompatibles)."
+  },
+  {
+    "id": "herb-11-8",
+    "pinyin": "Zhi Ban Xia",
+    "latin": "Pinelliae Rhizoma Preparatum",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "LU"
+    ],
+    "indications": "1) Warms and transforms Cold-Phlegm · 2) Dries dampness · 3) Downbears Qi; stops vomiting",
+    "contraindication": "Toxic in strong doses; contra in pregnancy",
+    "boardPearl": "Very strong action of downbearing rebel Qi. Redirects Qi down and stops vomiting. Toxicity reduced by Sheng Jiang."
+  },
+  {
+    "id": "herb-11-9",
+    "pinyin": "Zhi Tian Nan Xing",
+    "latin": "Arisaematis Rhizoma Preparatum",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Dries dampness, expels phlegm · 2) Disperses Wind-Phlegm, stops spasm · 3) Facial paralysis",
+    "contraindication": "Caution in pregnancy; Yin/Blood deficiency",
+    "boardPearl": "Facial paralysis. Disperses Wind-Phlegm and stops spasm."
+  },
+  {
+    "id": "herb-11-10",
+    "pinyin": "Bai Jie Zi",
+    "latin": "Sinapis Semen",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Warms lungs, transforms phlegm · 2) Promotes flow of Qi · 3) Phlegm accumulation in chest from cold pattern",
+    "contraindication": "LU heat, Yin deficiency",
+    "boardPearl": "White mustard seed. Warms lungs and transforms phlegm."
+  },
+  {
+    "id": "herb-11-11",
+    "pinyin": "Jie Geng",
+    "latin": "Platycodi Radix",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Transforms phlegm, opens up lungs · 2) Directs Qi upward (guides other herbs to LU) · 3) Expels pus",
+    "contraindication": "Hemoptysis; Yin deficiency cough",
+    "boardPearl": "Balloon flower root. Directs Qi upward — guides herbs to lungs. \"Boat herb.\""
+  },
+  {
+    "id": "herb-11-12",
+    "pinyin": "Xuan Fu Hua",
+    "latin": "Inulae Flos",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid, Salty",
+    "channels": [
+      "LU",
+      "SP",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Phlegm accumulation in chest from cold · 2) Warms lungs, transforms phlegm · 3) Directs Qi downward",
+    "contraindication": "Yin deficiency",
+    "boardPearl": "Redirects Qi down and stops vomiting (along with Zhi Ban Xia)."
+  },
+  {
+    "id": "herb-11-13",
+    "pinyin": "Xing Ren",
+    "latin": "Armeniacae Semen",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter",
+    "channels": [
+      "LU",
+      "LI"
+    ],
+    "indications": "1) Calms lung, stops cough and wheezing · 2) Moistens intestines, alleviates constipation · 3) Various cough etiologies",
+    "contraindication": "TOXIC — overdosage is tragic",
+    "boardPearl": "Apricot seed. Metal. Dui Yao with Chuan Bei Mu for dry cough with little/no phlegm. Moistens intestines."
+  },
+  {
+    "id": "herb-11-14",
+    "pinyin": "Zi Wan",
+    "latin": "Asteris Radix",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Stops coughing, resolves phlegm · 2) Treats asthma and lung conditions · 3) Various cough types",
+    "contraindication": "Caution with heat-type cough",
+    "boardPearl": "Dui Yao with Kuan Dong Hua."
+  },
+  {
+    "id": "herb-11-15",
+    "pinyin": "Kuan Dong Hua",
+    "latin": "Farfarae Flos",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Cough with profuse phlegm from cold binding LU · 2) Cough from LU Qi deficiency · 3) Moistens LU, directs Qi down, transforms phlegm",
+    "contraindication": "Caution with LU heat",
+    "boardPearl": "Flower. Best for cough with profuse phlegm from cold or LU Qi deficiency. Dui Yao with Zi Wan."
+  },
+  {
+    "id": "herb-11-16",
+    "pinyin": "Zi Su Zi",
+    "latin": "Perillae Fructus",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "LI"
+    ],
+    "indications": "1) Best when exhale harder than inhale · 2) Directs Qi down, relieves wheezing · 3) Moistens intestines, unblocks bowels",
+    "contraindication": "Yin/Qi deficiency cough",
+    "boardPearl": "Best to treat excess cough when exhale is more labored than inhale. Metal. Moistens intestines."
+  },
+  {
+    "id": "herb-11-17",
+    "pinyin": "Bai Bu",
+    "latin": "Stemonae Radix",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Moistens lung, stops cough from various etiologies · 2) Treats parasites (lice, pinworm) · 3) Chronic cough",
+    "contraindication": "SP/ST deficiency",
+    "boardPearl": "Important herb for stopping coughs from various etiologies. Treats parasites — especially lice."
+  },
+  {
+    "id": "herb-11-18",
+    "pinyin": "Sang Bai Pi",
+    "latin": "Mori Cortex",
+    "category": "Transform Phlegm & Stop Cough",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU"
+    ],
+    "indications": "1) Cough due to heat (esp. yellow, copious sputum) · 2) Promotes urination, reduces edema · 3) Benefits eyes; treats hypertension",
+    "contraindication": "LU cold deficiency",
+    "boardPearl": "Sweet and cold. Drains heat from LU. Stops cough/wheeze. Promotes urination. Lowers blood pressure."
+  },
+  {
+    "id": "herb-12-1",
+    "pinyin": "Cang Zhu",
+    "latin": "Atractylodis Rhizoma",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Strongly dries dampness · 2) Induces sweating, dispels Wind-Damp · 3) Improves vision (night blindness)",
+    "contraindication": "Yin/Qi deficiency",
+    "boardPearl": "Dui Yao with Hou Po for damp encumbering spleen yang. Dui Yao with Huang Bai for damp-heat in lower jiao. Treats night blindness."
+  },
+  {
+    "id": "herb-12-2",
+    "pinyin": "Hou Po",
+    "latin": "Magnoliae Officinalis Cortex",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LU",
+      "LI",
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Promotes movement of Qi, relieves distention · 2) Moves and directs Qi downward · 3) Dries dampness, transforms phlegm; wheezing",
+    "contraindication": "Contra in pregnancy (gestation)",
+    "boardPearl": "Magnolia bark. Moves and directs Qi down. Dui Yao with Cang Zhu. Not for use during gestation."
+  },
+  {
+    "id": "herb-12-3",
+    "pinyin": "Huo Xiang",
+    "latin": "Pogostemonis/Agastaches Herba",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "LU"
+    ],
+    "indications": "1) Nausea, vomiting, morning sickness · 2) Regulates Qi, harmonizes MJ · 3) Gently releases exterior",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Patchouli. Add near end of decocting — do not overcook. Gently releases exterior. Morning sickness."
+  },
+  {
+    "id": "herb-12-4",
+    "pinyin": "Sha Ren",
+    "latin": "Amomi Fructus",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Promotes Qi movement, transforms turbid damp · 2) Prevents Shu Di from stagnating · 3) Morning sickness; calms fetus",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Calms fetus. Prevents Shu Di Huang from stagnating. Transforms turbid damp."
+  },
+  {
+    "id": "herb-12-5",
+    "pinyin": "Bai Dou Kou",
+    "latin": "Amomi Fructus Rotundus",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Warms MJ, promotes Qi movement · 2) Disseminates Lung Qi · 3) Abdominal pain, diarrhea, vomiting",
+    "contraindication": "Yin deficiency",
+    "boardPearl": "Moves Qi more strongly than Cao Dou Kou. Also disseminates Lung Qi."
+  },
+  {
+    "id": "herb-12-6",
+    "pinyin": "Cao Dou Kou",
+    "latin": "Alpiniae Katsumadai Semen",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Strongly dries turbid dampness · 2) Warms MJ, transforms dampness · 3) Nausea, vomiting",
+    "contraindication": "Yin deficiency",
+    "boardPearl": "Warmer and better at drying turbid damp than Bai Dou Kou. Strongly disperses cold, treats malarial disorders."
+  },
+  {
+    "id": "herb-12-7",
+    "pinyin": "Cao Guo",
+    "latin": "Tsaoko Fructus",
+    "category": "Aromatics that Transform Dampness",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Promotes Qi movement, transforms dampness · 2) Malarial disorder · 3) Abdominal pain, diarrhea, vomiting",
+    "contraindication": "Yin/Blood deficiency",
+    "boardPearl": "Malarial disorder. Dry fry with ginger for odor."
+  },
+  {
+    "id": "herb-13-1",
+    "pinyin": "Shan Zha",
+    "latin": "Crataegi Fructus",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sour, Sweet",
+    "channels": [
+      "SP",
+      "ST",
+      "LV"
+    ],
+    "indications": "1) Relieves food stagnation from MEAT and greasy foods · 2) Transforms blood stasis · 3) Dissipates clumps",
+    "contraindication": "SP/ST deficiency without food stagnation",
+    "boardPearl": "Hawthorn fruit. Charred for stopping diarrhea. Also transforms blood stasis and dissipates clumps."
+  },
+  {
+    "id": "herb-13-2",
+    "pinyin": "Shen Qu",
+    "latin": "Massa Medicata Fermentata",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Acrid",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Alcohol, fatty foods, grains, starches · 2) Promotes digestion, alleviates food stagnation · 3) Can reduce lactation",
+    "contraindication": "Contains gluten; caution with nursing mothers",
+    "boardPearl": "Fermented medicinal dough. Contains gluten. Can reduce lactation (30–120g)."
+  },
+  {
+    "id": "herb-13-3",
+    "pinyin": "Mai Ya",
+    "latin": "Hordei Fructus Germinatus",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "ST",
+      "LV"
+    ],
+    "indications": "1) Cold, starchy food stagnation · 2) Bloating and indigestion (also in infants) · 3) Stops lactation (30–120g)",
+    "contraindication": "Caution with nursing mothers (stops lactation)",
+    "boardPearl": "Germinated barley. Can stop lactation at 30–120g."
+  },
+  {
+    "id": "herb-13-4",
+    "pinyin": "Gu Ya",
+    "latin": "Setariae (Oryzae) Fructus Germinatus",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Starchy food stagnation · 2) Dampness in digestive system · 3) Gentler action than Mai Ya",
+    "contraindication": "Caution with nursing mothers",
+    "boardPearl": "Germinated rice. Gentler than Mai Ya for starchy foods."
+  },
+  {
+    "id": "herb-13-5",
+    "pinyin": "Lai Fu Zi",
+    "latin": "Raphani Semen",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "LU"
+    ],
+    "indications": "1) Food stagnation from greasy/rich foods · 2) Directs LU Qi down — cough and phlegm · 3) Recently used for hypertension",
+    "contraindication": "Qi deficiency without stagnation",
+    "boardPearl": "Radish seed. Also directs Lung Qi down for cough and phlegm. Recently used for hypertension."
+  },
+  {
+    "id": "herb-13-6",
+    "pinyin": "Ji Nei Jin",
+    "latin": "Gigeriae Galli Endothelium Corneum",
+    "category": "Relieve Food Stagnation",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "ST",
+      "SI",
+      "UB"
+    ],
+    "indications": "1) Food stagnation from digestive energy deficiency · 2) Dissolves stones (kidney/gallbladder) · 3) Secures essence",
+    "contraindication": "None significant noted",
+    "boardPearl": "Chicken gizzard lining. Dissolves stones. Secures essence."
+  },
+  {
+    "id": "herb-14-1",
+    "pinyin": "Chen Pi",
+    "latin": "Citri Reticulatae Pericarpium",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter, Aromatic",
+    "channels": [
+      "SP",
+      "LU"
+    ],
+    "indications": "1) Regulates Qi, improves digestion · 2) Dries dampness, transforms phlegm · 3) Prevents cloying herbs from creating stagnation",
+    "contraindication": "Can cause vacuity of Qi and Yin",
+    "boardPearl": "Dried tangerine peel. Warm, aromatic, improves SP transportation. Prevents cloying herbs from stagnating. Don't decoct >20 min. The older the peel, the better quality (aged tangerine peel is prized)."
+  },
+  {
+    "id": "herb-14-2",
+    "pinyin": "Qing Pi",
+    "latin": "Citri Reticulatae Viride Pericarpium",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "LV",
+      "GB",
+      "ST"
+    ],
+    "indications": "1) Most strongly regulates Qi of the LIVER · 2) Breaks up clumps · 3) Food stagnation",
+    "contraindication": "Qi deficiency",
+    "boardPearl": "Green tangerine peel. Most strongly regulates LV Qi. Breaks up clumps."
+  },
+  {
+    "id": "herb-14-3",
+    "pinyin": "Zhi Shi",
+    "latin": "Aurantii Fructus Immaturus",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Relieves distension/fullness in chest/abdomen · 2) Chest obstruction · 3) Promotes bowel movement; transforms phlegm",
+    "contraindication": "Pregnancy; SP/ST deficiency",
+    "boardPearl": "Immature bitter orange. Dui Yao with Zhi Ke. Chest obstruction. Transforms phlegm."
+  },
+  {
+    "id": "herb-14-4",
+    "pinyin": "Xiang Fu",
+    "latin": "Cyperi Rhizoma",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Acrid, Slightly Bitter, Sweet",
+    "channels": [
+      "LV",
+      "GB",
+      "SJ"
+    ],
+    "indications": "1) Liver Qi stagnation · 2) Promotes menstruation · 3) Moves Qi within blood through 12 channels",
+    "contraindication": "Yin/Qi deficiency without stagnation",
+    "boardPearl": "Essential gynecological herb. LV, GB, SJ. Spreads LV Qi in ribs, menses, and 12 channels."
+  },
+  {
+    "id": "herb-14-5",
+    "pinyin": "Mu Xiang",
+    "latin": "Aucklandiae Radix",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "SP",
+      "ST",
+      "LI",
+      "GB"
+    ],
+    "indications": "1) Abdominal pain due to fullness · 2) Harmonizes intestines — diarrhea and tenesmus · 3) Strengthens Spleen, improves appetite",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Warm, acrid, and bitter — harmonizes intestines to treat diarrhea and tenesmus. Strengthens SP."
+  },
+  {
+    "id": "herb-14-6",
+    "pinyin": "Wu Yao",
+    "latin": "Linderae Radix",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LU",
+      "SP",
+      "KD",
+      "UB"
+    ],
+    "indications": "1) Moves Qi, stops pain, warms KD · 2) Rebel Qi with pathogenic cold · 3) Urinary frequency/incontinence (warms KD); trunkal pain",
+    "contraindication": "Qi/Yin deficiency with heat",
+    "boardPearl": "Moves Qi, stops pain, warms KD to disperse cold. Urinary frequency/incontinence."
+  },
+  {
+    "id": "herb-14-7",
+    "pinyin": "Chen Xiang",
+    "latin": "Aquilariae Lignum Resinatum",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "SP",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Warms KD — best for deficient cold in lower jiao · 2) KD failure to grasp Qi · 3) Regulates Qi, relieves pain",
+    "contraindication": "Yin deficiency with fire",
+    "boardPearl": "Agarwood. Best for deficient cold in lower jiao and KD failure to grasp Qi."
+  },
+  {
+    "id": "herb-14-8",
+    "pinyin": "Chuan Lian Zi",
+    "latin": "Toosendan Fructus",
+    "category": "Regulate Qi",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "LV",
+      "ST",
+      "SI",
+      "UB"
+    ],
+    "indications": "1) Moves LV Qi · 2) Clears Damp-Heat, kills parasites · 3) Guides heat out through urine",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "COLD nature (unusual for Regulate Qi). Clears Damp-Heat and kills parasites. Treats skin disease."
+  },
+  {
+    "id": "herb-15A-1",
+    "pinyin": "San Qi",
+    "latin": "Notoginseng Radix",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Slightly Bitter",
+    "channels": [
+      "LV",
+      "ST"
+    ],
+    "indications": "1) #1 for traumatic injury · 2) Stops bleeding WITHOUT causing stasis · 3) Stops pain, relieves swelling",
+    "contraindication": "Caution in pregnancy",
+    "boardPearl": "Also known as Tian Qi. Stops bleeding without causing stasis. Topical powders/pastes."
+  },
+  {
+    "id": "herb-15A-2",
+    "pinyin": "Pu Huang",
+    "latin": "Typhae Pollen",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "LV",
+      "PC"
+    ],
+    "indications": "1) Stops bleeding (nose/lungs) · 2) Astringent properties · 3) Uterine contraction; promotes urination",
+    "contraindication": "Caution in pregnancy",
+    "boardPearl": "Uterine contraction. Tonifies SP, promotes urination."
+  },
+  {
+    "id": "herb-15A-3",
+    "pinyin": "Di Yu",
+    "latin": "Sanguisorbae Radix",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Sour",
+    "channels": [
+      "LV",
+      "LI"
+    ],
+    "indications": "1) Heavy menstrual bleeding · 2) Descends and retains hot blood (sourness) · 3) Topical for boils and sores",
+    "contraindication": "Large-area burns (can cause hepatotoxicity)",
+    "boardPearl": "Descends and retains hot blood due to sourness."
+  },
+  {
+    "id": "herb-15A-4",
+    "pinyin": "Bai Mao Gen",
+    "latin": "Imperatae Rhizoma",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST",
+      "UB"
+    ],
+    "indications": "1) Stops bleeding (LU, urinary tract) · 2) Promotes urination, cools blood · 3) Not cloying",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Not cloying. Stops bleeding cough (with Ce Bai Ye)."
+  },
+  {
+    "id": "herb-15A-5",
+    "pinyin": "Xian He Cao",
+    "latin": "Agrimoniae Herba",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Bitter, Astringent",
+    "channels": [
+      "LU",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Stops bleeding (bitter & astringent) · 2) Relieves diarrhea · 3) Kills parasites",
+    "contraindication": "Caution with blood stasis",
+    "boardPearl": "Bitter and astringent — stops bleeding, relieves diarrhea, kills parasites."
+  },
+  {
+    "id": "herb-15A-6",
+    "pinyin": "Ai Ye",
+    "latin": "Artemisiae Argyi Folium",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Acrid",
+    "channels": [
+      "SP",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Warms womb, calms the fetus (#1 in category) · 2) Menstrual disorders and bleeding · 3) Stops itching",
+    "contraindication": "Heat in the blood",
+    "boardPearl": "Mugwort. Best choice in Stop Bleeding for calming the fetus. Warms womb. Stops itching."
+  },
+  {
+    "id": "herb-15A-7",
+    "pinyin": "Ce Bai Ye",
+    "latin": "Platycladi Cacumen",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Astringent",
+    "channels": [
+      "LU",
+      "LV",
+      "LI"
+    ],
+    "indications": "1) #1 for bleeding cough · 2) Stops bleeding from wounds (topical) · 3) Promotes hair growth",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "#1 for bleeding cough. Promotes hair growth."
+  },
+  {
+    "id": "herb-15A-8",
+    "pinyin": "Bai Ji",
+    "latin": "Bletillae Rhizoma",
+    "category": "Regulate Blood — Stop Bleeding",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Sweet, Astringent",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Stops bleeding (heavy menstrual, traumatic) · 2) Generates flesh · 3) Promotes blood circulation",
+    "contraindication": "External pathogen; early-stage sores",
+    "boardPearl": "Only herb in Stop Bleeding category that does NOT go to Liver. Generates flesh."
+  },
+  {
+    "id": "herb-15B-1",
+    "pinyin": "Chuan Xiong",
+    "latin": "Chuanxiong Rhizoma",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "PC",
+      "GB",
+      "LV"
+    ],
+    "indications": "1) Moves Qi within blood below, expels wind above · 2) Headache (all types) · 3) Menstrual disorders, traumatic injuries",
+    "contraindication": "Pregnancy; Yin deficiency with heat",
+    "boardPearl": "Moves Qi within blood below, expels wind above. #1 for headaches."
+  },
+  {
+    "id": "herb-15B-2",
+    "pinyin": "Dan Shen",
+    "latin": "Salviae Miltiorrhizae Radix",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "PC",
+      "LV"
+    ],
+    "indications": "1) Invigorates blood, breaks stasis (Fire and Jue Yin) · 2) Calms irritability, calms spirit · 3) Gynecological; cardiovascular (angina)",
+    "contraindication": "Pregnancy; no blood stasis",
+    "boardPearl": "Bitter, slightly cold — enters HT, PC, LV. Centered in chest, LV, PC, HT. Calms irritability."
+  },
+  {
+    "id": "herb-15B-3",
+    "pinyin": "Chi Shao",
+    "latin": "Paeoniae Radix Rubra",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Cold",
+    "taste": "Sour, Bitter",
+    "channels": [
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Promotes blood circulation, removes stasis · 2) Cools heat, transforms stasis · 3) Liver disorders (sour → LV affinity)",
+    "contraindication": "Pregnancy; blood deficiency without stasis",
+    "boardPearl": "Sour leads to liver affinity. Transforms stasis, cools heat, stops pain."
+  },
+  {
+    "id": "herb-15B-4",
+    "pinyin": "Tao Ren",
+    "latin": "Persicae Semen",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "HT",
+      "LV",
+      "LI",
+      "LU"
+    ],
+    "indications": "1) Invigorates blood, dissolves stasis · 2) Amenorrhea, dysmenorrhea · 3) Moistens intestines (downward)",
+    "contraindication": "Pregnancy",
+    "boardPearl": "Dui Yao with Hong Hua for amenorrhea and dysmenorrhea. Downward direction."
+  },
+  {
+    "id": "herb-15B-5",
+    "pinyin": "Hong Hua",
+    "latin": "Carthami Flos",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Unblocks menstruation · 2) Promotes blood circulation, removes stasis · 3) Skin disorders (lightweight)",
+    "contraindication": "Pregnancy",
+    "boardPearl": "Lightweight — treats skin disorders. Dui Yao with Tao Ren. Unblocks menstruation."
+  },
+  {
+    "id": "herb-15B-6",
+    "pinyin": "Yan Hu Suo",
+    "latin": "Corydalis Rhizoma",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) #1 analgesic — pain relief · 2) Invigorates blood · 3) Menstrual disorders",
+    "contraindication": "Pregnancy",
+    "boardPearl": "Known for analgesic properties. #1 for pain relief in this category."
+  },
+  {
+    "id": "herb-15B-7",
+    "pinyin": "Yu Jin",
+    "latin": "Curcumae Radix",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "HT",
+      "LU",
+      "LV"
+    ],
+    "indications": "1) Invigorates blood, cools blood · 2) Jaundice · 3) Liver problems, traumatic injuries",
+    "contraindication": "Pregnancy; contra with Ding Xiang",
+    "boardPearl": "Acrid, bitter, cold. Cools blood. Jaundice."
+  },
+  {
+    "id": "herb-15B-8",
+    "pinyin": "Yi Mu Cao",
+    "latin": "Leonuri Herba",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "UB"
+    ],
+    "indications": "1) Breaks blood stasis for gynecological issues · 2) Regulates menstruation · 3) Postpartum abdominal pain",
+    "contraindication": "Pregnancy",
+    "boardPearl": "Moves blood WITHOUT further depleting blood (along with Ze Lan)."
+  },
+  {
+    "id": "herb-15B-9",
+    "pinyin": "Niu Xi",
+    "latin": "Achyranthis Bidentatae Radix",
+    "category": "Regulate Blood — Invigorate Blood",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Bitter, Sour",
+    "channels": [
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Back pain, traumatic injuries · 2) Menstrual disorders · 3) Tonifies KD; strengthens sinews/bones (prepared)",
+    "contraindication": "Pregnancy; excessive menstrual bleeding",
+    "boardPearl": "Unprepared = breaks blood. Prepared = tonifies LV/KD, strengthens sinews and bones."
+  },
+  {
+    "id": "herb-16-1",
+    "pinyin": "Zhi Fu Zi",
+    "latin": "Aconiti Radix Lateralis Preparata",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "HOT",
+    "taste": "Acrid",
+    "channels": [
+      "HT",
+      "KD",
+      "SP"
+    ],
+    "indications": "1) Rescues devastated Yang · 2) Tonifies fire at gate of vitality (KD Yang) · 3) Disperses cold, warms channels, alleviates pain",
+    "contraindication": "TOXIC — contra in pregnancy, Yin deficiency, excess Yang",
+    "boardPearl": "Pure Yang. Fast, penetrating — goes to ALL channels. Rescues devastated Yang. Aids HT yang above and KD yang below. Antidote: Lu Dou. 18 Incompatibilities: incompatible with Ban Xia, Gua Lou, Bei Mu, Bai Lian, Bai Ji."
+  },
+  {
+    "id": "herb-16-2",
+    "pinyin": "Gan Jiang",
+    "latin": "Zingiberis Rhizoma",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "Hot",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "KD",
+      "HT",
+      "LU"
+    ],
+    "indications": "1) Warms Middle Jiao, expels cold · 2) Rescues Yang (with Zhi Fu Zi) · 3) Warms LU, transforms thin mucus; stops bleeding",
+    "contraindication": "Yin deficiency with heat; pregnancy",
+    "boardPearl": "Dried ginger. Less dispersing than Sheng Jiang, more effective at warming middle. Longer-lasting; best for Yang deficiency cold of SP/ST."
+  },
+  {
+    "id": "herb-16-3",
+    "pinyin": "Rou Gui",
+    "latin": "Cinnamomi Cortex",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "Hot",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "HT",
+      "KD",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Leads fire back to source (true cold, false heat) · 2) Fortifies Yang, warms KD Yang · 3) Disperses deep cold; cold in uterus; Bi joint pain",
+    "contraindication": "Yin deficiency with heat; pregnancy",
+    "boardPearl": "Cinnamon bark. Leads fire back to source — principle herb for TRUE COLD, FALSE HEAT. More strongly warms KD Yang than Zhi Fu Zi."
+  },
+  {
+    "id": "herb-16-4",
+    "pinyin": "Wu Zhu Yu",
+    "latin": "Evodiae Fructus",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "Hot",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "LV",
+      "SP",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Warms MJ, disperses cold, moves Qi, stops pain · 2) Stops vomiting due to cold · 3) Redirects rebellious Qi downward; leads fire downward",
+    "contraindication": "Yin deficiency; pregnancy",
+    "boardPearl": "Stops vomiting due to cold. Warms SP, stops diarrhea. Leads fire downwards."
+  },
+  {
+    "id": "herb-16-5",
+    "pinyin": "Xiao Hui Xiang",
+    "latin": "Foeniculi Fructus",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "LV",
+      "KD",
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Disperses cold, warms LV/KD, stops pain · 2) Regulates Qi, harmonizes ST · 3) Bulging disorders",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Fennel. Disperses cold, warms LV and KD, stops pain. Regulates Qi in LV channel — bulging disorders."
+  },
+  {
+    "id": "herb-16-6",
+    "pinyin": "Ding Xiang",
+    "latin": "Caryophylli Flos",
+    "category": "Warm the Interior & Expel Cold",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "KD"
+    ],
+    "indications": "1) Warms MJ/LJ, improves digestion · 2) Directs Qi downward to stop hiccup · 3) Assists KD Yang (impotence)",
+    "contraindication": "Yin deficiency with heat; contra with Yu Jin",
+    "boardPearl": "Cloves. Directs Qi downward — stops hiccup. Assists KD Yang for impotence."
+  },
+  {
+    "id": "herb-17-1",
+    "pinyin": "Ren Shen",
+    "latin": "Ginseng Radix",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Sweet, Slightly Bitter",
+    "channels": [
+      "SP",
+      "LU",
+      "HT"
+    ],
+    "indications": "1) Tonifies PRIMAL Qi (most potent) · 2) Generates fluids, calms spirit · 3) Revives collapse; generates and controls blood",
+    "contraindication": "Excess heat; contra with Li Lu",
+    "boardPearl": "VERY FAST-ACTING. Most potent Qi tonic. Only herb that tonifies Primal Qi. Generates fluids directly."
+  },
+  {
+    "id": "herb-17-2",
+    "pinyin": "Dang Shen",
+    "latin": "Codonopsis Radix",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "LU"
+    ],
+    "indications": "1) Tonifies Qi (SP/LU focused) · 2) Fatigue, poor digestion, chronic diarrhea · 3) Affordable alternative to Ren Shen",
+    "contraindication": "Excess conditions",
+    "boardPearl": "Does NOT directly generate fluids like Ren Shen. More focused on SP/LU. Affordable alternative."
+  },
+  {
+    "id": "herb-17-3",
+    "pinyin": "Tai Zi Shen",
+    "latin": "Pseudostellariae Radix",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Slightly Bitter",
+    "channels": [
+      "SP",
+      "LU"
+    ],
+    "indications": "1) Tonifies Qi weakly · 2) Nourishes Yin, generates fluid · 3) Fatigue, shortness of breath, poor appetite",
+    "contraindication": "Not for severe deficiency",
+    "boardPearl": "Weak Qi tonic — for mild deficiency. Also nourishes Yin."
+  },
+  {
+    "id": "herb-17-4",
+    "pinyin": "Huang Qi",
+    "latin": "Astragali Radix",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "LU"
+    ],
+    "indications": "1) Tonifies Qi (SP/LU), raises Yang · 2) Stabilizes exterior, stops sweat · 3) Facilitates urination; promotes healing",
+    "contraindication": "Excess exterior conditions; Yin deficiency with heat",
+    "boardPearl": "Raises Yang. Stabilizes exterior (with Bai Zhu). Stops sweat. Facilitates urination."
+  },
+  {
+    "id": "herb-17-5",
+    "pinyin": "Bai Zhu",
+    "latin": "Atractylodis Macrocephalae Rhizoma",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Bitter, Sweet",
+    "channels": [
+      "SP",
+      "ST"
+    ],
+    "indications": "1) Tonifies SP Qi · 2) Dries damp · 3) Calms fetus",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Dries damp. Calms fetus. Stabilizes exterior with Huang Qi."
+  },
+  {
+    "id": "herb-17-6",
+    "pinyin": "Gan Cao",
+    "latin": "Glycyrrhizae Radix",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Neutral (unprepared) / Warm (dry-fried)",
+    "taste": "Sweet",
+    "channels": [
+      "ALL 12 channels"
+    ],
+    "indications": "1) Universal envoy — harmonizes, moderates toxicity · 2) Moistens lungs, stops cough · 3) Moderates spasms; unprepared drains fire, prepared tonifies SP Qi",
+    "contraindication": "Excess damp; contra with Hai Zao, Da Ji, Yuan Hua, Gan Sui",
+    "boardPearl": "Enters ALL 12 channels. Universal envoy. Unprepared = drains fire. Prepared (honey-fried) = tonifies SP Qi. Chief in palpitations formula."
+  },
+  {
+    "id": "herb-17-7",
+    "pinyin": "Shan Yao",
+    "latin": "Dioscoreae Rhizoma",
+    "category": "Tonify Qi",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "SP",
+      "LU",
+      "KD"
+    ],
+    "indications": "1) Tonifies Qi and nourishes Yin (SP/LU) · 2) Diarrhea, frequent urination · 3) Mild astringent",
+    "contraindication": "Excess damp",
+    "boardPearl": ""
+  },
+  {
+    "id": "herb-17B-1",
+    "pinyin": "Dang Gui",
+    "latin": "Angelicae Sinensis Radix",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Acrid, Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) #1 herb for tonifying and invigorating blood · 2) Regulates menstruation, alleviates pain · 3) Moistens intestines, unblocks bowels",
+    "contraindication": "Caution with diarrhea from SP deficiency; excess dampness",
+    "boardPearl": "Head (Gui Tou) = stops bleeding; Body (Gui Shen) = tonifies blood; Tail (Gui Wei) = invigorates/breaks blood. Whole herb = harmonizes blood. Key herb in Si Wu Tang. Dui Yao with Huang Qi (Dang Gui Bu Xue Tang) — tonifies Qi to generate blood."
+  },
+  {
+    "id": "herb-17B-2",
+    "pinyin": "Shu Di Huang",
+    "latin": "Rehmanniae Radix Preparata",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies blood (key herb) · 2) Nourishes Yin, fills essence (Jing) · 3) Treats LV/KD deficiency — dizziness, tinnitus, premature graying",
+    "contraindication": "Very cloying — can cause bloating, loose stools, poor appetite",
+    "boardPearl": "Extremely cloying — combine with Qi-movers like Sha Ren or Chen Pi to prevent stagnation. Key herb in Si Wu Tang and Liu Wei Di Huang Wan. Prepared from Sheng Di Huang via wine-steaming."
+  },
+  {
+    "id": "herb-17B-3",
+    "pinyin": "Bai Shao",
+    "latin": "Paeoniae Radix Alba",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Bitter, Sour",
+    "channels": [
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Nourishes blood, regulates menstruation · 2) Calms LV Yang, alleviates pain (flanks, abdomen, limbs) · 3) Preserves Yin, adjusts Ying and Wei; stops sweating",
+    "contraindication": "Yang deficiency cold; contra with Li Lu (19 Fears)",
+    "boardPearl": "Restrains Yin — astringes Yin to stop sweating. Softens the LV. Dui Yao with Chai Hu for LV Qi stagnation (one spreads, one restrains). Dui Yao with Gui Zhi for harmonizing Ying/Wei. Sour + Gan Cao (sweet) = relaxes spasms."
+  },
+  {
+    "id": "herb-17B-4",
+    "pinyin": "He Shou Wu",
+    "latin": "Polygoni Multiflori Radix",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm (prepared) / Neutral (unprepared)",
+    "taste": "Bitter, Sweet, Astringent",
+    "channels": [
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Tonifies LV/KD, nourishes blood/essence — premature graying, dizziness · 2) Treats malaria (unprepared) · 3) Moistens intestines (unprepared); secures essence",
+    "contraindication": "SP deficiency with damp or diarrhea; hepatotoxicity risk with prolonged use",
+    "boardPearl": "PREPARED (Zhi He Shou Wu) = tonifies LV/KD, nourishes blood, darkens hair. UNPREPARED (Sheng He Shou Wu) = treats malaria, moistens intestines, resolves toxicity. Two completely different uses based on preparation!"
+  },
+  {
+    "id": "herb-17B-5",
+    "pinyin": "E Jiao",
+    "latin": "Asini Corii Colla",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "LV",
+      "KD"
+    ],
+    "indications": "1) Tonifies blood, stops bleeding · 2) Nourishes Yin, moistens dryness (esp. LU) · 3) Calms fetus for bleeding during pregnancy",
+    "contraindication": "Very cloying — SP deficiency with damp; impairs digestion",
+    "boardPearl": "Donkey-hide gelatin. Must be dissolved separately (melted in strained decoction, not boiled with herbs). Stops bleeding and nourishes blood simultaneously. Key for Yin-deficiency dry cough."
+  },
+  {
+    "id": "herb-17B-6",
+    "pinyin": "Long Yan Rou",
+    "latin": "Longan Arillus",
+    "category": "Tonify Blood",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "SP"
+    ],
+    "indications": "1) Tonifies HT and SP blood · 2) Calms the spirit — insomnia, palpitations, poor memory · 3) Nourishes blood for pensiveness and worry",
+    "contraindication": "Phlegm-fire; Qi stagnation with dampness",
+    "boardPearl": "Longan fruit. Key herb in Gui Pi Tang for HT/SP blood deficiency with insomnia and anxiety. Sweet and warm — easily digested."
+  },
+  {
+    "id": "herb-17C-1",
+    "pinyin": "Lu Rong",
+    "latin": "Cervi Cornu Pantotrichum",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Salty",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies KD Yang, augments essence and blood · 2) Strengthens sinews and bones — developmental delays in children · 3) Regulates Chong and Ren Mai — infertility, impotence",
+    "contraindication": "Yin deficiency with heat signs; excess heat; hypertension",
+    "boardPearl": "Deer antler velvet. Tonifies Du Mai. Most powerful to tonify KD Yang and essence (Jing). Start with small dose, increase gradually. Grind to powder — do not decoct."
+  },
+  {
+    "id": "herb-17C-2",
+    "pinyin": "Yin Yang Huo (Xian Ling Pi)",
+    "latin": "Epimedii Herba",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies KD Yang — impotence, infertility, frequent urination · 2) Dispels Wind-Cold-Damp Bi · 3) Strengthens sinews and bones",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "\"Horny goat weed\" — legend says goats eating it became sexually hyperactive. Warms KD, strengthens Yang, AND treats Bi syndrome. Dual action herb."
+  },
+  {
+    "id": "herb-17C-3",
+    "pinyin": "Du Zhong",
+    "latin": "Eucommiae Cortex",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies LV/KD — lower back pain, knee weakness · 2) Strengthens sinews and bones · 3) Calms the fetus — prevents miscarriage",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Key herb for lower back pain from KD deficiency. Calms fetus. Also lowers blood pressure. Bark has characteristic rubber-like threads when broken. Dui Yao with Xu Duan for back pain and restless fetus."
+  },
+  {
+    "id": "herb-17C-4",
+    "pinyin": "Xu Duan",
+    "latin": "Dipsaci Radix",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Bitter, Acrid, Sweet",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies LV/KD — lower back, knee pain · 2) Mends sinews and bones — traumatic injury, fractures · 3) Calms fetus; stops uterine bleeding",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Name literally means \"restore what is broken.\" Promotes blood circulation to mend bones. Dui Yao with Du Zhong for back pain and restless fetus. Also invigorates blood to promote healing of fractures."
+  },
+  {
+    "id": "herb-17C-5",
+    "pinyin": "Ba Ji Tian",
+    "latin": "Morindae Officinalis Radix",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Acrid, Sweet",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Tonifies KD Yang — impotence, infertility, frequent urination · 2) Strengthens sinews and bones · 3) Dispels Wind-Cold-Damp (Bi syndrome)",
+    "contraindication": "Yin deficiency with heat; damp-heat",
+    "boardPearl": "Warms KD without being overly drying. Good for patients who need KD Yang support but can't tolerate excessively hot herbs."
+  },
+  {
+    "id": "herb-17C-6",
+    "pinyin": "Bu Gu Zhi",
+    "latin": "Psoraleae Fructus",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "KD",
+      "SP"
+    ],
+    "indications": "1) Tonifies KD Yang, secures essence — impotence, enuresis, incontinence · 2) Warms SP Yang — \"5th watch\" (cock-crow) diarrhea · 3) Assists KD to grasp LU Qi — wheezing",
+    "contraindication": "Yin deficiency with heat; constipation",
+    "boardPearl": "Classic herb for dawn/cock-crow diarrhea (SP/KD Yang deficiency). Dui Yao with Rou Dou Kou in Si Shen Wan for dawn diarrhea. Also used topically for vitiligo."
+  },
+  {
+    "id": "herb-17C-7",
+    "pinyin": "Dong Chong Xia Cao",
+    "latin": "Cordyceps",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet",
+    "channels": [
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Tonifies KD Yang AND LU Yin simultaneously · 2) Augments essence, strengthens Jing · 3) Transforms phlegm, stops cough and bleeding",
+    "contraindication": "Exterior pathogen",
+    "boardPearl": "\"Winter worm, summer grass\" — caterpillar fungus. Unique: tonifies BOTH KD Yang and LU Yin without being cloying or drying. Gentle, balanced tonic suitable for chronic deficiency. Very expensive."
+  },
+  {
+    "id": "herb-17C-8",
+    "pinyin": "Tu Si Zi",
+    "latin": "Cuscutae Semen",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Acrid",
+    "channels": [
+      "KD",
+      "LV",
+      "SP"
+    ],
+    "indications": "1) Tonifies KD/LV — secures essence, stops enuresis · 2) Benefits eyes — blurred vision from LV/KD deficiency · 3) Calms fetus; prevents miscarriage",
+    "contraindication": "Yin deficiency with fire; constipation; dark scanty urine",
+    "boardPearl": "Dodder seed. Tonifies without being cloying. Nourishes Yin AND Yang — balanced tonic. Also strengthens SP to stop diarrhea. Must be placed in cheesecloth/gauze prior to decocting."
+  },
+  {
+    "id": "herb-17C-9",
+    "pinyin": "Zi He Che",
+    "latin": "Hominis Placenta",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sweet, Salty",
+    "channels": [
+      "HT",
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Tonifies LV/KD — augments essence (Jing) and blood · 2) Tonifies KD Yang and LU Qi simultaneously · 3) Chronic cough/wheezing from LU/KD deficiency",
+    "contraindication": "Yin deficiency with heat; pathogenic excess",
+    "boardPearl": "Human placenta. Considered the BEST substance to tonify Jing (essence). Tonifies Qi, blood, and essence simultaneously — addresses all aspects of deficiency. Rare/expensive; ethical considerations."
+  },
+  {
+    "id": "herb-17C-10",
+    "pinyin": "Ge Jie",
+    "latin": "Gecko",
+    "category": "Tonify Yang",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Salty",
+    "channels": [
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Tonifies LU Qi and KD Yang · 2) Assists KD to grasp Qi — chronic asthma/wheezing · 3) Augments essence, tonifies blood",
+    "contraindication": "Wind-Cold or phlegm-heat excess cough",
+    "boardPearl": "Gecko lizard. Excellent for chronic wheezing/dyspnea from KD failing to grasp LU Qi. Augments essence for impotence. Often ground to powder and taken in wine."
+  },
+  {
+    "id": "herb-17D-1",
+    "pinyin": "Bei Sha Shen",
+    "latin": "Glehniae Radix",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Slightly Bitter",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Nourishes LU Yin, clears LU heat · 2) Nourishes ST Yin, generates fluids · 3) Dry cough with little sputum",
+    "contraindication": "Wind-Cold cough; contra with Li Lu",
+    "boardPearl": "Bei Sha Shen vs Nan Sha Shen: Bei = better for nourishing Yin (more moistening); Nan = also expels phlegm (more dispersing). Bei enters LU/ST; Nan enters LU/ST. Bei is from Glehniae; Nan from Adenophorae."
+  },
+  {
+    "id": "herb-17D-2",
+    "pinyin": "Nan Sha Shen",
+    "latin": "Adenophorae Radix",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Nourishes LU Yin, clears LU heat · 2) Expels phlegm (unlike Bei Sha Shen) · 3) Tonifies SP Qi",
+    "contraindication": "Wind-Cold cough; contra with Li Lu",
+    "boardPearl": "Similar to Bei Sha Shen but with added ability to expel phlegm and mildly tonify Qi. Bei = pure Yin nourishing; Nan = Yin nourishing + phlegm-expelling + Qi-tonifying."
+  },
+  {
+    "id": "herb-17D-3",
+    "pinyin": "Mai Men Dong",
+    "latin": "Ophiopogonis Radix",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Slightly Bitter",
+    "channels": [
+      "HT",
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Moistens LU, nourishes Yin — dry cough, hemoptysis · 2) Nourishes ST Yin, generates fluids · 3) Clears HT, eliminates irritability — insomnia",
+    "contraindication": "SP deficiency with damp; diarrhea; wind-cold cough",
+    "boardPearl": "Dui Yao with Tian Men Dong for LU Yin deficiency. Mai Men Dong is gentler and also nourishes HT/ST. In Sheng Mai San with Ren Shen + Wu Wei Zi."
+  },
+  {
+    "id": "herb-17D-4",
+    "pinyin": "Tian Men Dong",
+    "latin": "Asparagi Radix",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Nourishes KD Yin, clears LU heat · 2) Moistens LU, generates fluids — dry cough from Yin deficiency · 3) Generates fluids, moistens intestines",
+    "contraindication": "SP deficiency with damp; diarrhea; wind-cold cough",
+    "boardPearl": "Stronger and colder than Mai Men Dong. Goes deeper — enters KD (Mai Men Dong enters HT). Better for KD Yin deficiency with LU involvement. Mai Men Dong = HT/LU/ST; Tian Men Dong = KD/LU."
+  },
+  {
+    "id": "herb-17D-5",
+    "pinyin": "Shi Hu",
+    "latin": "Dendrobii Herba",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Bland",
+    "channels": [
+      "KD",
+      "ST"
+    ],
+    "indications": "1) Nourishes ST Yin, generates fluids — thirst, dry mouth · 2) Nourishes KD Yin — lower back pain, weakness · 3) Brightens eyes, strengthens lower back",
+    "contraindication": "Damp-warmth not yet resolved; early-stage febrile disease",
+    "boardPearl": "Orchid stem. Especially effective for nourishing ST Yin and generating fluids. Also brightens eyes from KD/LV Yin deficiency."
+  },
+  {
+    "id": "herb-17D-6",
+    "pinyin": "Yu Zhu",
+    "latin": "Polygonati Odorati Rhizoma",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Cold",
+    "taste": "Sweet",
+    "channels": [
+      "LU",
+      "ST"
+    ],
+    "indications": "1) Moistens LU, nourishes ST — dry cough, dry throat · 2) Generates fluids, extinguishes wind — dizziness, irritability · 3) Nourishes Yin for externally-contracted Wind-Heat with Yin deficiency",
+    "contraindication": "Phlegm-damp; SP deficiency with damp",
+    "boardPearl": "Solomon's seal. Gentle Yin tonic — can be used even when exterior pathogen is present (unlike most Yin tonics). Nourishes without cloying."
+  },
+  {
+    "id": "herb-17D-7",
+    "pinyin": "Gou Qi Zi",
+    "latin": "Lycii Fructus",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "KD",
+      "LV",
+      "LU"
+    ],
+    "indications": "1) Nourishes LV/KD — dizziness, blurred vision, premature graying · 2) Brightens eyes · 3) Moistens LU — consumptive cough",
+    "contraindication": "SP deficiency with damp; excess heat",
+    "boardPearl": "Wolfberry / goji berry. Key herb in Qi Ju Di Huang Wan for eyes. Nourishes LV blood AND KD Yin — dual action. Gentle, commonly used as food therapy."
+  },
+  {
+    "id": "herb-17D-8",
+    "pinyin": "Nu Zhen Zi",
+    "latin": "Ligustri Lucidi Fructus",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet, Bitter",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Nourishes LV/KD Yin — dizziness, tinnitus, premature graying · 2) Clears deficiency heat · 3) Brightens eyes",
+    "contraindication": "SP deficiency with damp; Yang deficiency diarrhea",
+    "boardPearl": "Privet fruit. Dui Yao with Mo Han Lian (Han Lian Cao) in Er Zhi Wan — together nourish LV/KD Yin. Gentle Yin tonic — not cloying. Also darkens hair."
+  },
+  {
+    "id": "herb-17D-9",
+    "pinyin": "Mo Han Lian (Han Lian Cao)",
+    "latin": "Ecliptae Herba",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Sour",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Nourishes LV/KD Yin · 2) Cools blood, stops bleeding — hematemesis, epistaxis, hematuria · 3) Premature graying of hair",
+    "contraindication": "SP deficiency with damp; Yang deficiency",
+    "boardPearl": "Eclipta. Dui Yao with Nu Zhen Zi in Er Zhi Wan. Unique in Tonify Yin category: also stops bleeding (cools blood). Darkens hair."
+  },
+  {
+    "id": "herb-17D-10",
+    "pinyin": "Gui Ban",
+    "latin": "Testudinis Plastrum",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Sweet, Salty",
+    "channels": [
+      "HT",
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Nourishes Yin, anchors Yang — dizziness, tinnitus · 2) Benefits KD, strengthens bones — developmental delays · 3) Nourishes blood, enriches HT — palpitations, insomnia",
+    "contraindication": "SP deficiency with cold; pregnancy",
+    "boardPearl": "Tortoise plastron (ventral shell). Very heavy — anchors/settles. Strengthens bones in children with delayed development. Dui Yao with Bie Jia — Gui Ban is more for nourishing blood/anchoring Yang; Bie Jia is more for nourishing Yin/clearing deficiency heat. Must be decocted first (30+ min)."
+  },
+  {
+    "id": "herb-17D-11",
+    "pinyin": "Bie Jia",
+    "latin": "Trionycis Carapax",
+    "category": "Tonify Yin",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Nourishes Yin, subdues Yang — steaming bone disorder, night sweats · 2) Softens hardness, dissipates nodules — hepatosplenomegaly · 3) Invigorates blood",
+    "contraindication": "SP deficiency with cold; pregnancy",
+    "boardPearl": "Soft-shelled turtle shell (dorsal). Key for steaming bone disorder in Qing Gu San. Softens hardness for masses and nodules (hepatosplenomegaly). Bie Jia vs Gui Ban: Bie Jia = clears deficiency heat + softens hardness; Gui Ban = anchors Yang + strengthens bones. Must be decocted first (30+ min)."
+  },
+  {
+    "id": "herb-18-1",
+    "pinyin": "Wu Wei Zi",
+    "latin": "Schisandrae Fructus",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Sour, Sweet (contains all five flavors)",
+    "channels": [
+      "HT",
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Contains leakage of LU Qi — chronic cough, wheezing · 2) Tonifies KD, binds essence — spermatorrhea, urinary incontinence · 3) Generates fluids, stops sweating — spontaneous/night sweating",
+    "contraindication": "Exterior pathogen; excess interior heat",
+    "boardPearl": "\"Five Flavor Berry\" — sour (primary), sweet, bitter, acrid, salty. In Sheng Mai San with Ren Shen + Mai Men Dong. Inhibits sweating, secures essence, stops diarrhea, calms spirit. Enters all three treasures. Also treats insomnia and palpitations."
+  },
+  {
+    "id": "herb-18-2",
+    "pinyin": "Shan Zhu Yu",
+    "latin": "Corni Fructus",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Sour, Astringent",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Stabilizes KD, secures essence — spermatorrhea, enuresis · 2) Stops excessive sweating from devastated Yang/Yin · 3) Tonifies LV/KD — dizziness, tinnitus, lower back pain",
+    "contraindication": "Damp-heat dysuria; concurrent exterior pathogen",
+    "boardPearl": "Key herb in Liu Wei Di Huang Wan. Does NOT bind the intestines — important distinction! Can be used for sweating from devastated Yang (with Ren Shen, Zhi Fu Zi). Stabilizes but also mildly tonifies."
+  },
+  {
+    "id": "herb-18-3",
+    "pinyin": "Wu Mei",
+    "latin": "Mume Fructus",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sour, Astringent",
+    "channels": [
+      "LV",
+      "LU",
+      "SP",
+      "LI"
+    ],
+    "indications": "1) Expels roundworms — abdominal pain, vomiting (Wu Mei Wan) · 2) Generates fluids — thirst, dry mouth · 3) Stops chronic cough; stops chronic diarrhea; stops bleeding",
+    "contraindication": "Excess interior heat; early-stage dysentery/cough",
+    "boardPearl": "Smoked plum. #1 for roundworms — roundworms \"like sweet, avoid sour.\" Wu Mei Wan combines sour, bitter, acrid, sweet for parasites. Also generates fluids for deficiency thirst."
+  },
+  {
+    "id": "herb-18-4",
+    "pinyin": "Hai Piao Xiao",
+    "latin": "Sepiae Endoconcha",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Slightly Warm",
+    "taste": "Salty, Astringent",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Controls acidity — epigastric pain, acid reflux · 2) Stops bleeding — uterine/traumatic bleeding · 3) Secures essence, stops vaginal discharge",
+    "contraindication": "Yin deficiency with heat",
+    "boardPearl": "Cuttlefish bone. Controls acidity (like a natural antacid). Also used topically for non-healing ulcers/sores. Dui Yao with Qian Cao for uterine bleeding."
+  },
+  {
+    "id": "herb-18-5",
+    "pinyin": "Lian Zi",
+    "latin": "Nelumbinis Semen",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Astringent",
+    "channels": [
+      "HT",
+      "KD",
+      "SP"
+    ],
+    "indications": "1) Tonifies SP, stops diarrhea · 2) Tonifies KD, secures essence — spermatorrhea, vaginal discharge · 3) Nourishes HT, calms spirit — insomnia, palpitations",
+    "contraindication": "Constipation; abdominal distention",
+    "boardPearl": "Lotus seed. Enters HT, SP, KD — addresses all three. The plumule (Lian Zi Xin) is separately used to drain HT fire and is BITTER and COLD."
+  },
+  {
+    "id": "herb-18-6",
+    "pinyin": "Qian Shi",
+    "latin": "Euryales Semen",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Astringent",
+    "channels": [
+      "KD",
+      "SP"
+    ],
+    "indications": "1) Strengthens SP, stops diarrhea · 2) Secures KD essence — spermatorrhea, enuresis · 3) Expels dampness, stops vaginal discharge",
+    "contraindication": "Difficult urination; constipation",
+    "boardPearl": "Fox nut / Euryale seed. Similar to Lian Zi but stronger at expelling dampness and does NOT calm the spirit (no HT action). Dui Yao with Lian Zi for SP/KD deficiency."
+  },
+  {
+    "id": "herb-18-7",
+    "pinyin": "Fu Xiao Mai",
+    "latin": "Tritici Fructus Levis",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet",
+    "channels": [
+      "HT"
+    ],
+    "indications": "1) Inhibits sweating — spontaneous and night sweating · 2) Nourishes HT Qi · 3) Clears heat from deficiency",
+    "contraindication": "None significant",
+    "boardPearl": "Light wheat (floats in water). Key herb for stopping sweating. In Gan Mai Da Zao Tang (with Gan Cao + Da Zao) for restless organ disorder (Zang Zao)."
+  },
+  {
+    "id": "herb-18-8",
+    "pinyin": "Rou Dou Kou",
+    "latin": "Myristicae Semen",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid",
+    "channels": [
+      "SP",
+      "ST",
+      "LI"
+    ],
+    "indications": "1) Warms MJ, binds intestines — chronic diarrhea · 2) Moves Qi, warms SP Yang · 3) Dawn/cock-crow diarrhea (with Bu Gu Zhi)",
+    "contraindication": "Damp-heat diarrhea; excess conditions",
+    "boardPearl": "Nutmeg. Dui Yao with Bu Gu Zhi in Si Shen Wan for dawn (cock-crow) diarrhea from SP/KD Yang deficiency. Binds intestines more effectively when baked/roasted."
+  },
+  {
+    "id": "herb-18-9",
+    "pinyin": "Bai Guo",
+    "latin": "Ginkgo Semen",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Bitter, Astringent",
+    "channels": [
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Astringes LU — stops cough and wheezing · 2) Eliminates dampness — stops vaginal discharge · 3) Stabilizes lower jiao — stops urinary incontinence",
+    "contraindication": "SLIGHTLY TOXIC — limit dose; avoid raw/excess",
+    "boardPearl": "Ginkgo nut. Slightly toxic — must be cooked. Stops cough, stops wheezing, stops discharge, stops incontinence — multi-astringing. Cook before use; raw seeds are more toxic."
+  },
+  {
+    "id": "herb-18-10",
+    "pinyin": "Jin Ying Zi",
+    "latin": "Rosae Laevigatae Fructus",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sour, Astringent",
+    "channels": [
+      "KD",
+      "UB",
+      "LI"
+    ],
+    "indications": "1) Secures essence — spermatorrhea, enuresis · 2) Stops urinary incontinence · 3) Binds intestines — chronic diarrhea; stops vaginal discharge",
+    "contraindication": "Excess fire; early-stage illness",
+    "boardPearl": "Cherokee rosehip. Dui Yao with Qian Shi in Shui Lu Er Xian Dan — together secure essence and stop discharge."
+  },
+  {
+    "id": "herb-18-11",
+    "pinyin": "Chun Pi",
+    "latin": "Ailanthi Cortex",
+    "category": "Stabilize & Bind (Astringents)",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter, Astringent",
+    "channels": [
+      "LI",
+      "LV",
+      "ST"
+    ],
+    "indications": "1) Clears heat, dries damp — chronic diarrhea/dysentery · 2) Stops bleeding — uterine bleeding, hemorrhoids · 3) Stops vaginal discharge; kills parasites",
+    "contraindication": "SP/ST cold deficiency",
+    "boardPearl": "Tree of Heaven bark. Cold and bitter — used for damp-heat patterns (unlike most astringents which are warm). Dual action: binds AND clears damp-heat."
+  },
+  {
+    "id": "herb-19-1",
+    "pinyin": "Long Gu",
+    "latin": "Fossilia Ossis Mastodi",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Astringent",
+    "channels": [
+      "HT",
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Anchors and calms spirit — anxiety, palpitations, insomnia · 2) Calms LV, anchors floating Yang — irritability, dizziness · 3) Prevents leakage — sweating, spermatorrhea, vaginal discharge; generates flesh",
+    "contraindication": "Damp-heat; exterior pathogen",
+    "boardPearl": "Fossilized bone. Dui Yao with Mu Li — together anchor Yang, calm spirit, prevent leakage. Long Gu is better for calming spirit; Mu Li is better for softening hardness. Must be decocted first (30+ min). Calcined = stronger astringent."
+  },
+  {
+    "id": "herb-19-2",
+    "pinyin": "Mu Li",
+    "latin": "Ostreae Concha",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Salty, Astringent",
+    "channels": [
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Calms spirit, anchors floating Yang — irritability, insomnia · 2) Softens hardness, dissipates nodules — scrofula, goiter · 3) Absorbs acidity — epigastric pain; prevents leakage",
+    "contraindication": "Not for prolonged use in excess",
+    "boardPearl": "Oyster shell. Dui Yao with Long Gu. Unique: SOFTENS HARDNESS and dissipates nodules (Long Gu cannot). Also absorbs acidity (like Hai Piao Xiao). Must be decocted first (30+ min). Calcined = stronger astringent + antacid."
+  },
+  {
+    "id": "herb-19-3",
+    "pinyin": "Ci Shi",
+    "latin": "Magnetitum",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "HT",
+      "KD",
+      "LV"
+    ],
+    "indications": "1) Anchors and calms spirit — palpitations, tremors, insomnia · 2) Nourishes KD, augments LV — benefits eyes and ears · 3) Aids KD in grasping Qi — asthma from KD deficiency",
+    "contraindication": "SP/ST deficiency; excess use damages Qi",
+    "boardPearl": "Magnetite. Heavy mineral — settles and anchors. Benefits both eyes AND ears (through KD/LV connection). Must be decocted first (30+ min) and crushed."
+  },
+  {
+    "id": "herb-19-4",
+    "pinyin": "Suan Zao Ren",
+    "latin": "Ziziphi Spinosae Semen",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet, Sour",
+    "channels": [
+      "HT",
+      "LV",
+      "GB"
+    ],
+    "indications": "1) #1 herb for insomnia — nourishes HT, calms spirit · 2) Nourishes LV blood — irritability, dizziness · 3) Prevents abnormal sweating",
+    "contraindication": "Excess heat; severe diarrhea",
+    "boardPearl": "#1 insomnia herb. Key herb in Suan Zao Ren Tang. Nourishes HT Yin/blood to calm spirit. Works for BOTH deficiency insomnia (main use) and excess insomnia. Raw = calms; dry-fried = more commonly used for insomnia."
+  },
+  {
+    "id": "herb-19-5",
+    "pinyin": "Yuan Zhi",
+    "latin": "Polygalae Radix",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "HT",
+      "KD",
+      "LU"
+    ],
+    "indications": "1) Calms spirit — insomnia, palpitations, anxiety · 2) Expels phlegm, clears orifices — seizures, mental confusion · 3) Dissipates swellings, reduces abscesses",
+    "contraindication": "Gastritis/peptic ulcer (irritates stomach); use with Gan Cao to mitigate",
+    "boardPearl": "Expels phlegm from HT orifices — key for phlegm misting the HT causing confusion/seizures. Facilitates HT-KD communication. May irritate the stomach — combine with Gan Cao or Da Zao."
+  },
+  {
+    "id": "herb-19-6",
+    "pinyin": "Bai Zi Ren",
+    "latin": "Platycladi Semen",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "KD",
+      "LI"
+    ],
+    "indications": "1) Nourishes HT, calms spirit — insomnia, palpitations · 2) Moistens intestines, unblocks bowels — elderly/postpartum constipation · 3) Night sweats from Yin deficiency",
+    "contraindication": "Loose stools; excess phlegm",
+    "boardPearl": "Arborvitae seed. Nourishes HT blood to calm spirit AND moistens intestines — dual action. Gentler than Suan Zao Ren. Good for elderly patients with insomnia + constipation."
+  },
+  {
+    "id": "herb-19-7",
+    "pinyin": "Hu Po",
+    "latin": "Succinum",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "LV",
+      "UB"
+    ],
+    "indications": "1) Calms spirit — anxiety, palpitations, insomnia, seizures · 2) Invigorates blood, dissipates stasis — amenorrhea · 3) Promotes urination, unblocks Lin syndrome",
+    "contraindication": "Yin deficiency without blood stasis; pregnancy",
+    "boardPearl": "Amber (fossilized tree resin). Unique: calms spirit AND invigorates blood AND promotes urination — triple action. Grind to powder, do not decoct."
+  },
+  {
+    "id": "herb-19-8",
+    "pinyin": "Ye Jiao Teng",
+    "latin": "Polygoni Multiflori Caulis",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Nourishes HT, calms spirit — insomnia, dream-disturbed sleep · 2) Nourishes blood — generalized pain/itching from blood deficiency · 3) Unblocks channels/collaterals",
+    "contraindication": "None significant",
+    "boardPearl": "Stem of He Shou Wu plant (Caulis = stem). Nourishes blood to calm spirit. Also used externally as wash for itching/rashes. Gentle — good for mild insomnia."
+  },
+  {
+    "id": "herb-19-9",
+    "pinyin": "He Huan Pi",
+    "latin": "Albiziae Cortex",
+    "category": "Calm Spirit",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Calms spirit — depression, irritability, insomnia · 2) Invigorates blood, alleviates pain — traumatic injuries, fractures · 3) Dissipates swellings, generates flesh",
+    "contraindication": "Pregnancy (invigorates blood)",
+    "boardPearl": "\"Collective happiness bark\" — Mimosa tree bark. Used for emotional constraint, depression, and grief. Calms spirit AND invigorates blood — dual action for emotional and physical trauma."
+  },
+  {
+    "id": "herb-20-1",
+    "pinyin": "Tian Ma",
+    "latin": "Gastrodiae Rhizoma",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Sweet",
+    "channels": [
+      "LV"
+    ],
+    "indications": "1) Extinguishes LV wind — dizziness, headache, seizures, childhood convulsions · 2) Calms LV Yang rising — hypertension, migraines · 3) Dispels Wind-Damp Bi — numbness in extremities",
+    "contraindication": "Blood deficiency (can worsen dryness); caution with Yin deficiency",
+    "boardPearl": "Treats ALL forms of internal wind. Dui Yao with Gou Teng for LV Yang rising and LV wind. Sweet, neutral — gentle, moistening. Used in Tian Ma Gou Teng Yin for hypertension headache. Key herb for dizziness from any cause involving wind."
+  },
+  {
+    "id": "herb-20-2",
+    "pinyin": "Gou Teng",
+    "latin": "Uncariae Ramulus cum Uncis",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Cool",
+    "taste": "Sweet",
+    "channels": [
+      "LV",
+      "PC"
+    ],
+    "indications": "1) Extinguishes wind, alleviates spasm — childhood convulsions, eclampsia · 2) Drains LV heat, pacifies LV Yang · 3) Releases exterior wind — headache, dizziness",
+    "contraindication": "Do NOT overcook — add in last 5 minutes",
+    "boardPearl": "Uncaria hooks. Treats BOTH internal AND external wind. Best for childhood convulsions (febrile seizures). Dui Yao with Tian Ma. Must add near end of decoction (last 5 min) — active compounds destroyed by prolonged heat."
+  },
+  {
+    "id": "herb-20-3",
+    "pinyin": "Ling Yang Jiao",
+    "latin": "Saigae Tataricae Cornu",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "HT",
+      "LV"
+    ],
+    "indications": "1) Extinguishes wind, controls spasms/tremors — high fever with convulsions · 2) Calms LV, anchors Yang — extreme headache, dizziness · 3) Drains LV heat, clears eyes — red eyes from LV fire",
+    "contraindication": "SP deficiency cold; wind from blood deficiency",
+    "boardPearl": "Antelope horn (saiga). Strongest in category for extreme heat generating wind (high fever + convulsions). Very cold — reserved for severe excess heat conditions. Endangered species — substitutes often used. Must be decocted separately for 2+ hours or ground to powder."
+  },
+  {
+    "id": "herb-20-4",
+    "pinyin": "Quan Xie",
+    "latin": "Scorpio",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Acrid, Salty",
+    "channels": [
+      "LV"
+    ],
+    "indications": "1) Extinguishes wind, stops tremors/spasms — all types of seizures · 2) Attacks and resolves fire toxin — sores, nodules · 3) Unblocks collaterals, stops pain — stubborn Bi, headache",
+    "contraindication": "TOXIC — strict dosing; pregnancy; blood deficiency generating wind",
+    "boardPearl": "Scorpion. Toxic — use with care. Dui Yao with Wu Gong (centipede) for severe convulsions. Ground to powder, often taken directly (not decocted). Treats stubborn headache and Bi syndrome."
+  },
+  {
+    "id": "herb-20-5",
+    "pinyin": "Wu Gong",
+    "latin": "Scolopendra",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Salty",
+    "channels": [
+      "LV"
+    ],
+    "indications": "1) Extinguishes wind — STRONGEST for convulsions and spasms · 2) Attacks toxin, dissipates nodules — snake bites, sores · 3) Unblocks collaterals, stops pain — stubborn Bi, headache",
+    "contraindication": "TOXIC — strict dosing; pregnancy",
+    "boardPearl": "Centipede. Strongest insect in category for convulsions/spasms. More powerful but more toxic than Quan Xie. Dui Yao with Quan Xie. Good for tetanus and lockjaw. Often ground to powder."
+  },
+  {
+    "id": "herb-20-6",
+    "pinyin": "Di Long",
+    "latin": "Pheretima",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Salty",
+    "channels": [
+      "LV",
+      "LU",
+      "SP",
+      "UB"
+    ],
+    "indications": "1) Clears heat, extinguishes wind — high fever with convulsions · 2) Clears heat, unblocks channels — Bi syndrome from heat · 3) Promotes urination; clears LU heat — asthma/wheezing",
+    "contraindication": "SP deficiency cold",
+    "boardPearl": "Earthworm. Cold nature — best for wind from HEAT (unlike warm insects like Wu Gong). Also clears LU heat for wheezing AND promotes urination. Unique triple action: extinguishes wind + treats asthma + promotes urination."
+  },
+  {
+    "id": "herb-20-7",
+    "pinyin": "Jiang Can",
+    "latin": "Bombyx Batryticatus",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Neutral",
+    "taste": "Acrid, Salty",
+    "channels": [
+      "LV",
+      "LU"
+    ],
+    "indications": "1) Extinguishes wind, stops spasms — childhood convulsions, facial paralysis · 2) Dispels wind, disperses Wind-Heat — sore throat, hoarseness · 3) Transforms phlegm, dissipates nodules — scrofula",
+    "contraindication": "None significant at normal doses",
+    "boardPearl": "Silkworm (killed by Beauveria fungus). Key for wind-phlegm patterns — facial paralysis (Bell's palsy), headache from wind-phlegm. Also treats sore throat (Wind-Heat). Transforms phlegm AND extinguishes wind — dual action."
+  },
+  {
+    "id": "herb-20-8",
+    "pinyin": "Dai Zhe Shi",
+    "latin": "Haematitum",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Cold",
+    "taste": "Bitter",
+    "channels": [
+      "HT",
+      "LV",
+      "PC"
+    ],
+    "indications": "1) Calms LV, anchors floating Yang — dizziness, tinnitus · 2) Strongly descends rebellious Qi — belching, hiccup, vomiting, wheezing · 3) Cools blood, stops bleeding",
+    "contraindication": "Pregnancy; SP/ST deficiency cold",
+    "boardPearl": "Iron oxide mineral (hematite). Heavy — powerfully descends rebellious Qi and anchors Yang. Dui Yao with Xuan Fu Hua (Xuan Fu Dai Zhe Tang) for rebellious ST Qi with belching/vomiting. Must be decocted first (30+ min) and crushed."
+  },
+  {
+    "id": "herb-20-9",
+    "pinyin": "Ci Ji Li",
+    "latin": "Tribuli Fructus",
+    "category": "Extinguish Wind & Stop Tremors",
+    "categoryAbbrev": "",
+    "temperature": "Warm",
+    "taste": "Acrid, Bitter",
+    "channels": [
+      "LV"
+    ],
+    "indications": "1) Calms LV, anchors Yang — headache, dizziness from LV Yang rising · 2) Disperses wind, brightens eyes — red, itchy, teary eyes · 3) Dispels wind, stops itching — skin rashes, vitiligo",
+    "contraindication": "Pregnancy; blood/Qi deficiency",
+    "boardPearl": "Puncture vine / tribulus. Enters LV channel exclusively. Treats eyes (wind-heat), headache, AND itching — triple action involving LV wind. Calms LV Yang while also dispersing external wind."
+  }
+]

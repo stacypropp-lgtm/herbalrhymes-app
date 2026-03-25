@@ -1,0 +1,1527 @@
+{
+  "point_categories": {
+    "description": "Complete reference tables for acupoint categories — board exam essential. Accurate to Deadman's Manual of Acupuncture.",
+    "eight_hui_influential_points": {
+      "description": "Eight Hui (Influential/Gathering) points — each has special influence over a specific tissue or substance type. From Chapter 45 of the Nan Jing.",
+      "points": [
+        {
+          "category": "Zang (Yin organs)",
+          "point": "LV-13 (Zhang Men)",
+          "english": "Camphorwood Gate",
+          "board_pearl": "Front-Mu of Spleen AND Influential point of Zang organs. Meeting point of LV and GB. Dual role is a very common board question.",
+          "memory_trick": "The LIVER GATE guards all the Zang — the gatekeeper organ watches over its yin siblings."
+        },
+        {
+          "category": "Fu (Yang organs)",
+          "point": "REN-12 (Zhong Wan)",
+          "english": "Central Stomach",
+          "board_pearl": "Front-Mu of Stomach AND Influential point of Fu organs. Meeting point of Ren with ST, SI, SJ. Central to all digestive function.",
+          "memory_trick": "The MIDDLE of the belly (Zhong Wan = middle epigastrium) is the center of all Fu hollow-organ activity."
+        },
+        {
+          "category": "Qi",
+          "point": "REN-17 (Dan Zhong / Shan Zhong)",
+          "english": "Chest Center",
+          "board_pearl": "Front-Mu of Pericardium AND Influential point of Qi. Also called the 'Sea of Qi' in the chest. Meeting point of Ren with SP, KD, SI, SJ.",
+          "memory_trick": "The chest is where breathing (Lung Qi) and circulation (Heart/PC) converge — the SEA OF QI in the upper jiao."
+        },
+        {
+          "category": "Blood (Xue)",
+          "point": "UB-17 (Ge Shu)",
+          "english": "Diaphragm Shu",
+          "board_pearl": "Back-Shu of the Diaphragm AND Influential point of Blood. Key point for all blood disorders — stasis, deficiency, or heat in the blood. Not the Back-Shu of any organ.",
+          "memory_trick": "The DIAPHRAGM divides upper and lower — blood passes through it constantly. GE = diaphragm, SHU = transport. Blood's checkpoint."
+        },
+        {
+          "category": "Sinews/Tendons (Jin)",
+          "point": "GB-34 (Yang Ling Quan)",
+          "english": "Yang Mound Spring",
+          "board_pearl": "He-Sea of GB AND Influential point of Sinews AND Earth point of GB AND Lower He-Sea of GB. Extremely versatile point. Used for any tendon/ligament/muscle disorder.",
+          "memory_trick": "The GALLBLADDER rules the sinews (Deadman). Yang Ling Quan is at the fibular head where tendons converge — feel the tendons right there."
+        },
+        {
+          "category": "Vessels/Pulse (Mai)",
+          "point": "LU-9 (Tai Yuan)",
+          "english": "Supreme Abyss",
+          "board_pearl": "Yuan-Source of LU AND Shu-Stream (Earth) of LU AND Influential point of Vessels. This is where the pulse is taken — radial artery. Also the tonification point of the Lung channel (Earth is mother of Metal).",
+          "memory_trick": "TAI YUAN = Supreme Abyss, where the radial PULSE lives. You feel the VESSELS right at LU-9 every time you take a pulse."
+        },
+        {
+          "category": "Bones (Gu)",
+          "point": "UB-11 (Da Zhu)",
+          "english": "Great Shuttle",
+          "board_pearl": "Influential point of Bones AND Meeting point of UB with SI and Du Mai. Also a Sea of Blood point per the Ling Shu. Located at T1 level.",
+          "memory_trick": "DA ZHU = Great Shuttle — the big bone (C7/T1 spinous process area) is the GREAT skeletal landmark. Bones start at the big vertebra."
+        },
+        {
+          "category": "Marrow (Sui)",
+          "point": "GB-39 (Xuan Zhong / Jue Gu)",
+          "english": "Suspended Bell / Severed Bone",
+          "board_pearl": "Influential point of Marrow AND Meeting point of the three Yang channels of the leg (GB, ST, UB). Common board question: GB-39 for marrow AND for meeting of leg Yang channels. Used for stroke (marrow = brain = Sea of Marrow).",
+          "memory_trick": "SUSPENDED BELL hangs at the ankle like marrow hangs inside bones. JUE GU = 'severed bone' — the fibula ends (is severed) here, exposing the marrow concept."
+        }
+      ]
+    },
+    "eight_confluent_points": {
+      "description": "Eight Confluent (Master/Opening) points of the Eight Extraordinary Vessels. Each point opens/activates its associated extraordinary vessel. They are used in paired combinations — one from upper body, one from lower body.",
+      "pairings": [
+        {
+          "pair_name": "Ren Mai + Yin Qiao Mai",
+          "primary": {
+            "point": "LU-7 (Lie Que)",
+            "vessel_opened": "Ren Mai",
+            "english": "Broken Sequence"
+          },
+          "secondary": {
+            "point": "KD-6 (Zhao Hai)",
+            "vessel_opened": "Yin Qiao Mai",
+            "english": "Shining Sea"
+          },
+          "clinical_applications": "Throat, chest, lungs, anterior midline. Insomnia (KD-6 nourishes yin for sleep). Genitourinary disorders. Ren Mai governs all Yin — combined with Yin Qiao which governs the inner leg and sleep/wake cycle.",
+          "board_pearl": "LU-7 opens Ren Mai (not Lung channel's own vessel). KD-6 is the go-to point for insomnia from yin deficiency (eyes won't close = yin qiao). This pair treats the THROAT and CHEST — think sore throat, cough, asthma.",
+          "memory_trick": "LU-7 is the BROKEN SEQUENCE that opens the REN (front midline) — the Lung is the uppermost Yin organ on the front. KD-6 SHINING SEA — the sea of yin that lets you rest (sleep)."
+        },
+        {
+          "pair_name": "Du Mai + Yang Qiao Mai",
+          "primary": {
+            "point": "SI-3 (Hou Xi)",
+            "vessel_opened": "Du Mai",
+            "english": "Back Ravine"
+          },
+          "secondary": {
+            "point": "UB-62 (Shen Mai)",
+            "vessel_opened": "Yang Qiao Mai",
+            "english": "Extending Vessel"
+          },
+          "clinical_applications": "Spine, back, occiput, brain, eyes. Used for acute back/neck pain, stiffness, epilepsy. Yang Qiao governs the outer leg and alertness/wakefulness. Du Mai governs all Yang.",
+          "board_pearl": "SI-3 opens Du Mai — the Small Intestine is Tai Yang paired with UB on the back. UB-62 opens Yang Qiao — if the eyes won't open (hypersomnia), use Yang Qiao. This pair treats the BACK and SPINE.",
+          "memory_trick": "SI-3 BACK RAVINE — it's literally named 'back' and opens the BACK (Du) channel. UB-62 EXTENDING VESSEL — extends Yang energy to keep you awake and upright."
+        },
+        {
+          "pair_name": "Chong Mai + Yin Wei Mai",
+          "primary": {
+            "point": "SP-4 (Gong Sun)",
+            "vessel_opened": "Chong Mai",
+            "english": "Grandfather Grandson"
+          },
+          "secondary": {
+            "point": "PC-6 (Nei Guan)",
+            "vessel_opened": "Yin Wei Mai",
+            "english": "Inner Pass"
+          },
+          "clinical_applications": "Heart, chest, stomach, epigastrium. Nausea, vomiting, cardiac pain, anxiety, digestive disorders. Chong Mai is the Sea of Blood. Yin Wei binds all the Yin channels.",
+          "board_pearl": "SP-4 opens Chong Mai (Sea of Blood) — used for gynecological bleeding, running piglet qi, rebellious Chong. PC-6 opens Yin Wei Mai — the #1 point for nausea (wristbands!). This pair treats HEART and STOMACH — the epigastric region.",
+          "memory_trick": "SP-4 GRANDFATHER-GRANDSON — the Spleen is the grandmother of Blood, and Chong Mai is the Sea of Blood. PC-6 INNER PASS — the inner gate to the heart and stomach, calming nausea and anxiety."
+        },
+        {
+          "pair_name": "Dai Mai + Yang Wei Mai",
+          "primary": {
+            "point": "GB-41 (Zu Lin Qi)",
+            "vessel_opened": "Dai Mai",
+            "english": "Foot Governor of Tears"
+          },
+          "secondary": {
+            "point": "SJ-5 (Wai Guan)",
+            "vessel_opened": "Yang Wei Mai",
+            "english": "Outer Pass"
+          },
+          "clinical_applications": "Sides of body, ears, lateral headache, hip pain, alternating fever and chills (Shao Yang). Dai Mai encircles the waist like a belt — vaginal discharge, hip pain. Yang Wei binds all Yang channels.",
+          "board_pearl": "GB-41 opens Dai Mai (Belt Vessel) — the only horizontal vessel, wrapping the waist. Used for leukorrhea, lateral costal pain, one-sided headache. SJ-5 opens Yang Wei — used for alternating chills and fever (Shao Yang pattern). This pair treats the SIDES of the body and EARS.",
+          "memory_trick": "GB-41 FOOT GOVERNOR OF TEARS — the Gallbladder wraps the sides like a BELT (Dai). Tears flow down the sides of the face. SJ-5 OUTER PASS — the outer gate that connects all Yang on the exterior, protecting from external pathogenic factors."
+        }
+      ],
+      "board_high_yield_note": "The four pairs follow a pattern: Ren+YinQiao (front/throat), Du+YangQiao (back/spine), Chong+YinWei (heart-stomach), Dai+YangWei (sides/ears). Upper limb points: LU-7, SI-3, PC-6, SJ-5. Lower limb points: KD-6, UB-62, SP-4, GB-41."
+    },
+    "ma_dan_yang_heavenly_star_points": {
+      "description": "Ma Dan Yang's Eleven Heavenly Star Points — historically important group of 11 empirically effective points, frequently tested on board exams. Originally from the Song Dynasty physician Ma Dan Yang.",
+      "points": [
+        {
+          "point": "ST-36 (Zu San Li)",
+          "english": "Leg Three Miles",
+          "channel": "Stomach",
+          "primary_actions": "Tonifies Qi and Blood, harmonizes ST/SP, strengthens body, resolves dampness, benefits the legs",
+          "board_pearl": "He-Sea of ST, Lower He-Sea of ST, Earth point, Sea of Water and Grain point. The single most important tonification point in all of acupuncture. Command point of the abdomen.",
+          "memory_trick": "Walk THREE MORE MILES after needling this point — it gives you that much energy. The STAR of all stars."
+        },
+        {
+          "point": "ST-44 (Nei Ting)",
+          "english": "Inner Court",
+          "channel": "Stomach",
+          "primary_actions": "Clears Stomach heat, resolves damp-heat, calms the spirit, stops pain",
+          "board_pearl": "Ying-Spring (Water) point of ST. The main point to clear Stomach Fire — toothache, epigastric burning, facial pain. Water point on a Yang channel.",
+          "memory_trick": "The INNER COURT of the Stomach cools the fire — water (Ying-Spring) quenches the flames in the courtyard."
+        },
+        {
+          "point": "GB-30 (Huan Tiao)",
+          "english": "Jumping Round",
+          "channel": "Gallbladder",
+          "primary_actions": "Benefits the hip, activates the channel, dispels wind-damp, strengthens the lower back and knees",
+          "board_pearl": "Meeting point of GB and UB. The primary point for hip pain and sciatica. Deep needling point — the patient 'jumps' when De Qi is obtained.",
+          "memory_trick": "JUMPING ROUND — the patient literally jumps in a circle when this deep hip point is stimulated. Think HIP = HUAN TIAO."
+        },
+        {
+          "point": "GB-34 (Yang Ling Quan)",
+          "english": "Yang Mound Spring",
+          "channel": "Gallbladder",
+          "primary_actions": "Benefits sinews and joints, spreads Liver Qi, clears damp-heat from Liver/GB, harmonizes Shao Yang",
+          "board_pearl": "He-Sea of GB, Earth point, Influential point of Sinews, Lower He-Sea of GB. Triple identity makes it extremely high-yield. Any musculoskeletal question — think GB-34.",
+          "memory_trick": "YANG MOUND SPRING — a spring on the yang side of a mound (fibular head). The spring waters nourish all the sinews and tendons."
+        },
+        {
+          "point": "UB-40 (Wei Zhong)",
+          "english": "Middle of the Crook",
+          "channel": "Urinary Bladder",
+          "primary_actions": "Clears heat, resolves blood stasis, benefits the lower back and knees, cools the blood",
+          "board_pearl": "He-Sea of UB, Earth point, Command point of the Back and Lumbar region (Gao Wu). Popliteal crease center. Historically bled for acute lumbar pain and heat in the blood.",
+          "memory_trick": "WEI ZHONG = middle of the crook (back of knee). COMMANDS THE BACK — if the back hurts, go to the middle of the crook behind the knee."
+        },
+        {
+          "point": "UB-57 (Cheng Shan)",
+          "english": "Mountain Support",
+          "channel": "Urinary Bladder",
+          "primary_actions": "Relaxes sinews, treats hemorrhoids, benefits the leg, resolves dampness",
+          "board_pearl": "Major point for hemorrhoids and rectal prolapse (the UB channel passes through this area internally). Also for calf cramps and Achilles disorders. Located at the gastrocnemius muscle belly-tendon junction.",
+          "memory_trick": "MOUNTAIN SUPPORT — the calf muscle is shaped like a mountain supporting the body. Hemorrhoids 'fall down the mountain' (prolapse) and this point lifts them back up."
+        },
+        {
+          "point": "UB-60 (Kun Lun)",
+          "english": "Kunlun Mountains",
+          "channel": "Urinary Bladder",
+          "primary_actions": "Expels wind, clears heat, relaxes sinews, activates the channel, promotes labor",
+          "board_pearl": "Jing-River (Fire) point of UB. Major point for occipital headache, neck stiffness, and back pain along the UB channel. CONTRAINDICATED IN PREGNANCY — it promotes labor/descends the fetus.",
+          "memory_trick": "KUNLUN MOUNTAINS — the lateral malleolus is a mountain peak. This point can 'move mountains' including moving the baby out — hence contraindicated in pregnancy."
+        },
+        {
+          "point": "LU-7 (Lie Que)",
+          "english": "Broken Sequence",
+          "channel": "Lung",
+          "primary_actions": "Releases the exterior, expels wind, benefits the head and neck, opens Ren Mai, descends Lung Qi",
+          "board_pearl": "Luo-Connecting of LU, Confluent point of Ren Mai, Command point of Head and Back of Neck (Gao Wu). One of the most multi-functional points. Paired with KD-6 for Ren Mai treatments.",
+          "memory_trick": "BROKEN SEQUENCE — it breaks away from the Lung channel to connect to LI (Luo point) and also breaks open the Ren Mai. Commands the head like a crown."
+        },
+        {
+          "point": "LI-4 (He Gu)",
+          "english": "Joining Valley",
+          "channel": "Large Intestine",
+          "primary_actions": "Releases the exterior, expels wind, stops pain, regulates face and head, promotes labor",
+          "board_pearl": "Yuan-Source of LI, Command point of Face and Mouth (Gao Wu). The #1 analgesic point. CONTRAINDICATED IN PREGNANCY. Combined with LV-3 = Four Gates (Si Guan) for strong Qi and Blood movement.",
+          "memory_trick": "JOINING VALLEY — the fleshy valley between thumb and index finger. HE GU commands the FACE — put your hand on your face and feel the connection."
+        },
+        {
+          "point": "LI-11 (Qu Chi)",
+          "english": "Pool at the Crook",
+          "channel": "Large Intestine",
+          "primary_actions": "Clears heat, cools blood, resolves dampness, benefits sinews and joints, regulates Qi and Blood",
+          "board_pearl": "He-Sea of LI, Earth point. Major point for clearing heat from the body — fever, skin diseases, hypertension. With GV-14 and LI-4 for high fever.",
+          "memory_trick": "POOL AT THE CROOK — a cool pool at the elbow crease that drains heat from the body. Dip into the pool to cool down."
+        },
+        {
+          "point": "ST-6 (Jia Che)",
+          "english": "Jaw Bone",
+          "channel": "Stomach",
+          "primary_actions": "Benefits the jaw, eliminates wind, activates the channel, relieves pain",
+          "board_pearl": "Located at the masseter muscle. Primary point for TMJ, lockjaw, toothache of the lower jaw, facial paralysis (Bell's palsy). Often combined with ST-7, LI-4, and local points.",
+          "memory_trick": "JIA CHE = JAW CHARIOT — the jawbone is the chariot that carries food into the mouth. If the chariot is stuck (TMJ/lockjaw), needle this point."
+        }
+      ]
+    },
+    "five_shu_points": {
+      "description": "Five Shu (Transporting) points — the five most distal points on each of the 12 primary channels, located between the fingertips/toes and the elbows/knees. Each corresponds to a phase element. The sequence differs between Yin and Yang channels.",
+      "yin_channel_sequence": "Well=Wood, Spring=Fire, Stream=Earth, River=Metal, Sea=Water",
+      "yang_channel_sequence": "Well=Metal, Spring=Water, Stream=Wood, River=Fire, Sea=Earth",
+      "clinical_principles": {
+        "jing_well": "Treats fullness below the heart, mental restoring. All Well points can be bled for acute conditions and loss of consciousness.",
+        "ying_spring": "Treats heat in the body, fever. Clears heat from the associated channel.",
+        "shu_stream": "Treats heaviness of body, joint pain. Coincides with Yuan-Source on Yin channels.",
+        "jing_river": "Treats cough, dyspnea, chills and fever. Treats voice disorders.",
+        "he_sea": "Treats rebellious Qi, diarrhea. Treats disorders of the Fu organs."
+      },
+      "tonification_sedation_rule": "Tonification point = Mother element point on the channel (Mother in generating cycle). Sedation point = Child element point on the channel (Child in generating cycle). Example: Lung = Metal. Mother of Metal = Earth. So LU-9 (Earth/Shu-Stream) is the tonification point. Child of Metal = Water. So LU-5 (Water/He-Sea) is the sedation point.",
+      "channels": {
+        "LU": {
+          "channel_name": "Lung (Hand Tai Yin)",
+          "element": "Metal",
+          "jing_well": {
+            "point": "LU-11 (Shao Shang)",
+            "element": "Wood",
+            "board_pearl": "Bled for sore throat and loss of consciousness. Least Shang = least Metal sound."
+          },
+          "ying_spring": {
+            "point": "LU-10 (Yu Ji)",
+            "element": "Fire",
+            "board_pearl": "Fish Border. Clears Lung heat — cough with yellow sputum, sore throat with heat."
+          },
+          "shu_stream": {
+            "point": "LU-9 (Tai Yuan)",
+            "element": "Earth",
+            "board_pearl": "Yuan-Source of LU AND Influential point of Vessels AND Tonification point of LU (Earth generates Metal). Triple role — very high yield."
+          },
+          "jing_river": {
+            "point": "LU-8 (Jing Qu)",
+            "element": "Metal",
+            "board_pearl": "Horary (same-element) point of LU. Metal on Metal. Treats cough and wrist pain."
+          },
+          "he_sea": {
+            "point": "LU-5 (Chi Ze)",
+            "element": "Water",
+            "board_pearl": "Sedation point of LU (Metal generates Water = child). Clears Lung heat, descends rebellious Qi. He-Sea treats diarrhea per five shu theory."
+          },
+          "tonification_point": "LU-9 (Earth generates Metal — mother)",
+          "sedation_point": "LU-5 (Metal generates Water — child)"
+        },
+        "LI": {
+          "channel_name": "Large Intestine (Hand Yang Ming)",
+          "element": "Metal",
+          "jing_well": {
+            "point": "LI-1 (Shang Yang)",
+            "element": "Metal",
+            "board_pearl": "Horary point of LI (Metal on Metal Yang channel — but Well=Metal on Yang). Used for toothache, sore throat, loss of consciousness."
+          },
+          "ying_spring": {
+            "point": "LI-2 (Er Jian)",
+            "element": "Water",
+            "board_pearl": "Sedation point of LI (Metal generates Water = child). Clears heat from LI channel — nosebleed, toothache, sore throat."
+          },
+          "shu_stream": {
+            "point": "LI-3 (San Jian)",
+            "element": "Wood",
+            "board_pearl": "Treats heaviness, joint pain of the hand and fingers."
+          },
+          "jing_river": {
+            "point": "LI-5 (Yang Xi)",
+            "element": "Fire",
+            "board_pearl": "Yang Ravine. Located in the anatomical snuffbox. Treats wrist pain and headache."
+          },
+          "he_sea": {
+            "point": "LI-11 (Qu Chi)",
+            "element": "Earth",
+            "board_pearl": "Tonification point of LI (Earth generates Metal = mother). Also He-Sea treats Fu organ disorders. Major heat-clearing point."
+          },
+          "tonification_point": "LI-11 (Earth generates Metal — mother)",
+          "sedation_point": "LI-2 (Metal generates Water — child)"
+        },
+        "ST": {
+          "channel_name": "Stomach (Foot Yang Ming)",
+          "element": "Earth",
+          "jing_well": {
+            "point": "ST-45 (Li Dui)",
+            "element": "Metal",
+            "board_pearl": "Severe Mouth. Calms the spirit — mania, insomnia, nightmares. Bled for facial swelling and toothache."
+          },
+          "ying_spring": {
+            "point": "ST-44 (Nei Ting)",
+            "element": "Water",
+            "board_pearl": "Inner Court. Clears Stomach fire — best point for Stomach heat toothache, epigastric burning, facial pain. Ma Dan Yang point."
+          },
+          "shu_stream": {
+            "point": "ST-43 (Xian Gu)",
+            "element": "Wood",
+            "board_pearl": "Sunken Valley. Treats edema, abdominal pain, facial edema."
+          },
+          "jing_river": {
+            "point": "ST-41 (Jie Xi)",
+            "element": "Fire",
+            "board_pearl": "Ravine Divide. Treats ankle pain, headache, dizziness, constipation. Located at the ankle crease."
+          },
+          "he_sea": {
+            "point": "ST-36 (Zu San Li)",
+            "element": "Earth",
+            "board_pearl": "Horary point (Earth on Earth) AND He-Sea AND Tonification point — NO. Tonification is actually ST-41 (Fire generates Earth = mother). ST-36 is the Horary/He-Sea point. Extremely high yield."
+          },
+          "tonification_point": "ST-41 (Fire generates Earth — mother)",
+          "sedation_point": "ST-45 (Earth generates Metal — child)"
+        },
+        "SP": {
+          "channel_name": "Spleen (Foot Tai Yin)",
+          "element": "Earth",
+          "jing_well": {
+            "point": "SP-1 (Yin Bai)",
+            "element": "Wood",
+            "board_pearl": "Hidden White. #1 point for uterine bleeding/menorrhagia — moxa on SP-1 to hold the blood. Also for dream-disturbed sleep."
+          },
+          "ying_spring": {
+            "point": "SP-2 (Da Du)",
+            "element": "Fire",
+            "board_pearl": "Great Metropolis. Tonification point of SP (Fire generates Earth = mother). Treats abdominal distension, gastric pain, heat in the feet."
+          },
+          "shu_stream": {
+            "point": "SP-3 (Tai Bai)",
+            "element": "Earth",
+            "board_pearl": "Supreme White. Yuan-Source of SP AND Horary point (Earth on Earth). Strengthens the Spleen, resolves dampness. Treats heavy limbs and abdominal distension."
+          },
+          "jing_river": {
+            "point": "SP-5 (Shang Qiu)",
+            "element": "Metal",
+            "board_pearl": "Shang Hill. Sedation point of SP (Earth generates Metal = child). Treats diarrhea, constipation, ankle pain, hemorrhoids."
+          },
+          "he_sea": {
+            "point": "SP-9 (Yin Ling Quan)",
+            "element": "Water",
+            "board_pearl": "Yin Mound Spring. THE point for resolving dampness — edema, urinary difficulty, damp-bi, damp-heat in lower jiao. He-Sea of SP."
+          },
+          "tonification_point": "SP-2 (Fire generates Earth — mother)",
+          "sedation_point": "SP-5 (Earth generates Metal — child)"
+        },
+        "HT": {
+          "channel_name": "Heart (Hand Shao Yin)",
+          "element": "Fire",
+          "jing_well": {
+            "point": "HT-9 (Shao Chong)",
+            "element": "Wood",
+            "board_pearl": "Lesser Surge. Tonification point of HT (Wood generates Fire = mother). Revives consciousness, clears heat. Bled for emergencies."
+          },
+          "ying_spring": {
+            "point": "HT-8 (Shao Fu)",
+            "element": "Fire",
+            "board_pearl": "Lesser Mansion. Horary point (Fire on Fire). Clears Heart fire — mouth ulcers, insomnia from Heart fire, urinary burning (Heart fire transfers to SI/UB)."
+          },
+          "shu_stream": {
+            "point": "HT-7 (Shen Men)",
+            "element": "Earth",
+            "board_pearl": "Spirit Gate. Yuan-Source of HT. THE point for calming the Shen — insomnia, anxiety, palpitations, mania. Sedation point of HT (Fire generates Earth = child)."
+          },
+          "jing_river": {
+            "point": "HT-4 (Ling Dao)",
+            "element": "Metal",
+            "board_pearl": "Spirit Pathway. Treats sudden loss of voice, heart pain, elbow/arm pain along the channel."
+          },
+          "he_sea": {
+            "point": "HT-3 (Shao Hai)",
+            "element": "Water",
+            "board_pearl": "Lesser Sea. Treats elbow pain (medial epicondylitis), tremor of the hand, numbness of the arm. Calms the spirit."
+          },
+          "tonification_point": "HT-9 (Wood generates Fire — mother)",
+          "sedation_point": "HT-7 (Fire generates Earth — child)"
+        },
+        "SI": {
+          "channel_name": "Small Intestine (Hand Tai Yang)",
+          "element": "Fire",
+          "jing_well": {
+            "point": "SI-1 (Shao Ze)",
+            "element": "Metal",
+            "board_pearl": "Lesser Marsh. Promotes lactation — KEY board fact. Also revives consciousness and clears heat. Benefits the eyes and ears."
+          },
+          "ying_spring": {
+            "point": "SI-2 (Qian Gu)",
+            "element": "Water",
+            "board_pearl": "Front Valley. Clears heat, benefits the eyes. Treats headache and neck pain."
+          },
+          "shu_stream": {
+            "point": "SI-3 (Hou Xi)",
+            "element": "Wood",
+            "board_pearl": "Back Ravine. Tonification point of SI (Wood generates Fire = mother) AND Confluent point of Du Mai. Extremely important — dual role."
+          },
+          "jing_river": {
+            "point": "SI-5 (Yang Gu)",
+            "element": "Fire",
+            "board_pearl": "Yang Valley. Horary point (Fire on Fire). Treats wrist pain, febrile disease, swelling of the jaw."
+          },
+          "he_sea": {
+            "point": "SI-8 (Xiao Hai)",
+            "element": "Earth",
+            "board_pearl": "Small Sea. Sedation point of SI (Fire generates Earth = child). Located at the ulnar groove — treats medial elbow pain, epilepsy."
+          },
+          "tonification_point": "SI-3 (Wood generates Fire — mother)",
+          "sedation_point": "SI-8 (Fire generates Earth — child)"
+        },
+        "UB": {
+          "channel_name": "Urinary Bladder (Foot Tai Yang)",
+          "element": "Water",
+          "jing_well": {
+            "point": "UB-67 (Zhi Yin)",
+            "element": "Metal",
+            "board_pearl": "Reaching Yin. #1 point for turning a breech baby — moxa on UB-67. Also promotes labor and clears the head. Sedation point of UB (Water generates... No — Metal is mother of Water, so this is not sedation. Actually: child of Water = Wood, but UB-67 is Metal. Sedation = UB-65 Wood)."
+          },
+          "ying_spring": {
+            "point": "UB-66 (Zu Tong Gu)",
+            "element": "Water",
+            "board_pearl": "Foot Passage Valley. Horary point (Water on Water). Clears heat, treats headache, neck stiffness, nosebleed."
+          },
+          "shu_stream": {
+            "point": "UB-65 (Shu Gu)",
+            "element": "Wood",
+            "board_pearl": "Binding Bone. Sedation point of UB (Water generates Wood = child). Clears heat, treats back pain, headache, blurred vision, leg pain."
+          },
+          "jing_river": {
+            "point": "UB-60 (Kun Lun)",
+            "element": "Fire",
+            "board_pearl": "Kunlun Mountains. Ma Dan Yang point. Treats back pain, headache, neck pain. CONTRAINDICATED IN PREGNANCY."
+          },
+          "he_sea": {
+            "point": "UB-40 (Wei Zhong)",
+            "element": "Earth",
+            "board_pearl": "Middle of the Crook. Tonification point — NO. Earth is not mother of Water (Metal is). Actually for Yang channels: tonification = mother element point. Mother of Water = Metal = UB-67. So UB-67 = tonification AND Well point. He-Sea, Command of Back, Ma Dan Yang point."
+          },
+          "tonification_point": "UB-67 (Metal generates Water — mother)",
+          "sedation_point": "UB-65 (Water generates Wood — child)"
+        },
+        "KD": {
+          "channel_name": "Kidney (Foot Shao Yin)",
+          "element": "Water",
+          "jing_well": {
+            "point": "KD-1 (Yong Quan)",
+            "element": "Wood",
+            "board_pearl": "Gushing Spring. Sedation point of KD (Water generates Wood = child). The lowest point on the body. Descends excess from the head — emergency point for loss of consciousness, hypertension, vertex headache. Revives Yang."
+          },
+          "ying_spring": {
+            "point": "KD-2 (Ran Gu)",
+            "element": "Fire",
+            "board_pearl": "Blazing Valley. Clears deficiency heat — night sweats, hot flashes, five-palm heat. Fire point to drain Kidney deficiency fire."
+          },
+          "shu_stream": {
+            "point": "KD-3 (Tai Xi)",
+            "element": "Earth",
+            "board_pearl": "Supreme Stream. Yuan-Source of KD. THE primary point for tonifying Kidney Yin AND Kidney Yang. Treats tinnitus, low back pain, impotence, irregular menses, toothache from KD deficiency."
+          },
+          "jing_river": {
+            "point": "KD-7 (Fu Liu)",
+            "element": "Metal",
+            "board_pearl": "Recovering Flow. Tonification point of KD (Metal generates Water = mother). Treats edema, night sweating (tonifies KD to hold fluids), diarrhea. Regulates sweating — key board fact."
+          },
+          "he_sea": {
+            "point": "KD-10 (Yin Gu)",
+            "element": "Water",
+            "board_pearl": "Yin Valley. Horary point (Water on Water). He-Sea of KD. Treats knee pain, impotence, hernia, uterine bleeding."
+          },
+          "tonification_point": "KD-7 (Metal generates Water — mother)",
+          "sedation_point": "KD-1 (Water generates Wood — child)"
+        },
+        "PC": {
+          "channel_name": "Pericardium (Hand Jue Yin)",
+          "element": "Fire (Ministerial)",
+          "jing_well": {
+            "point": "PC-9 (Zhong Chong)",
+            "element": "Wood",
+            "board_pearl": "Middle Surge. Tonification point of PC (Wood generates Fire = mother). Revives consciousness, clears heat. Emergency point — bled for stroke, loss of consciousness, heat stroke."
+          },
+          "ying_spring": {
+            "point": "PC-8 (Lao Gong)",
+            "element": "Fire",
+            "board_pearl": "Palace of Toil. Horary point (Fire on Fire). Clears Heart/PC fire, calms the spirit. Located where the middle finger touches the palm when fist is made. Treats mouth ulcers, bad breath from heart fire."
+          },
+          "shu_stream": {
+            "point": "PC-7 (Da Ling)",
+            "element": "Earth",
+            "board_pearl": "Great Mound. Yuan-Source of PC. Sedation point of PC (Fire generates Earth = child). Calms the spirit — insomnia, anxiety, epilepsy, mania. Treats carpal tunnel and wrist pain."
+          },
+          "jing_river": {
+            "point": "PC-5 (Jian Shi)",
+            "element": "Metal",
+            "board_pearl": "Intermediary. Treats malaria (alternating fever/chills), epilepsy, chest pain, vomiting. Resolves phlegm from the Heart."
+          },
+          "he_sea": {
+            "point": "PC-3 (Qu Ze)",
+            "element": "Water",
+            "board_pearl": "Marsh at the Crook. He-Sea of PC. Clears heat, cools blood, harmonizes the stomach. Treat vomiting, diarrhea, heat in the blood. Bled for acute heat conditions."
+          },
+          "tonification_point": "PC-9 (Wood generates Fire — mother)",
+          "sedation_point": "PC-7 (Fire generates Earth — child)"
+        },
+        "SJ": {
+          "channel_name": "San Jiao (Hand Shao Yang)",
+          "element": "Fire (Ministerial)",
+          "jing_well": {
+            "point": "SJ-1 (Guan Chong)",
+            "element": "Metal",
+            "board_pearl": "Passage Hub. Clears heat, benefits the ears, revives consciousness. Treats febrile disease, headache, sore throat, red eyes."
+          },
+          "ying_spring": {
+            "point": "SJ-2 (Ye Men)",
+            "element": "Water",
+            "board_pearl": "Fluid Gate. Clears heat, benefits the ears. Treats tinnitus, deafness, headache, malaria."
+          },
+          "shu_stream": {
+            "point": "SJ-3 (Zhong Zhu)",
+            "element": "Wood",
+            "board_pearl": "Central Islet. Tonification point of SJ (Wood generates Fire = mother). Benefits the ears — tinnitus, deafness. Treats hand/finger pain, headache."
+          },
+          "jing_river": {
+            "point": "SJ-6 (Zhi Gou)",
+            "element": "Fire",
+            "board_pearl": "Branch Ditch. Horary point (Fire on Fire). THE point for constipation (especially habitual). Also treats lateral costal pain and herpes zoster (shingles)."
+          },
+          "he_sea": {
+            "point": "SJ-10 (Tian Jing)",
+            "element": "Earth",
+            "board_pearl": "Celestial Well. Sedation point of SJ (Fire generates Earth = child). Treats elbow pain, scrofula (neck lumps), epilepsy. Transforms phlegm and dissipates nodules."
+          },
+          "tonification_point": "SJ-3 (Wood generates Fire — mother)",
+          "sedation_point": "SJ-10 (Fire generates Earth — child)"
+        },
+        "GB": {
+          "channel_name": "Gallbladder (Foot Shao Yang)",
+          "element": "Wood",
+          "jing_well": {
+            "point": "GB-44 (Zu Qiao Yin)",
+            "element": "Metal",
+            "board_pearl": "Foot Portal Yin. Sedation point of GB (Wood generates... No — child of Wood = Fire, but GB-44 is Metal. Actually on Yang channels: Well=Metal, Spring=Water, Stream=Wood, River=Fire, Sea=Earth. Sedation = child of Wood = Fire = GB-38). GB-44: treats headache, eye pain, insomnia, dream-disturbed sleep."
+          },
+          "ying_spring": {
+            "point": "GB-43 (Xia Xi)",
+            "element": "Water",
+            "board_pearl": "Pinched Ravine. Clears heat from GB channel — treats one-sided headache, tinnitus, dizziness, intercostal pain."
+          },
+          "shu_stream": {
+            "point": "GB-41 (Zu Lin Qi)",
+            "element": "Wood",
+            "board_pearl": "Foot Governor of Tears. Horary point (Wood on Wood) AND Confluent point of Dai Mai. Dual role — very high yield. Treats lateral headache, eye disorders, breast disorders, irregular menses."
+          },
+          "jing_river": {
+            "point": "GB-38 (Yang Fu)",
+            "element": "Fire",
+            "board_pearl": "Yang Assistance. Sedation point of GB (Wood generates Fire = child). Treats lateral leg pain, migraine headache, chest and lateral costal pain."
+          },
+          "he_sea": {
+            "point": "GB-34 (Yang Ling Quan)",
+            "element": "Earth",
+            "board_pearl": "Tonification point — NO, Earth is not mother of Wood (Water is). Actually: tonification = mother of Wood = Water = GB-43. GB-34 = He-Sea AND Influential point of Sinews AND Lower He-Sea of GB."
+          },
+          "tonification_point": "GB-43 (Water generates Wood — mother)",
+          "sedation_point": "GB-38 (Wood generates Fire — child)"
+        },
+        "LV": {
+          "channel_name": "Liver (Foot Jue Yin)",
+          "element": "Wood",
+          "jing_well": {
+            "point": "LV-1 (Da Dun)",
+            "element": "Wood",
+            "board_pearl": "Great Mound. Horary point (Wood on Wood). Treats hernia, uterine bleeding, enuresis, prolapse. Regulates the Lower Jiao."
+          },
+          "ying_spring": {
+            "point": "LV-2 (Xing Jian)",
+            "element": "Fire",
+            "board_pearl": "Moving Between. Sedation point of LV (Wood generates Fire = child). THE point to clear Liver Fire — headache, red eyes, irritability, insomnia from Liver fire. Drains excess from the Liver."
+          },
+          "shu_stream": {
+            "point": "LV-3 (Tai Chong)",
+            "element": "Earth",
+            "board_pearl": "Supreme Surge. Yuan-Source of LV. THE primary point for spreading Liver Qi — Liver Qi stagnation, headache, dizziness, menstrual disorders. With LI-4 = Four Gates."
+          },
+          "jing_river": {
+            "point": "LV-4 (Zhong Feng)",
+            "element": "Metal",
+            "board_pearl": "Mound Center. Treats hernia, urinary retention, abdominal pain, ankle pain along the channel."
+          },
+          "he_sea": {
+            "point": "LV-8 (Qu Quan)",
+            "element": "Water",
+            "board_pearl": "Spring at the Crook. Tonification point of LV (Water generates Wood = mother). Nourishes Liver Blood and Liver Yin. Treats knee pain, genital disorders, diarrhea, prolapse."
+          },
+          "tonification_point": "LV-8 (Water generates Wood — mother)",
+          "sedation_point": "LV-2 (Wood generates Fire — child)"
+        }
+      }
+    },
+    "yuan_source_points": {
+      "description": "Yuan-Source points — the point on each channel where the Yuan (original/source) Qi surfaces. On Yin channels, the Yuan-Source point is the same as the Shu-Stream point. On Yang channels, it is a separate point. Paired with the Luo-Connecting point of the interiorly-exteriorly related channel for treatment.",
+      "points": [
+        {
+          "channel": "LU",
+          "point": "LU-9 (Tai Yuan)",
+          "english": "Supreme Abyss",
+          "note": "Also Shu-Stream, Influential of Vessels, Tonification point",
+          "board_pearl": "Most multi-titled point on the Lung channel. At the radial pulse — where you feel the vessels.",
+          "memory_trick": "The SUPREME ABYSS is the deep SOURCE of Lung Qi — found at the wrist crease where you take the pulse."
+        },
+        {
+          "channel": "LI",
+          "point": "LI-4 (He Gu)",
+          "english": "Joining Valley",
+          "note": "Command of Face and Mouth, Ma Dan Yang point, contraindicated in pregnancy",
+          "board_pearl": "The great analgesic point. Yuan-Source on a Yang channel — separate from the Shu-Stream (LI-3).",
+          "memory_trick": "The SOURCE of the Large Intestine's power is in the JOINING VALLEY of the hand — the meatiest part of your grip."
+        },
+        {
+          "channel": "ST",
+          "point": "ST-42 (Chong Yang)",
+          "english": "Surging Yang",
+          "note": "Located on the dorsum of the foot where the dorsalis pedis pulse is palpable",
+          "board_pearl": "The pulse at ST-42 (dorsalis pedis) is used to assess Stomach Qi — if absent, prognosis is grave per classical texts.",
+          "memory_trick": "SURGING YANG — feel the pulse SURGING on top of the foot. The Stomach's Yang source surges up from the earth."
+        },
+        {
+          "channel": "SP",
+          "point": "SP-3 (Tai Bai)",
+          "english": "Supreme White",
+          "note": "Also Shu-Stream and Horary (Earth) point",
+          "board_pearl": "Yuan-Source = Shu-Stream on Yin channels. SP-3 is Earth on Earth (horary). Strengthens Spleen, resolves dampness.",
+          "memory_trick": "SUPREME WHITE — the Spleen's color is yellow-white in Chinese medicine. The white supreme source of Earth energy."
+        },
+        {
+          "channel": "HT",
+          "point": "HT-7 (Shen Men)",
+          "english": "Spirit Gate",
+          "note": "Also Shu-Stream (Earth) and Sedation point of Heart",
+          "board_pearl": "SPIRIT GATE = the gate to the Shen. #1 point for calming the mind on the Heart channel. At the wrist crease, ulnar side.",
+          "memory_trick": "The SOURCE of the Heart is the SPIRIT GATE — open the gate to calm the Shen."
+        },
+        {
+          "channel": "SI",
+          "point": "SI-4 (Wan Gu)",
+          "english": "Wrist Bone",
+          "note": "At the ulnar side of the hand, in the depression between the 5th metacarpal base and the hamate/triquetral bones",
+          "board_pearl": "Yuan-Source on a Yang channel — separate from Shu-Stream (SI-3). Treats wrist pain, jaundice, febrile disease.",
+          "memory_trick": "WRIST BONE — the SI channel's source is right at the prominent wrist bone on the pinky side."
+        },
+        {
+          "channel": "UB",
+          "point": "UB-64 (Jing Gu)",
+          "english": "Capital Bone",
+          "note": "At the lateral side of the foot, below the tuberosity of the 5th metatarsal",
+          "board_pearl": "Yuan-Source of UB. Treats headache, neck stiffness, back pain, epilepsy. Not commonly needled but important for board exams.",
+          "memory_trick": "CAPITAL BONE — the 5th metatarsal tuberosity is a prominent 'capital' bone on the outer foot, housing the Bladder's source."
+        },
+        {
+          "channel": "KD",
+          "point": "KD-3 (Tai Xi)",
+          "english": "Supreme Stream",
+          "note": "Also Shu-Stream (Earth) point. Between the medial malleolus and Achilles tendon",
+          "board_pearl": "THE primary Kidney tonification point — Yin and Yang. If the pulse at KD-3 is absent, serious prognosis. Treats low back, tinnitus, toothache, insomnia, impotence.",
+          "memory_trick": "SUPREME STREAM — the deepest, most supreme stream of Kidney essence flows between the ankle bone and the Achilles."
+        },
+        {
+          "channel": "PC",
+          "point": "PC-7 (Da Ling)",
+          "english": "Great Mound",
+          "note": "Also Shu-Stream (Earth) and Sedation point of PC",
+          "board_pearl": "Yuan-Source of PC. Calms the spirit, clears Heart fire. At the wrist crease between the two tendons (palmaris longus and flexor carpi radialis).",
+          "memory_trick": "GREAT MOUND — the two tendons at the wrist form a mound over the PC source. The great mound guards the Heart (PC protects the Heart)."
+        },
+        {
+          "channel": "SJ",
+          "point": "SJ-4 (Yang Chi)",
+          "english": "Yang Pool",
+          "note": "At the transverse crease of the dorsum of the wrist, in the depression lateral to the extensor digitorum communis tendon",
+          "board_pearl": "Yuan-Source of SJ. Treats wrist pain, diabetes (Xiao Ke), malaria. Relaxes sinews of the wrist. San Jiao governs the water passages.",
+          "memory_trick": "YANG POOL — a pool of Yang Qi on the back of the wrist. The San Jiao's source is a pool that regulates all three burners."
+        },
+        {
+          "channel": "GB",
+          "point": "GB-40 (Qiu Xu)",
+          "english": "Mound Ruins",
+          "note": "In the depression anterior and inferior to the lateral malleolus",
+          "board_pearl": "Yuan-Source of GB. Treats lateral ankle pain, chest and lateral costal pain, indecisiveness (GB governs decision-making).",
+          "memory_trick": "MOUND RUINS — the lateral malleolus is a mound, and the ruins (depression) below it house the GB's source Qi."
+        },
+        {
+          "channel": "LV",
+          "point": "LV-3 (Tai Chong)",
+          "english": "Supreme Surge",
+          "note": "Also Shu-Stream (Earth) point. Between the 1st and 2nd metatarsals",
+          "board_pearl": "THE primary point for Liver Qi stagnation. With LI-4 = Four Gates (Si Guan) — moves Qi and Blood powerfully throughout the body.",
+          "memory_trick": "SUPREME SURGE — Liver Qi surges supremely through this point. When Liver Qi is stuck, let it SURGE at Tai Chong."
+        }
+      ],
+      "board_high_yield_note": "On Yin channels, Yuan-Source = Shu-Stream (same point). On Yang channels, Yuan-Source is a separate, additional point (not one of the Five Shu). Yuan-Source and Luo-Connecting points are paired in clinical practice for interior-exterior channel relationships."
+    },
+    "luo_connecting_points": {
+      "description": "Luo-Connecting points — where the Luo (connecting) vessel branches off from the primary channel to connect with its interiorly-exteriorly paired channel. There are 15 total: 12 primary channels + Ren + Du + Great Luo of the Spleen.",
+      "clinical_principle": "Luo points treat both the primary channel and its paired channel. They are combined with the Yuan-Source point of the paired channel (Yuan-Luo pairing). Each Luo has excess and deficiency symptom patterns.",
+      "points": [
+        {
+          "channel": "LU",
+          "point": "LU-7 (Lie Que)",
+          "english": "Broken Sequence",
+          "connects_to": "LI channel",
+          "yuan_pair": "LI-4",
+          "excess_symptoms": "Hot palms, wrist pain",
+          "deficiency_symptoms": "Frequent yawning, urinary incontinence",
+          "board_pearl": "Also Confluent point of Ren Mai AND Command of Head/Nape AND Ma Dan Yang point. The most multi-functional point in acupuncture.",
+          "memory_trick": "The sequence BREAKS from LU to LI — the Luo connection bridges the two Metal channels."
+        },
+        {
+          "channel": "LI",
+          "point": "LI-6 (Pian Li)",
+          "english": "Veering Passageway",
+          "connects_to": "LU channel",
+          "yuan_pair": "LU-9",
+          "excess_symptoms": "Toothache, deafness",
+          "deficiency_symptoms": "Cold teeth, stuffy feeling in chest/diaphragm",
+          "board_pearl": "The Luo vessel of LI ascends to the jaw and ear. Treats toothache and ear disorders via the Luo connection.",
+          "memory_trick": "VEERING PASSAGEWAY — the channel veers off its normal path to connect with the Lung."
+        },
+        {
+          "channel": "ST",
+          "point": "ST-40 (Feng Long)",
+          "english": "Bountiful Bulge",
+          "connects_to": "SP channel",
+          "yuan_pair": "SP-3",
+          "excess_symptoms": "Madness, epilepsy",
+          "deficiency_symptoms": "Atrophy and weakness of legs, inability to stand",
+          "board_pearl": "THE #1 point for resolving phlegm in the entire body — tangible or intangible. Any phlegm question on the board, think ST-40 first.",
+          "memory_trick": "BOUNTIFUL BULGE — the big bulging calf muscle where phlegm accumulates bountifully. Needle the bulge to dissolve the phlegm."
+        },
+        {
+          "channel": "SP",
+          "point": "SP-4 (Gong Sun)",
+          "english": "Grandfather Grandson",
+          "connects_to": "ST channel",
+          "yuan_pair": "ST-42",
+          "excess_symptoms": "Severe abdominal pain, cutting pain in the intestines",
+          "deficiency_symptoms": "Abdominal distension, drum-like distension",
+          "board_pearl": "Also Confluent point of Chong Mai. Paired with PC-6 for Heart/Stomach conditions. Dual Luo + Confluent role.",
+          "memory_trick": "GRANDFATHER-GRANDSON — the Spleen is the elder that connects to its grandson, the Stomach. Family connection = Luo connection."
+        },
+        {
+          "channel": "HT",
+          "point": "HT-5 (Tong Li)",
+          "english": "Connecting Li",
+          "connects_to": "SI channel",
+          "yuan_pair": "SI-4",
+          "excess_symptoms": "Fullness and distension of the chest and diaphragm",
+          "deficiency_symptoms": "Inability to speak",
+          "board_pearl": "Treats loss of speech (aphasia) — the Luo vessel of Heart connects to the tongue root. Also treats Heart rhythm irregularities and heavy/stiff tongue.",
+          "memory_trick": "CONNECTING LI — it connects (Tong) to the interior (Li). The Heart's connection restores the voice — the Heart opens to the tongue."
+        },
+        {
+          "channel": "SI",
+          "point": "SI-7 (Zhi Zheng)",
+          "english": "Branch of the Upright",
+          "connects_to": "HT channel",
+          "yuan_pair": "HT-7",
+          "excess_symptoms": "Loose joints, elbow inability to extend",
+          "deficiency_symptoms": "Warts, small skin growths",
+          "board_pearl": "Treats warts — a unique and commonly tested indication. The SI Luo vessel stagnation manifests as skin growths.",
+          "memory_trick": "BRANCH OF THE UPRIGHT — a branch (Luo) that grows off the upright (main) SI channel. Excess branching = warts (small growths)."
+        },
+        {
+          "channel": "UB",
+          "point": "UB-58 (Fei Yang)",
+          "english": "Taking Flight",
+          "connects_to": "KD channel",
+          "yuan_pair": "KD-3",
+          "excess_symptoms": "Stuffy nose, headache, back pain",
+          "deficiency_symptoms": "Nosebleed, clear nasal discharge",
+          "board_pearl": "The Luo connects UB (Tai Yang) to KD (Shao Yin) — exterior to interior. Treats nasal and head symptoms via the Tai Yang connection.",
+          "memory_trick": "TAKING FLIGHT — the Luo vessel flies from the Bladder channel over to the Kidney. Birds fly = nasal/head symptoms (head in the clouds)."
+        },
+        {
+          "channel": "KD",
+          "point": "KD-4 (Da Zhong)",
+          "english": "Large Goblet",
+          "connects_to": "UB channel",
+          "yuan_pair": "UB-64",
+          "excess_symptoms": "Urinary retention, low back stiffness",
+          "deficiency_symptoms": "Low back pain, lack of willpower, anxiety",
+          "board_pearl": "The Kidney Luo connects to the UB and binds to the heel. Treats heel pain. Deficiency of KD Luo causes lack of willpower (Kidney governs Zhi/willpower).",
+          "memory_trick": "LARGE GOBLET — a big cup at the heel that holds the Kidney's Luo connection. The goblet holds your will and determination."
+        },
+        {
+          "channel": "PC",
+          "point": "PC-6 (Nei Guan)",
+          "english": "Inner Pass",
+          "connects_to": "SJ channel",
+          "yuan_pair": "SJ-4",
+          "excess_symptoms": "Heart pain, tightness of the chest",
+          "deficiency_symptoms": "Stiffness of the neck",
+          "board_pearl": "Also Confluent point of Yin Wei Mai. THE #1 point for nausea/vomiting (used in sea-sickness wristbands). Treats heart pain, anxiety, insomnia. Paired with SP-4 for Chong/Yin Wei treatments.",
+          "memory_trick": "INNER PASS — the inner gate between the two forearm tendons. Pass through the inner gate to calm the heart and stop nausea."
+        },
+        {
+          "channel": "SJ",
+          "point": "SJ-5 (Wai Guan)",
+          "english": "Outer Pass",
+          "connects_to": "PC channel",
+          "yuan_pair": "PC-7",
+          "excess_symptoms": "Elbow spasm/contracture",
+          "deficiency_symptoms": "Elbow limpness/flaccidity",
+          "board_pearl": "Also Confluent point of Yang Wei Mai. Paired with GB-41 for Dai/Yang Wei treatments. Releases the exterior — wind-heat or wind-cold. Treats ear disorders and one-sided headache.",
+          "memory_trick": "OUTER PASS — the outer gate, directly opposite PC-6 (Inner Pass) on the forearm. The outer gate defends against external pathogens."
+        },
+        {
+          "channel": "GB",
+          "point": "GB-37 (Guang Ming)",
+          "english": "Bright Light",
+          "connects_to": "LV channel",
+          "yuan_pair": "LV-3",
+          "excess_symptoms": "Cold feet, inability to stand",
+          "deficiency_symptoms": "Weak and atrophied legs, difficulty sitting down",
+          "board_pearl": "BRIGHT LIGHT — the empirical point for eye disorders, especially night blindness and blurred vision. The GB Luo connects to the LV which opens to the eyes.",
+          "memory_trick": "BRIGHT LIGHT — this point restores brightness to the eyes. The Gallbladder's Luo brings bright light from the LV (which opens to the eyes)."
+        },
+        {
+          "channel": "LV",
+          "point": "LV-5 (Li Gou)",
+          "english": "Woodworm Canal",
+          "connects_to": "GB channel",
+          "yuan_pair": "GB-40",
+          "excess_symptoms": "Swelling and itching of the genitals, priapism",
+          "deficiency_symptoms": "Itching of the genitals",
+          "board_pearl": "The LV Luo vessel wraps around the genitals. KEY point for genital disorders — itching, swelling, pain. The Liver channel encircles the genitals.",
+          "memory_trick": "WOODWORM CANAL — the Wood (Liver) worm burrows through the canal to the genitals. Genital itching = think woodworm."
+        },
+        {
+          "channel": "REN",
+          "point": "REN-15 (Jiu Wei)",
+          "english": "Turtledove Tail",
+          "connects_to": "Disperses over the abdomen",
+          "yuan_pair": "N/A",
+          "excess_symptoms": "Pain of the skin of the abdomen",
+          "deficiency_symptoms": "Itching of the skin of the abdomen",
+          "board_pearl": "Luo of Ren Mai. Located just below the xiphoid process. Treats epigastric pain, mania, epilepsy. The Ren Luo spreads Qi over the abdomen.",
+          "memory_trick": "TURTLEDOVE TAIL — the xiphoid process looks like a dove's tail. The Ren's Luo spreads from this tail over the whole belly."
+        },
+        {
+          "channel": "DU",
+          "point": "DU-1 (Chang Qiang)",
+          "english": "Long Strong",
+          "connects_to": "Disperses over the head, bilateral to UB channel",
+          "yuan_pair": "N/A",
+          "excess_symptoms": "Stiffness of the spine",
+          "deficiency_symptoms": "Heavy-headedness, shaking of the head",
+          "board_pearl": "Luo of Du Mai. Located at the tip of the coccyx. Treats hemorrhoids, prolapse, mania, epilepsy, back pain. The Du Luo ascends along the spine to the head.",
+          "memory_trick": "LONG STRONG — the longest Luo vessel, running the full length of the spine from coccyx to head. It must be strong to cover that distance."
+        },
+        {
+          "channel": "SP (Great Luo)",
+          "point": "SP-21 (Da Bao)",
+          "english": "Great Embracement",
+          "connects_to": "Connects all the Luo vessels of the entire body",
+          "yuan_pair": "N/A",
+          "excess_symptoms": "Generalized body pain",
+          "deficiency_symptoms": "All joints are flaccid/limp",
+          "board_pearl": "The Great Luo of the Spleen — a 16th Luo that embraces the entire body. Treats generalized pain or generalized weakness. On the mid-axillary line at the 6th intercostal space.",
+          "memory_trick": "GREAT EMBRACEMENT — SP-21 gives a GREAT big HUG to the whole body, wrapping all the Luo vessels in one embrace."
+        }
+      ]
+    },
+    "xi_cleft_points": {
+      "description": "Xi-Cleft (Accumulation) points — where the Qi and Blood of the channel accumulate deeply. Used for acute conditions and pain on their respective channels. Yin channel Xi-Cleft points are especially used for blood disorders (bleeding).",
+      "clinical_principle": "Xi-Cleft points treat ACUTE conditions on their respective channels. Yin Xi-Cleft points treat acute bleeding disorders. Yang Xi-Cleft points treat acute pain conditions. Combined with Back-Shu and Front-Mu for comprehensive treatment.",
+      "primary_channel_points": [
+        {
+          "channel": "LU",
+          "point": "LU-6 (Kong Zui)",
+          "english": "Collection Hole",
+          "board_pearl": "Acute cough, hemoptysis (coughing blood — yin channel Xi-Cleft for bleeding), acute asthma, sore throat with loss of voice. Also treats hemorrhoids (Lung governs body hair and skin, controls the opening/closing).",
+          "memory_trick": "COLLECTION HOLE — Qi collects in this hole for acute Lung emergencies. When you're coughing blood, find the collection hole fast."
+        },
+        {
+          "channel": "LI",
+          "point": "LI-7 (Wen Liu)",
+          "english": "Warm Dwelling",
+          "board_pearl": "Acute abdominal pain, borborygmus, mouth and tongue sores, facial swelling. Yang channel Xi-Cleft for acute pain along the LI channel.",
+          "memory_trick": "WARM DWELLING — a warm place where LI channel Qi dwells deeply. Warmth soothes acute intestinal pain."
+        },
+        {
+          "channel": "ST",
+          "point": "ST-34 (Liang Qiu)",
+          "english": "Ridge Mound",
+          "board_pearl": "Acute gastric pain, acute knee pain. The go-to Xi-Cleft for acute stomach attacks. Located 2 cun above the superior-lateral border of the patella.",
+          "memory_trick": "RIDGE MOUND — a mound on the ridge of the thigh above the knee. Acute stomach pain? Run to the ridge mound."
+        },
+        {
+          "channel": "SP",
+          "point": "SP-8 (Di Ji)",
+          "english": "Earth's Crux",
+          "board_pearl": "Acute dysmenorrhea (menstrual cramps) — THE Xi-Cleft point for acute menstrual pain. Also treats acute abdominal pain, irregular menses, uterine bleeding (Yin Xi-Cleft for bleeding).",
+          "memory_trick": "EARTH'S CRUX — the Earth (Spleen) reaches its crux (critical point) during acute menstrual pain. The earth cracks open with cramps."
+        },
+        {
+          "channel": "HT",
+          "point": "HT-6 (Yin Xi)",
+          "english": "Yin Cleft",
+          "board_pearl": "Night sweats (THE point for night sweats), acute Heart pain, hematemesis (vomiting blood — Yin Xi-Cleft for bleeding), palpitations with anxiety. Literally named 'Yin Cleft' — the only Xi-Cleft point named as such.",
+          "memory_trick": "YIN CLEFT — it's literally named after its category. Night sweats = Yin deficiency = Yin Cleft. The name tells you everything."
+        },
+        {
+          "channel": "SI",
+          "point": "SI-6 (Yang Lao)",
+          "english": "Nursing the Aged",
+          "board_pearl": "Acute neck and shoulder pain, blurred vision in the elderly, acute low back pain. Benefits the eyes and sinews in aging. Located on the radial side of the styloid process of the ulna.",
+          "memory_trick": "NURSING THE AGED — this point nurses elderly patients with acute pain, stiff necks, and failing eyesight."
+        },
+        {
+          "channel": "UB",
+          "point": "UB-63 (Jin Men)",
+          "english": "Golden Gate",
+          "board_pearl": "Acute back pain, epilepsy in children, mania. Yang Xi-Cleft of UB for acute pain along the channel. Treats infantile convulsions.",
+          "memory_trick": "GOLDEN GATE — the golden gate swings open suddenly for acute emergencies on the Bladder channel."
+        },
+        {
+          "channel": "KD",
+          "point": "KD-5 (Shui Quan)",
+          "english": "Water Spring",
+          "board_pearl": "Amenorrhea, dysmenorrhea, prolapse of uterus, blurred vision. Yin Xi-Cleft — treats acute Kidney-related bleeding/menstrual disorders.",
+          "memory_trick": "WATER SPRING — the Kidney's water springs up acutely. When menstruation stops (amenorrhea), the water spring has dried up."
+        },
+        {
+          "channel": "PC",
+          "point": "PC-4 (Xi Men)",
+          "english": "Cleft Gate",
+          "board_pearl": "Acute cardiac pain, palpitations, hematemesis (vomiting blood), epistaxis. THE Xi-Cleft for acute chest/heart emergencies. Yin Xi-Cleft = acute bleeding from the Heart.",
+          "memory_trick": "CLEFT GATE — literally 'Xi (Cleft) Gate.' The gate opens for acute cardiac emergencies — chest pain, blood in vomit."
+        },
+        {
+          "channel": "SJ",
+          "point": "SJ-7 (Hui Zong)",
+          "english": "Convergence and Gathering",
+          "board_pearl": "Acute arm pain, deafness, epilepsy. Located 1 cun ulnar to SJ-6 (Zhi Gou), not directly on the channel line — unique anatomical feature commonly tested.",
+          "memory_trick": "CONVERGENCE AND GATHERING — Qi converges and gathers off to the side (1 cun off the main line). A gathering of acute SJ energy."
+        },
+        {
+          "channel": "GB",
+          "point": "GB-36 (Wai Qiu)",
+          "english": "Outer Hill",
+          "board_pearl": "Acute lateral leg pain, stiff neck, chest and hypochondriac pain. Yang Xi-Cleft of GB for acute channel pain. Level with GB-35 (Yin Wei Xi-Cleft).",
+          "memory_trick": "OUTER HILL — an outer hill on the lateral leg where GB Qi accumulates for acute flare-ups."
+        },
+        {
+          "channel": "LV",
+          "point": "LV-6 (Zhong Du)",
+          "english": "Central Capital",
+          "board_pearl": "Acute hernia pain, uterine bleeding (Yin Xi-Cleft = bleeding), acute lower abdominal pain, prolonged lochia (postpartum bleeding).",
+          "memory_trick": "CENTRAL CAPITAL — the Liver's central capital city where blood accumulates. When the capital floods (uterine bleeding), use LV-6."
+        }
+      ],
+      "extraordinary_vessel_xi_cleft_points": [
+        {
+          "vessel": "Yin Qiao Mai",
+          "point": "KD-8 (Jiao Xin)",
+          "english": "Intersection Reach",
+          "board_pearl": "Acute menstrual disorders — irregular menses, uterine bleeding, dysmenorrhea. Yin vessel Xi-Cleft for acute bleeding. Located 2 cun above the medial malleolus, posterior to the tibia.",
+          "memory_trick": "INTERSECTION REACH — where the Yin Qiao vessel's Qi reaches an intersection and accumulates for acute yin emergencies."
+        },
+        {
+          "vessel": "Yang Qiao Mai",
+          "point": "UB-59 (Fu Yang)",
+          "english": "Instep Yang",
+          "board_pearl": "Acute low back pain, leg pain, heaviness and pain of the head, sciatica along the Yang Qiao pathway.",
+          "memory_trick": "INSTEP YANG — Yang Qi on the instep (ankle area) where the Yang Qiao vessel accumulates for acute yang-channel pain."
+        },
+        {
+          "vessel": "Yin Wei Mai",
+          "point": "KD-9 (Zhu Bin)",
+          "english": "Guest House",
+          "board_pearl": "Acute mental disorders — mania, hernia pain, vomiting, pain of the medial leg. Also used for detoxification. The Yin Wei binds all the Yin channels.",
+          "memory_trick": "GUEST HOUSE — a house where visiting (guest) Qi stays temporarily during acute crises. The Yin Wei's emergency shelter."
+        },
+        {
+          "vessel": "Yang Wei Mai",
+          "point": "GB-35 (Yang Jiao)",
+          "english": "Yang Intersection",
+          "board_pearl": "Acute lateral knee and leg pain, chest fullness, mania. At the same level as GB-36 (GB Xi-Cleft). Yang Wei binds all the Yang channels.",
+          "memory_trick": "YANG INTERSECTION — where all the Yang vessels intersect and accumulate. An intersection where acute Yang-channel crises are managed."
+        }
+      ]
+    },
+    "front_mu_points": {
+      "description": "Front-Mu (Alarm) points — located on the chest and abdomen, where the Qi of each Zang-Fu organ gathers on the anterior surface. Used for diagnosis (tenderness = organ pathology) and treatment of their associated organ. They may or may not be on the channel of the organ they represent.",
+      "clinical_principle": "Front-Mu points become tender or sensitive when their associated organ is diseased — used as diagnostic alarm points. Combined with Back-Shu points for front-back (Mu-Shu) treatment, which is a very effective clinical strategy. Front-Mu tend to treat acute/excess conditions of their associated organs.",
+      "points": [
+        {
+          "organ": "Lung (LU)",
+          "point": "LU-1 (Zhong Fu)",
+          "english": "Central Treasury",
+          "location": "Lateral chest, 1st intercostal space, 6 cun lateral to the midline",
+          "on_own_channel": true,
+          "board_pearl": "Front-Mu of LU AND Meeting point of LU and SP. Located in the 1st ICS. Treats cough, asthma, chest pain. Caution: pneumothorax risk with deep needling.",
+          "memory_trick": "CENTRAL TREASURY — the Lung's treasury is on its own channel at the chest. The lungs are the treasury of Qi in the central chest."
+        },
+        {
+          "organ": "Pericardium (PC)",
+          "point": "REN-17 (Dan Zhong / Shan Zhong)",
+          "english": "Chest Center",
+          "location": "On the sternum, level with the 4th intercostal space, midpoint between the nipples",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of PC AND Influential point of Qi AND Sea of Qi. Triple identity. On the Ren channel, not the PC channel. Level with the nipples in men.",
+          "memory_trick": "The PC protects the Heart, and its alarm point is at the CENTER of the CHEST (Dan Zhong) — right where you'd feel heartache."
+        },
+        {
+          "organ": "Heart (HT)",
+          "point": "REN-14 (Ju Que)",
+          "english": "Great Gateway",
+          "location": "On the midline, 6 cun above the umbilicus",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of HT. On the Ren channel. Treats heart pain, palpitations, nausea, acid regurgitation, epilepsy, mania. The 'great gateway' to the Heart.",
+          "memory_trick": "GREAT GATEWAY — the great gate to the Heart is below the xiphoid. REN-14 for the Heart, REN-17 for the PC — Heart goes below PC on the midline."
+        },
+        {
+          "organ": "Liver (LV)",
+          "point": "LV-14 (Qi Men)",
+          "english": "Cycle Gate",
+          "location": "On the mammillary line, in the 6th intercostal space",
+          "on_own_channel": true,
+          "board_pearl": "Front-Mu of LV AND last point of the LV channel (before Qi cycles back to LU-1). Meeting point of LV, SP, and Yin Wei. Treats Liver Qi stagnation, hypochondriac pain, hiccup.",
+          "memory_trick": "CYCLE GATE — the last gate in the 12-channel cycle. Qi exits through the Liver's gate and cycles back to the Lung. LV-14 = gate of the cycle."
+        },
+        {
+          "organ": "Gallbladder (GB)",
+          "point": "GB-24 (Ri Yue)",
+          "english": "Sun and Moon",
+          "location": "Below the nipple, in the 7th intercostal space",
+          "on_own_channel": true,
+          "board_pearl": "Front-Mu of GB. On its own channel. Treats jaundice, bitter taste, vomiting, hiccup, lateral costal pain. Meeting point of GB, SP, and Yang Wei.",
+          "memory_trick": "SUN AND MOON — the Gallbladder decides between light (sun) and dark (moon), and its alarm point shines on the lateral ribcage."
+        },
+        {
+          "organ": "Spleen (SP)",
+          "point": "LV-13 (Zhang Men)",
+          "english": "Camphorwood Gate",
+          "location": "At the free end of the 11th rib",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of SP AND Influential point of Zang organs. On the LV channel, NOT the SP channel — very commonly tested. Meeting point of LV and GB. At the tip of the 11th floating rib.",
+          "memory_trick": "The Spleen's alarm is at the LIVER's gate (LV-13) — because Wood (LV) controls Earth (SP). The Liver keeps watch over the Spleen."
+        },
+        {
+          "organ": "Stomach (ST)",
+          "point": "REN-12 (Zhong Wan)",
+          "english": "Central Stomach",
+          "location": "On the midline, 4 cun above the umbilicus",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of ST AND Influential point of Fu organs. On the Ren channel. Meeting point of Ren with ST, SI, SJ. THE point for the middle jiao/digestion.",
+          "memory_trick": "CENTRAL STOMACH — the middle of the stomach region, center of all Fu activity. Zhong Wan = middle epigastrium = center of digestion."
+        },
+        {
+          "organ": "San Jiao (SJ)",
+          "point": "REN-5 (Shi Men)",
+          "english": "Stone Gate",
+          "location": "On the midline, 2 cun below the umbilicus",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of SJ. CAUTION: classically said to cause infertility in women — 'Stone Gate' blocks conception. This is a commonly tested board fact, though clinically debated.",
+          "memory_trick": "STONE GATE — a stone gate blocks the SJ's water passage. The stone gate also blocks fertility (classical contraindication)."
+        },
+        {
+          "organ": "Kidney (KD)",
+          "point": "GB-25 (Jing Men)",
+          "english": "Capital Gate",
+          "location": "At the free end of the 12th rib",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of KD. On the GB channel, NOT the KD channel — commonly tested. Located at the tip of the 12th (last floating) rib. The Kidneys are the capital/root of life.",
+          "memory_trick": "CAPITAL GATE — the Kidney is the capital (foundation) of the body, and its gate is at the lowest floating rib (12th). GB-25 on the side, not KD channel."
+        },
+        {
+          "organ": "Large Intestine (LI)",
+          "point": "ST-25 (Tian Shu)",
+          "english": "Celestial Pivot",
+          "location": "2 cun lateral to the umbilicus",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of LI. On the ST channel. THE point for all intestinal disorders — diarrhea, constipation, dysentery, IBS. The pivot between upper and lower body at the navel level.",
+          "memory_trick": "CELESTIAL PIVOT — the navel is the pivot of the body, and ST-25 flanks it. The Large Intestine's alarm pivots between constipation and diarrhea."
+        },
+        {
+          "organ": "Small Intestine (SI)",
+          "point": "REN-4 (Guan Yuan)",
+          "english": "Origin Pass",
+          "location": "On the midline, 3 cun below the umbilicus",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of SI AND Meeting of Ren with SP, LV, KD. Major tonification point — moxa on REN-4 to rescue Yang. Treats impotence, enuresis, menstrual disorders, diarrhea.",
+          "memory_trick": "ORIGIN PASS — the pass to your origin (Yuan Qi). The Small Intestine separates pure from impure, and the origin pass is where the pure essence gathers."
+        },
+        {
+          "organ": "Urinary Bladder (UB)",
+          "point": "REN-3 (Zhong Ji)",
+          "english": "Central Pole",
+          "location": "On the midline, 4 cun below the umbilicus, 1 cun above the pubic symphysis",
+          "on_own_channel": false,
+          "board_pearl": "Front-Mu of UB AND Meeting of Ren with SP, LV, KD. THE point for urinary disorders — UTI, urinary retention, incontinence. Also treats menstrual disorders.",
+          "memory_trick": "CENTRAL POLE — the lowest pole on the midline (almost at the pubic bone). The Bladder's alarm is at the very bottom — where urine collects."
+        }
+      ],
+      "board_high_yield_note": "Front-Mu points NOT on their own channel: PC (REN-17), HT (REN-14), SP (LV-13), ST (REN-12), SJ (REN-5), KD (GB-25), LI (ST-25), SI (REN-4), UB (REN-3). Front-Mu points ON their own channel: LU (LU-1), LV (LV-14), GB (GB-24). This distinction is frequently tested."
+    },
+    "back_shu_points": {
+      "description": "Back-Shu (Transporting) points — located on the Urinary Bladder channel, 1.5 cun lateral to the posterior midline. Each corresponds to a specific Zang-Fu organ. Used for diagnosis and treatment of their associated organs. All are on the UB channel.",
+      "clinical_principle": "Back-Shu points tend to treat chronic/deficiency conditions of their respective organs (contrasted with Front-Mu for acute/excess). Combined with Front-Mu for comprehensive Shu-Mu treatment. They follow a specific vertical order on the back corresponding to organ location in the body.",
+      "vertical_order_note": "The Back-Shu points follow the order of organs from top to bottom: LU (upper jiao) → PC → HT → LV → GB → SP → ST → SJ → KD → LI → SI → UB (lower jiao). This sequence is commonly tested.",
+      "points": [
+        {
+          "organ": "Lung (LU)",
+          "point": "UB-13 (Fei Shu)",
+          "english": "Lung Shu",
+          "vertebral_level": "T3",
+          "board_pearl": "Back-Shu of LU. All respiratory disorders — cough, asthma, TB, spontaneous sweating, night sweats. With REN-17 and LU-7 for chronic asthma.",
+          "memory_trick": "Lungs are at the top of the torso, so their Back-Shu is the highest (T3). FEI = Lung, SHU = transport. The Lung Shu transports breath."
+        },
+        {
+          "organ": "Pericardium (PC)",
+          "point": "UB-14 (Jue Yin Shu)",
+          "english": "Jue Yin Shu",
+          "vertebral_level": "T4",
+          "board_pearl": "Back-Shu of PC. Named after the Jue Yin level, not 'Pericardium Shu.' Treats heart pain, palpitations, cough, vomiting, chest tightness.",
+          "memory_trick": "PC is right below the Lung (T4 below T3). Named JUE YIN SHU — remember the PC is the Hand Jue Yin channel."
+        },
+        {
+          "organ": "Heart (HT)",
+          "point": "UB-15 (Xin Shu)",
+          "english": "Heart Shu",
+          "vertebral_level": "T5",
+          "board_pearl": "Back-Shu of HT. Heart pain, palpitations, insomnia, anxiety, poor memory, night sweats, mania. With HT-7 for chronic insomnia.",
+          "memory_trick": "The Heart sits below the PC (its protector) — T5 after T4. XIN = Heart. The Heart Shu calms the spirit from behind."
+        },
+        {
+          "organ": "Liver (LV)",
+          "point": "UB-18 (Gan Shu)",
+          "english": "Liver Shu",
+          "vertebral_level": "T9",
+          "board_pearl": "Back-Shu of LV. Treats all Liver conditions — Liver Qi stagnation, eye disorders, jaundice, hypochondriac pain, dizziness, headache, irritability. Benefits the eyes (Liver opens to eyes).",
+          "memory_trick": "GAN = Liver. There's a gap between HT (T5) and LV (T9) — the diaphragm lies between them. Below the diaphragm begins the middle jiao organs."
+        },
+        {
+          "organ": "Gallbladder (GB)",
+          "point": "UB-19 (Dan Shu)",
+          "english": "Gallbladder Shu",
+          "vertebral_level": "T10",
+          "board_pearl": "Back-Shu of GB. Treats jaundice, bitter taste, lateral costal pain, vomiting, timidity. The GB is paired with the LV, so it's right below (T10 after T9).",
+          "memory_trick": "DAN = Gallbladder. Dan Shu follows Gan Shu — the Gallbladder follows the Liver like a faithful partner. T10 after T9."
+        },
+        {
+          "organ": "Spleen (SP)",
+          "point": "UB-20 (Pi Shu)",
+          "english": "Spleen Shu",
+          "vertebral_level": "T11",
+          "board_pearl": "Back-Shu of SP. Treats all Spleen disorders — poor appetite, abdominal distension, diarrhea, edema, blood disorders (SP holds blood), fatigue. With REN-12 for chronic digestive weakness.",
+          "memory_trick": "PI = Spleen. T11 — the Spleen is in the middle jiao, middle of the back. Moxa here for chronic Spleen Qi deficiency."
+        },
+        {
+          "organ": "Stomach (ST)",
+          "point": "UB-21 (Wei Shu)",
+          "english": "Stomach Shu",
+          "vertebral_level": "T12",
+          "board_pearl": "Back-Shu of ST. Treats gastric pain, nausea, vomiting, abdominal distension, poor appetite. ST follows SP — the paired organs are adjacent (T11-T12).",
+          "memory_trick": "WEI = Stomach. T12 — right after Spleen (T11). The Stomach and Spleen are inseparable partners at the center."
+        },
+        {
+          "organ": "San Jiao (SJ)",
+          "point": "UB-22 (San Jiao Shu)",
+          "english": "San Jiao Shu",
+          "vertebral_level": "L1",
+          "board_pearl": "Back-Shu of SJ. Treats edema, borborygmus, abdominal distension, diarrhea, vomiting. The SJ governs water passages — this point regulates fluid metabolism.",
+          "memory_trick": "L1 — the San Jiao spans all three burners, and its Back-Shu is at the junction of thoracic and lumbar (the transition point). SAN JIAO SHU regulates water."
+        },
+        {
+          "organ": "Kidney (KD)",
+          "point": "UB-23 (Shen Shu)",
+          "english": "Kidney Shu",
+          "vertebral_level": "L2",
+          "board_pearl": "Back-Shu of KD. THE point for tonifying the Kidneys — low back pain, tinnitus, impotence, enuresis, edema, chronic asthma. With KD-3 for chronic Kidney deficiency. Moxa for Kidney Yang deficiency.",
+          "memory_trick": "SHEN = Kidney. L2 — the Kidneys are anatomically located at L1-L2. The location matches the actual organ. Easiest Back-Shu to remember."
+        },
+        {
+          "organ": "Large Intestine (LI)",
+          "point": "UB-25 (Da Chang Shu)",
+          "english": "Large Intestine Shu",
+          "vertebral_level": "L4",
+          "board_pearl": "Back-Shu of LI. Treats constipation, diarrhea, dysentery, low back pain, abdominal distension. With ST-25 (Front-Mu of LI) for chronic intestinal disorders.",
+          "memory_trick": "DA CHANG = Large Intestine. L4 — getting lower for the lower jiao organs. The large intestine descends, and so does its Back-Shu."
+        },
+        {
+          "organ": "Small Intestine (SI)",
+          "point": "UB-27 (Xiao Chang Shu)",
+          "english": "Small Intestine Shu",
+          "vertebral_level": "S1 (1st sacral foramen level)",
+          "board_pearl": "Back-Shu of SI. Treats lower abdominal pain, dysentery, enuresis, seminal emission, hematuria. At the sacral level — the SI separates pure from impure in the lowest jiao.",
+          "memory_trick": "XIAO CHANG = Small Intestine. S1 — the sacral bone begins. The SI Shu is at the sacred (sacral) separation point."
+        },
+        {
+          "organ": "Urinary Bladder (UB)",
+          "point": "UB-28 (Pang Guang Shu)",
+          "english": "Bladder Shu",
+          "vertebral_level": "S2 (2nd sacral foramen level)",
+          "board_pearl": "Back-Shu of UB. The Bladder's own Back-Shu point, on its own channel. Treats urinary disorders — retention, incontinence, UTI, low back pain, sciatica. With REN-3 for chronic urinary conditions.",
+          "memory_trick": "PANG GUANG = Bladder. S2 — the very lowest Back-Shu, because the Bladder is the lowest organ. The Bladder's Shu is at the bottom of the Back-Shu ladder."
+        }
+      ]
+    },
+    "lower_he_sea_points": {
+      "description": "Lower He-Sea points — the six Fu (Yang hollow) organs each have a Lower He-Sea point on the leg, where their Qi descends and pools. Per the Ling Shu: 'The six Fu organs all have He points on the lower body.' Three Fu organs (ST, GB, UB) have their Lower He-Sea as their own channel's He-Sea point. Three (LI, SI, SJ) borrow points on the ST or UB channels.",
+      "clinical_principle": "Lower He-Sea points treat disorders of their respective Fu organ. They are THE primary points for treating Fu organ pathology — diarrhea, constipation, urinary issues, biliary disorders. 'He-Sea points treat Fu organ disorders' (Ling Shu Chapter 4).",
+      "points": [
+        {
+          "fu_organ": "Stomach (ST)",
+          "point": "ST-36 (Zu San Li)",
+          "english": "Leg Three Miles",
+          "on_own_channel": true,
+          "board_pearl": "Lower He-Sea of ST = its own He-Sea point. THE point for Stomach/digestive disorders. Also Command of Abdomen, tonification point, Sea of Water and Grain.",
+          "memory_trick": "The Stomach's He-Sea is its own point — the Stomach channel runs down the leg and pools at ST-36 naturally."
+        },
+        {
+          "fu_organ": "Large Intestine (LI)",
+          "point": "ST-37 (Shang Ju Xu)",
+          "english": "Upper Great Void",
+          "on_own_channel": false,
+          "note": "On the ST channel, not the LI channel",
+          "board_pearl": "Lower He-Sea of LI — HIGH YIELD board question. Located on the ST channel, 3 cun below ST-36. Treats appendicitis, diarrhea, dysentery, constipation. UPPER Great Void = LARGE Intestine.",
+          "memory_trick": "UPPER (Shang) void for the LARGE intestine — 'upper' and 'large' go together. ST-37 is ABOVE ST-39, and the Large Intestine is ABOVE the Small Intestine."
+        },
+        {
+          "fu_organ": "Small Intestine (SI)",
+          "point": "ST-39 (Xia Ju Xu)",
+          "english": "Lower Great Void",
+          "on_own_channel": false,
+          "note": "On the ST channel, not the SI channel",
+          "board_pearl": "Lower He-Sea of SI — HIGH YIELD board question. On the ST channel, 3 cun below ST-37. Treats small intestine disorders, lower abdominal pain, diarrhea. LOWER Great Void = SMALL Intestine.",
+          "memory_trick": "LOWER (Xia) void for the SMALL intestine — 'lower' and 'small' go together. ST-39 is BELOW ST-37, and the Small Intestine is BELOW the Large Intestine anatomically."
+        },
+        {
+          "fu_organ": "Urinary Bladder (UB)",
+          "point": "UB-40 (Wei Zhong)",
+          "english": "Middle of the Crook",
+          "on_own_channel": true,
+          "note": "Some classical sources list UB-39 (Wei Yang) as the Lower He-Sea of San Jiao, with UB-40 as the Lower He-Sea of UB. Deadman lists UB-40 as He-Sea of UB.",
+          "board_pearl": "Lower He-Sea of UB = its own He-Sea point. Command of the Back. Treats urinary disorders AND back pain. Bled for heat in the blood and acute lumbar pain.",
+          "memory_trick": "The Bladder's pool is in the MIDDLE OF THE CROOK (popliteal fossa) — back of the knee, back of the body, back pain + bladder."
+        },
+        {
+          "fu_organ": "Gallbladder (GB)",
+          "point": "GB-34 (Yang Ling Quan)",
+          "english": "Yang Mound Spring",
+          "on_own_channel": true,
+          "board_pearl": "Lower He-Sea of GB = its own He-Sea point AND Influential of Sinews. Treats cholecystitis, gallstones, jaundice, bitter taste, lateral costal pain, AND all sinew/tendon disorders.",
+          "memory_trick": "The Gallbladder's pool is at YANG MOUND SPRING — the spring at the fibular head where bile Qi and sinew Qi both gather."
+        },
+        {
+          "fu_organ": "San Jiao (SJ)",
+          "point": "UB-39 (Wei Yang)",
+          "english": "Bend Yang",
+          "on_own_channel": false,
+          "note": "On the UB channel, lateral to UB-40 in the popliteal fossa",
+          "board_pearl": "Lower He-Sea of SJ — HIGH YIELD. On the UB channel, NOT the SJ channel. The SJ governs water passages, and its Lower He-Sea treats edema, urinary difficulty, low back/leg pain. Lateral to UB-40.",
+          "memory_trick": "The San Jiao (water regulator) borrows a UB point — BEND YANG is next to Wei Zhong in the knee crease. The water organ (SJ) sits beside the water channel (UB)."
+        }
+      ],
+      "board_high_yield_note": "KEY distinction: ST-37 (Upper Void) = Lower He-Sea of LARGE Intestine. ST-39 (Lower Void) = Lower He-Sea of SMALL Intestine. This is reversed from what you might expect (Upper ≠ Small). Remember: UPPER-LARGE, LOWER-SMALL."
+    },
+    "four_command_points": {
+      "description": "Four Command Points of Gao Wu (Si Zong Xue) — four points that each 'command' a specific body region. From the Ming Dynasty physician Gao Wu. Extremely high yield for board exams.",
+      "points": [
+        {
+          "region": "Face and Mouth",
+          "point": "LI-4 (He Gu)",
+          "english": "Joining Valley",
+          "board_pearl": "LI-4 commands the face — any facial disorder (toothache, trigeminal neuralgia, facial paralysis, nasal disorders, acne). The LI channel ends at the nose (LI-20) and crosses to the opposite ST channel at the face.",
+          "memory_trick": "Put your HAND (He Gu) on your FACE — the hand commands the face. LI-4 is on the hand, commands the mouth and face."
+        },
+        {
+          "region": "Head and Back of Neck (Nape)",
+          "point": "LU-7 (Lie Que)",
+          "english": "Broken Sequence",
+          "board_pearl": "LU-7 commands the head and nape — occipital headache, stiff neck, common cold with neck pain. Also opens Ren Mai. The Lung Luo vessel ascends to the head.",
+          "memory_trick": "BROKEN SEQUENCE breaks through to the HEAD. The Lung's Luo vessel shoots up from the wrist to the back of the head and neck."
+        },
+        {
+          "region": "Back and Lumbar Region",
+          "point": "UB-40 (Wei Zhong)",
+          "english": "Middle of the Crook",
+          "board_pearl": "UB-40 commands the back — acute and chronic back pain, lumbar strain, sciatica. The entire UB channel runs along the back in two parallel lines. 'For back pain, seek Wei Zhong' is a classical saying.",
+          "memory_trick": "The BACK OF THE KNEE commands the BACK OF THE BODY. UB-40 is behind the knee, and the entire back is UB territory."
+        },
+        {
+          "region": "Abdomen",
+          "point": "ST-36 (Zu San Li)",
+          "english": "Leg Three Miles",
+          "board_pearl": "ST-36 commands the abdomen — all abdominal disorders, digestive issues, diarrhea, constipation, abdominal pain. The Stomach governs descent and the abdomen is Yang Ming territory.",
+          "memory_trick": "The LEG commands the BELLY. Walk three miles (Zu San Li) and your stomach will be ready to eat — ST-36 governs all things abdominal."
+        }
+      ],
+      "board_high_yield_note": "Mnemonic for the Four Command Points: 'FACE=Hand(LI-4), HEAD=Wrist(LU-7), BACK=Knee(UB-40), BELLY=Leg(ST-36)' — the treatment point gets progressively more distal from the problem area."
+    },
+    "major_crossing_meeting_points": {
+      "description": "Major Crossing/Meeting (Hui/Jiao Hui) points — points where two or more channels intersect. These points can treat disorders of all the channels that meet at that location. Extremely important for understanding point selection in clinical practice and on board exams.",
+      "points": [
+        {
+          "point": "SP-6 (San Yin Jiao)",
+          "english": "Three Yin Intersection",
+          "meeting_of": [
+            "SP (Tai Yin)",
+            "LV (Jue Yin)",
+            "KD (Shao Yin)"
+          ],
+          "description": "Meeting of the three Yin channels of the leg",
+          "board_pearl": "THE most important meeting point. Treats any disorder involving SP, LV, or KD — gynecological disorders (all three Yin organs nourish the uterus), insomnia, digestive issues, urinary problems, menstrual irregularity. CONTRAINDICATED IN PREGNANCY (strongly moves blood and Qi in the lower abdomen).",
+          "memory_trick": "SAN YIN JIAO = Three Yin Meeting — it's in the name. Three yin sisters (SP, LV, KD) meet at the ankle for a reunion. Together they govern blood, menstruation, and the lower jiao."
+        },
+        {
+          "point": "DU-14 (Da Zhui)",
+          "english": "Great Vertebra",
+          "meeting_of": [
+            "Du Mai",
+            "All six Yang channels (LI, ST, SI, UB, SJ, GB)"
+          ],
+          "description": "Meeting of Du Mai with all six Yang channels",
+          "board_pearl": "THE great Yang point. Where all Yang energy converges. Clears heat, releases the exterior, treats fever, malaria, epilepsy, neck stiffness. Located below C7 (the great vertebra). Used with bloodletting for high fever.",
+          "memory_trick": "The GREAT VERTEBRA (C7) is the summit where all Yang channels meet — the highest point on the spine before the skull. All Yang roads lead to Da Zhui."
+        },
+        {
+          "point": "REN-3 (Zhong Ji)",
+          "english": "Central Pole",
+          "meeting_of": [
+            "Ren Mai",
+            "SP",
+            "LV",
+            "KD"
+          ],
+          "description": "Meeting of Ren with three Yin channels of the leg",
+          "board_pearl": "Front-Mu of UB AND Meeting of Ren/SP/LV/KD. The lowest Ren meeting point. Primary for urinary disorders and genital/gynecological conditions.",
+          "memory_trick": "The CENTRAL POLE at the lowest point of the abdomen — where the Ren channel invites the three leg Yin channels to meet and manage the lower jiao."
+        },
+        {
+          "point": "REN-4 (Guan Yuan)",
+          "english": "Origin Pass",
+          "meeting_of": [
+            "Ren Mai",
+            "SP",
+            "LV",
+            "KD"
+          ],
+          "description": "Meeting of Ren with three Yin channels of the leg",
+          "board_pearl": "Front-Mu of SI AND Meeting of Ren/SP/LV/KD. Major tonification point — tonifies Yuan Qi, warms the Yang, nourishes Blood and Yin. Moxa on REN-4 for collapse of Yang.",
+          "memory_trick": "The ORIGIN PASS — the gateway to your original Qi. All three Yin channels pass through here to access the body's deepest reserves."
+        },
+        {
+          "point": "GB-20 (Feng Chi)",
+          "english": "Wind Pool",
+          "meeting_of": [
+            "GB (Shao Yang)",
+            "SJ (Shao Yang)",
+            "Yang Wei Mai",
+            "Yang Qiao Mai"
+          ],
+          "description": "Meeting of GB, SJ, Yang Wei, and Yang Qiao at the occiput",
+          "board_pearl": "THE point for wind — both internal and external. Treats headache, dizziness, eye disorders, common cold, neck stiffness, hypertension, stroke (internal wind). Four vessels meeting = extremely powerful point.",
+          "memory_trick": "WIND POOL — wind pools (collects) at the back of the skull in the occipital hollow. Four channels meet at the windy pool to control all wind disorders."
+        },
+        {
+          "point": "GB-21 (Jian Jing)",
+          "english": "Shoulder Well",
+          "meeting_of": [
+            "GB (Shao Yang)",
+            "SJ (Shao Yang)",
+            "ST (Yang Ming)",
+            "Yang Wei Mai"
+          ],
+          "description": "Meeting of GB, SJ, ST, and Yang Wei Mai",
+          "board_pearl": "Treats shoulder pain, neck stiffness, difficulty in labor (descends Qi). CONTRAINDICATED IN PREGNANCY (descends Qi strongly — can cause miscarriage). Strong point for stiffness and tension in the trapezius.",
+          "memory_trick": "SHOULDER WELL — the well on top of the shoulder where four channels draw water. The well descends, which is great for labor but dangerous in pregnancy."
+        },
+        {
+          "point": "DU-20 (Bai Hui)",
+          "english": "Hundred Meetings",
+          "meeting_of": [
+            "Du Mai",
+            "UB",
+            "GB",
+            "SJ",
+            "LV"
+          ],
+          "description": "Meeting of Du with UB, GB, SJ, and LV at the vertex of the head",
+          "board_pearl": "Called 'Hundred Meetings' because many channels converge here at the crown. Raises Yang Qi — treats prolapse (uterine, rectal, gastroptosis). Calms the spirit, benefits the brain. Moxa for sinking Qi.",
+          "memory_trick": "BAI HUI = HUNDRED MEETINGS — the very top of the head where a hundred (many) channels meet. The crown of Yang. Lifts everything that is sinking."
+        },
+        {
+          "point": "REN-17 (Dan Zhong)",
+          "english": "Chest Center",
+          "meeting_of": [
+            "Ren Mai",
+            "SP",
+            "KD",
+            "SI",
+            "SJ"
+          ],
+          "description": "Meeting of Ren with SP, KD, SI, and SJ",
+          "board_pearl": "Front-Mu of PC, Influential of Qi, Sea of Qi, AND this meeting point. Regulates Qi in the upper jiao, benefits the breasts (insufficient lactation), treats cough, asthma, chest oppression.",
+          "memory_trick": "The CHEST CENTER where Qi gathers — five channels meet at the sea of Qi. The hub of the upper jiao."
+        },
+        {
+          "point": "REN-12 (Zhong Wan)",
+          "english": "Central Stomach",
+          "meeting_of": [
+            "Ren Mai",
+            "ST",
+            "SI",
+            "SJ"
+          ],
+          "description": "Meeting of Ren with ST, SI, and SJ",
+          "board_pearl": "Front-Mu of ST, Influential of Fu organs, AND meeting point. The command center for middle jiao digestion where three Yang channels meet the Ren.",
+          "memory_trick": "CENTRAL STOMACH — the stomach region where digestive Yang channels (ST, SI, SJ) converge on the Ren Mai midline."
+        },
+        {
+          "point": "UB-17 (Ge Shu)",
+          "english": "Diaphragm Shu",
+          "meeting_of": [
+            "UB channel (not a multi-channel meeting point per se)"
+          ],
+          "description": "Influential point of Blood — not a traditional crossing point but listed for its special role",
+          "board_pearl": "Influential of Blood. While not a multi-channel crossing point, it is THE point for all blood disorders. Used with SP-10 (Sea of Blood) for blood stasis, skin conditions from blood heat, and all bleeding/blood deficiency.",
+          "memory_trick": "The DIAPHRAGM SHU is the blood checkpoint — all blood passes through the diaphragm. The diaphragm is the blood's crossing point."
+        },
+        {
+          "point": "SP-10 (Xue Hai)",
+          "english": "Sea of Blood",
+          "meeting_of": [
+            "SP channel"
+          ],
+          "description": "Not a multi-channel crossing point but the empirical 'Sea of Blood'",
+          "board_pearl": "THE point for blood disorders on the SP channel — skin diseases from blood heat, irregular menstruation, urticaria, eczema. The Spleen governs blood (holds it in the vessels). With UB-17 for comprehensive blood treatment.",
+          "memory_trick": "XUE HAI = SEA OF BLOOD — the sea where all blood conditions are washed clean. Located above the knee in the bulge of the vastus medialis."
+        },
+        {
+          "point": "GB-39 (Xuan Zhong)",
+          "english": "Suspended Bell",
+          "meeting_of": [
+            "GB (Shao Yang)",
+            "ST (Yang Ming)",
+            "UB (Tai Yang)"
+          ],
+          "description": "Meeting of the three Yang channels of the leg",
+          "board_pearl": "Influential of Marrow AND Meeting of three leg Yang channels. Dual role — treats marrow/brain disorders (stroke, hemiplegia, dizziness) AND treats conditions where all three Yang leg channels are involved.",
+          "memory_trick": "The SUSPENDED BELL rings for all three Yang channels of the leg — GB, ST, UB meet at the ankle where the bell hangs. Also the bell that rings in the marrow."
+        },
+        {
+          "point": "DU-26 (Shui Gou / Ren Zhong)",
+          "english": "Water Trough / Human Center",
+          "meeting_of": [
+            "Du Mai",
+            "LI",
+            "ST"
+          ],
+          "description": "Meeting of Du with LI and ST at the philtrum",
+          "board_pearl": "THE #1 point for loss of consciousness / emergency resuscitation. Located at the junction of the upper 1/3 and lower 2/3 of the philtrum. Restores consciousness, calms the spirit, benefits the spine.",
+          "memory_trick": "REN ZHONG = Human Center — the center of the human face, the point that brings you back to being human (conscious). Press here in any emergency."
+        },
+        {
+          "point": "ST-8 (Tou Wei)",
+          "english": "Head Corner",
+          "meeting_of": [
+            "ST (Yang Ming)",
+            "GB (Shao Yang)",
+            "Yang Wei Mai"
+          ],
+          "description": "Meeting of ST and GB with Yang Wei at the forehead corner",
+          "board_pearl": "Treats frontal headache, dizziness, blurred vision, eye pain, excessive lacrimation. At the corner of the forehead where the hairline meets the temporal region.",
+          "memory_trick": "HEAD CORNER — where the Stomach and Gallbladder channels meet at the corner of the forehead. The Yang Wei ties them together like a headband."
+        },
+        {
+          "point": "UB-1 (Jing Ming)",
+          "english": "Bright Eyes",
+          "meeting_of": [
+            "UB",
+            "SI",
+            "ST",
+            "GB",
+            "SJ",
+            "Yin Qiao",
+            "Yang Qiao",
+            "Du Mai"
+          ],
+          "description": "Meeting of many channels at the inner canthus of the eye",
+          "board_pearl": "THE most multi-channel meeting point in the body — where the most channels converge. Treats all eye disorders. Caution with needling — no aggressive manipulation or retention. Do not moxa.",
+          "memory_trick": "BRIGHT EYES — where nearly every channel sends a branch to brighten the eyes. The eye is the most nourished sensory organ because so many channels meet there."
+        },
+        {
+          "point": "CV-1 / REN-1 (Hui Yin)",
+          "english": "Meeting of Yin",
+          "meeting_of": [
+            "Ren Mai",
+            "Du Mai",
+            "Chong Mai"
+          ],
+          "description": "Meeting of Ren, Du, and Chong at the perineum",
+          "board_pearl": "Where the three most important extraordinary vessels originate and meet. Treats drowning, loss of consciousness, genital disorders, hemorrhoids. Located at the perineum — center of the pelvic floor.",
+          "memory_trick": "MEETING OF YIN — the most Yin location on the body (perineum), where the three great vessels (Ren, Du, Chong) all originate. The root of all extraordinary vessel activity."
+        }
+      ],
+      "board_high_yield_note": "Most commonly tested meeting points: SP-6 (three leg Yin), DU-14 (all Yang + Du), GB-39 (three leg Yang), REN-3 and REN-4 (Ren + three leg Yin), GB-20 (GB/SJ/YangWei/YangQiao), DU-20 (Hundred Meetings). Know which channels meet at each point — this is a frequent board question format."
+    }
+  }
+}

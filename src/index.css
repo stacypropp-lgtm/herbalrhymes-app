@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #22573E;
+  --color-forest-light: #2d7052;
+  --color-forest-dark: #1a4230;
+  --color-cream: #FDF8F0;
+  --color-cream-dark: #f5edd8;
+  --color-gold: #C4A265;
+  --color-gold-light: #d4b87a;
+  --color-charcoal: #2D2D2D;
+  --color-charcoal-light: #444444;
+
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .dark body, body.dark {
+    background-color: var(--color-charcoal);
+    color: var(--color-cream);
+  }
+}
+
+@layer components {
+  .card-flip {
+    perspective: 1000px;
+  }
+
+  .card-flip-inner {
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+  }
+
+  .card-flip-inner.flipped {
+    transform: rotateY(180deg);
+  }
+
+  .card-front,
+  .card-back {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  .card-back {
+    transform: rotateY(180deg);
+  }
+
+  .btn-primary {
+    @apply bg-forest text-cream px-6 py-3 rounded-xl font-semibold transition-all duration-200;
+  }
+
+  .btn-primary:hover {
+    @apply bg-forest-light shadow-lg;
+  }
+
+  .btn-primary:active {
+    @apply scale-95;
+  }
+
+  .btn-gold {
+    @apply bg-gold text-charcoal px-6 py-3 rounded-xl font-semibold transition-all duration-200;
+  }
+
+  .btn-gold:hover {
+    @apply bg-gold-light shadow-lg;
+  }
+
+  .progress-ring {
+    transition: stroke-dashoffset 0.5s ease-out;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: var(--font-heading);
+  }
+
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom, 16px);
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
