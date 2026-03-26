@@ -17,11 +17,40 @@ const DECK_OPTIONS: { value: DeckType; label: string; icon: string }[] = [
 const COUNT_OPTIONS = [10, 20, 30] as const;
 const TIMER_SECONDS = 60;
 
+// Category helpers
+function getHerbCategories(): string[] {
+  const cats = new Set<string>();
+  (herbsData as Herb[]).forEach(h => cats.add(h.category));
+  return Array.from(cats).sort();
+}
+
+function getAcupointChannels(): { code: string; name: string }[] {
+  const channels = new Map<string, string>();
+  (acupointsData as Acupoint[]).forEach(p => {
+    if (p.channel && p.channelName && !channels.has(p.channel)) {
+      channels.set(p.channel, p.channelName);
+    }
+  });
+  return Array.from(channels.entries())
+    .map(([code, name]) => ({ code, name }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function getFormulaCategories(): string[] {
+  const cats = new Set<string>();
+  (formulasData as Formula[]).forEach(f => {
+    if ('category' in f && typeof (f as any).category === 'string') cats.add((f as any).category);
+  });
+  return Array.from(cats).sort();
+}
+
 export default function QuizPage() {
   // Setup state
   const [deck, setDeck] = useState<DeckType>('herbs');
   const [timed, setTimed] = useState(false);
   const [questionCount, setQuestionCount] = useState<number>(20);
+  const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
+  const [showCategoryPicker, setShowCategoryPicker] = useState(false);
 
   // Quiz state
   const [phase, setPhase] = useState<Phase>('setup');
@@ -77,9 +106,20 @@ export default function QuizPage() {
   }, [clearTimer]);
 
   function handleStartQuiz() {
-    const herbs = herbsData as Herb[];
-    const formulas = formulasData as Formula[];
-    const acupoints = acupointsData as Acupoint[];
+    let herbs = herbsData as Herb[];
+    let formulas = formulasData as Formula[];
+    let acupoints = acupointsData as Acupoint[];
+
+    // Filter by selected categories if any
+    if (selectedCategories.size > 0) {
+      if (deck === 'herbs') {
+        herbs = herbs.filter(h => selectedCategories.has(h.category));
+      } else if (deck === 'acupoints') {
+        acupoints = acupoints.filter(p => selectedCategories.has(p.channel));
+      } else if (deck === 'formulas') {
+        formulas = formulas.filter(f => 'category' in f && selectedCategories.has((f as any).category));
+      }
+    }
 
     const q = generateQuiz(deck, herbs, formulas, acupoints, questionCount);
     setQuestions(q);
@@ -178,7 +218,7 @@ export default function QuizPage() {
             {DECK_OPTIONS.map(opt => (
               <button
                 key={opt.value}
-                onClick={() => setDeck(opt.value)}
+                onClick={() => { setDeck(opt.value); setSelectedCategories(new Set()); setShowCategoryPicker(false); }}
                 className={`flex flex-col items-center gap-1.5 p-4 rounded-xl border-2 transition-all
                   ${deck === opt.value
                     ? 'border-forest dark:border-gold bg-forest/10 dark:bg-gold/10'
@@ -190,6 +230,115 @@ export default function QuizPage() {
               </button>
             ))}
           </div>
+        </div>
+
+        {/* Category / Channel Filter */}
+        <div className="space-y-3">
+          <div className="flex items-center justify-between">
+            <label className="font-heading text-sm font-semibold uppercase tracking-wider text-charcoal/70 dark:text-cream/70">
+              {deck === 'acupoints' ? 'Filter by Channel' : 'Filter by Category'}
+            </label>
+            <button
+              onClick={() => setShowCategoryPicker(!showCategoryPicker)}
+              className="text-xs font-semibold text-forest dark:text-gold"
+            >
+              {showCategoryPicker ? 'Hide' : selectedCategories.size > 0 ? `${selectedCategories.size} selected — Edit` : 'Choose...'}
+            </button>
+          </div>
+
+          {!showCategoryPicker && selectedCategories.size === 0 && (
+            <p className="text-xs text-charcoal/50 dark:text-cream/50">All categories (random mix)</p>
+          )}
+
+          {!showCategoryPicker && selectedCategories.size > 0 && (
+            <div className="flex flex-wrap gap-1.5">
+              {Array.from(selectedCategories).map(cat => (
+                <span key={cat} className="text-xs bg-forest/10 dark:bg-gold/10 text-forest dark:text-gold px-2 py-1 rounded-lg">
+                  {deck === 'acupoints'
+                    ? getAcupointChannels().find(c => c.code === cat)?.name ?? cat
+                    : cat.length > 30 ? cat.substring(0, 30) + '…' : cat}
+                </span>
+              ))}
+              <button
+                onClick={() => setSelectedCategories(new Set())}
+                className="text-xs text-red-500 dark:text-red-400 px-2 py-1"
+              >
+                Clear all
+              </button>
+            </div>
+          )}
+
+          {showCategoryPicker && (
+            <div className="max-h-56 overflow-y-auto rounded-xl border border-charcoal/10 dark:border-cream/10 divide-y divide-charcoal/5 dark:divide-cream/5">
+              {deck === 'herbs' && getHerbCategories().map(cat => {
+                const selected = selectedCategories.has(cat);
+                return (
+                  <button
+                    key={cat}
+                    onClick={() => {
+                      const next = new Set(selectedCategories);
+                      if (selected) next.delete(cat); else next.add(cat);
+                      setSelectedCategories(next);
+                    }}
+                    className={`w-full text-left px-3 py-2.5 text-sm flex items-center gap-2 transition-colors
+                      ${selected ? 'bg-forest/10 dark:bg-gold/10' : 'hover:bg-charcoal/5 dark:hover:bg-cream/5'}`}
+                  >
+                    <span className={`w-5 h-5 rounded border-2 flex items-center justify-center text-xs flex-shrink-0
+                      ${selected ? 'border-forest dark:border-gold bg-forest dark:bg-gold text-white dark:text-charcoal' : 'border-charcoal/20 dark:border-cream/20'}`}>
+                      {selected && '✓'}
+                    </span>
+                    <span className="leading-snug">{cat}</span>
+                  </button>
+                );
+              })}
+              {deck === 'acupoints' && getAcupointChannels().map(({ code, name }) => {
+                const selected = selectedCategories.has(code);
+                return (
+                  <button
+                    key={code}
+                    onClick={() => {
+                      const next = new Set(selectedCategories);
+                      if (selected) next.delete(code); else next.add(code);
+                      setSelectedCategories(next);
+                    }}
+                    className={`w-full text-left px-3 py-2.5 text-sm flex items-center gap-2 transition-colors
+                      ${selected ? 'bg-forest/10 dark:bg-gold/10' : 'hover:bg-charcoal/5 dark:hover:bg-cream/5'}`}
+                  >
+                    <span className={`w-5 h-5 rounded border-2 flex items-center justify-center text-xs flex-shrink-0
+                      ${selected ? 'border-forest dark:border-gold bg-forest dark:bg-gold text-white dark:text-charcoal' : 'border-charcoal/20 dark:border-cream/20'}`}>
+                      {selected && '✓'}
+                    </span>
+                    <span className="font-medium">{code}</span>
+                    <span className="text-charcoal/50 dark:text-cream/50">— {name}</span>
+                  </button>
+                );
+              })}
+              {deck === 'formulas' && getFormulaCategories().length > 0 && getFormulaCategories().map(cat => {
+                const selected = selectedCategories.has(cat);
+                return (
+                  <button
+                    key={cat}
+                    onClick={() => {
+                      const next = new Set(selectedCategories);
+                      if (selected) next.delete(cat); else next.add(cat);
+                      setSelectedCategories(next);
+                    }}
+                    className={`w-full text-left px-3 py-2.5 text-sm flex items-center gap-2 transition-colors
+                      ${selected ? 'bg-forest/10 dark:bg-gold/10' : 'hover:bg-charcoal/5 dark:hover:bg-cream/5'}`}
+                  >
+                    <span className={`w-5 h-5 rounded border-2 flex items-center justify-center text-xs flex-shrink-0
+                      ${selected ? 'border-forest dark:border-gold bg-forest dark:bg-gold text-white dark:text-charcoal' : 'border-charcoal/20 dark:border-cream/20'}`}>
+                      {selected && '✓'}
+                    </span>
+                    <span className="leading-snug">{cat}</span>
+                  </button>
+                );
+              })}
+              {deck === 'formulas' && getFormulaCategories().length === 0 && (
+                <p className="px-3 py-2.5 text-sm text-charcoal/50 dark:text-cream/50">Category filter not available for formulas yet</p>
+              )}
+            </div>
+          )}
         </div>
 
         {/* Timed toggle */}
@@ -324,7 +473,7 @@ export default function QuizPage() {
 
         {/* Question */}
         <div className="bg-white dark:bg-charcoal/50 rounded-2xl p-5 shadow-sm border border-charcoal/5 dark:border-cream/5">
-          <p className="text-base leading-relaxed font-medium">{currentQuestion.question}</p>
+          <p className="text-sm sm:text-base leading-relaxed font-medium break-words">{currentQuestion.question}</p>
         </div>
 
         {/* Timed out message */}

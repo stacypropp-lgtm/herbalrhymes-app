@@ -63,12 +63,12 @@ function generateHerbQuestions(herbs: Herb[], count: number): QuizQuestion[] {
         herbs.filter(h => h.id !== herb.id),
         3
       ).map(h => h.pinyin);
-      const pearl = herb.boardPearl.length > 80
-        ? herb.boardPearl.substring(0, 80) + '...'
+      const pearl = herb.boardPearl.length > 120
+        ? herb.boardPearl.substring(0, 120) + '…'
         : herb.boardPearl;
       questions.push({
         id: `quiz-${herb.id}-pearl`,
-        question: `Which herb matches this board pearl: "${pearl}"?`,
+        question: `Which herb matches: "${pearl}"?`,
         correctAnswer: herb.pinyin,
         options: shuffle([herb.pinyin, ...distractors]),
         explanation: `${herb.pinyin} — ${herb.boardPearl}`,
@@ -109,8 +109,8 @@ function generateFormulaQuestions(formulas: Formula[], count: number): QuizQuest
         formulas.filter(f => f.id !== formula.id),
         3
       ).map(f => f.pinyin);
-      const indication = formula.indications.length > 100
-        ? formula.indications.substring(0, 100) + '...'
+      const indication = formula.indications.length > 120
+        ? formula.indications.substring(0, 120) + '…'
         : formula.indications;
       questions.push({
         id: `quiz-${formula.id}-ind`,
@@ -168,8 +168,8 @@ function generateAcupointQuestions(points: Acupoint[], count: number): QuizQuest
         points.filter(p => p.id !== point.id && p.channel !== point.channel),
         3
       ).map(p => p.number);
-      const loc = point.location.length > 80
-        ? point.location.substring(0, 80) + '...'
+      const loc = point.location.length > 120
+        ? point.location.substring(0, 120) + '…'
         : point.location;
       questions.push({
         id: `quiz-${point.id}-loc`,
@@ -185,8 +185,8 @@ function generateAcupointQuestions(points: Acupoint[], count: number): QuizQuest
         points.filter(p => p.id !== point.id),
         3
       ).map(p => p.number);
-      const pearl = point.boardPearl.length > 80
-        ? point.boardPearl.substring(0, 80) + '...'
+      const pearl = point.boardPearl.length > 120
+        ? point.boardPearl.substring(0, 120) + '…'
         : point.boardPearl;
       questions.push({
         id: `quiz-${point.id}-pearl`,

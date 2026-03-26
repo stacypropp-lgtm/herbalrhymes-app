@@ -33,17 +33,29 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-function buildQueue(deck: DeckType): CardItem[] {
+function buildQueue(deck: DeckType, filterCategories?: Set<string>): CardItem[] {
   const allProgress = getAllProgress();
 
   const items: { card: CardItem; isNew: boolean }[] = [];
 
+  let herbsFiltered = herbs;
+  let formulasFiltered = formulas;
+  let acupointsFiltered = acupoints;
+
+  if (filterCategories && filterCategories.size > 0) {
+    if (deck === 'herbs') {
+      herbsFiltered = herbs.filter(h => filterCategories.has(h.category));
+    } else if (deck === 'acupoints') {
+      acupointsFiltered = acupoints.filter(p => filterCategories.has(p.channel));
+    }
+  }
+
   const source =
     deck === 'herbs'
-      ? herbs.map((h) => ({ deck: 'herbs' as const, data: h }))
+      ? herbsFiltered.map((h) => ({ deck: 'herbs' as const, data: h }))
       : deck === 'formulas'
-        ? formulas.map((f) => ({ deck: 'formulas' as const, data: f }))
-        : acupoints.map((a) => ({ deck: 'acupoints' as const, data: a }));
+        ? formulasFiltered.map((f) => ({ deck: 'formulas' as const, data: f }))
+        : acupointsFiltered.map((a) => ({ deck: 'acupoints' as const, data: a }));
 
   for (const card of source) {
     const id = card.data.id;
@@ -59,6 +71,25 @@ function buildQueue(deck: DeckType): CardItem[] {
   const limitedNew = newCards.slice(0, 20);
 
   return shuffle([...reviewCards, ...limitedNew]);
+}
+
+// Category helpers for Study page
+function getStudyHerbCategories(): string[] {
+  const cats = new Set<string>();
+  herbs.forEach(h => cats.add(h.category));
+  return Array.from(cats).sort();
+}
+
+function getStudyAcupointChannels(): { code: string; name: string }[] {
+  const channels = new Map<string, string>();
+  acupoints.forEach(p => {
+    if (p.channel && p.channelName && !channels.has(p.channel)) {
+      channels.set(p.channel, p.channelName);
+    }
+  });
+  return Array.from(channels.entries())
+    .map(([code, name]) => ({ code, name }))
+    .sort((a, b) => a.name.localeCompare(b.name));
 }
 
 /* ---------- sub-components ---------- */
@@ -332,6 +363,8 @@ export default function StudyPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [sessionComplete, setSessionComplete] = useState(false);
+  const [studyCategories, setStudyCategories] = useState<Set<string>>(new Set());
+  const [showStudyCategoryPicker, setShowStudyCategoryPicker] = useState<DeckType | null>(null);
   const { review, refresh } = useProgress();
 
   /* Deck stats — recomputed on every render for reactivity */
@@ -346,8 +379,8 @@ export default function StudyPage() {
   );
 
   const startDeck = useCallback(
-    (deck: DeckType) => {
-      const q = buildQueue(deck);
+    (deck: DeckType, filterCats?: Set<string>) => {
+      const q = buildQueue(deck, filterCats);
       setQueue(q);
       setCurrentIndex(0);
       setFlipped(false);
@@ -441,8 +474,75 @@ export default function StudyPage() {
 
                 <MasteryBar stats={stats} />
 
+                {/* Category filter toggle */}
+                {(deck === 'herbs' || deck === 'acupoints') && (
+                  <div className="mt-3">
+                    <button
+                      onClick={() => {
+                        if (showStudyCategoryPicker === deck) {
+                          setShowStudyCategoryPicker(null);
+                        } else {
+                          setShowStudyCategoryPicker(deck);
+                          setStudyCategories(new Set());
+                        }
+                      }}
+                      className="text-xs font-semibold text-forest dark:text-gold"
+                    >
+                      {showStudyCategoryPicker === deck ? 'Hide filter' : deck === 'acupoints' ? '📌 Study by channel' : '📂 Study by category'}
+                    </button>
+
+                    {showStudyCategoryPicker === deck && (
+                      <div className="mt-2 max-h-40 overflow-y-auto rounded-xl border border-charcoal/10 dark:border-cream/10 divide-y divide-charcoal/5 dark:divide-cream/5">
+                        {deck === 'herbs' && getStudyHerbCategories().map(cat => {
+                          const selected = studyCategories.has(cat);
+                          return (
+                            <button
+                              key={cat}
+                              onClick={() => {
+                                const next = new Set(studyCategories);
+                                if (selected) next.delete(cat); else next.add(cat);
+                                setStudyCategories(next);
+                              }}
+                              className={`w-full text-left px-3 py-2 text-xs flex items-center gap-2 transition-colors
+                                ${selected ? 'bg-forest/10 dark:bg-gold/10' : 'hover:bg-charcoal/5 dark:hover:bg-cream/5'}`}
+                            >
+                              <span className={`w-4 h-4 rounded border flex items-center justify-center text-[10px] flex-shrink-0
+                                ${selected ? 'border-forest dark:border-gold bg-forest dark:bg-gold text-white dark:text-charcoal' : 'border-charcoal/20 dark:border-cream/20'}`}>
+                                {selected && '✓'}
+                              </span>
+                              <span className="leading-snug">{cat}</span>
+                            </button>
+                          );
+                        })}
+                        {deck === 'acupoints' && getStudyAcupointChannels().map(({ code, name }) => {
+                          const selected = studyCategories.has(code);
+                          return (
+                            <button
+                              key={code}
+                              onClick={() => {
+                                const next = new Set(studyCategories);
+                                if (selected) next.delete(code); else next.add(code);
+                                setStudyCategories(next);
+                              }}
+                              className={`w-full text-left px-3 py-2 text-xs flex items-center gap-2 transition-colors
+                                ${selected ? 'bg-forest/10 dark:bg-gold/10' : 'hover:bg-charcoal/5 dark:hover:bg-cream/5'}`}
+                            >
+                              <span className={`w-4 h-4 rounded border flex items-center justify-center text-[10px] flex-shrink-0
+                                ${selected ? 'border-forest dark:border-gold bg-forest dark:bg-gold text-white dark:text-charcoal' : 'border-charcoal/20 dark:border-cream/20'}`}>
+                                {selected && '✓'}
+                              </span>
+                              <span className="font-medium">{code}</span>
+                              <span className="text-charcoal/40 dark:text-cream/40">— {name}</span>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
+                )}
+
                 <button
-                  onClick={() => startDeck(deck)}
+                  onClick={() => startDeck(deck, studyCategories.size > 0 && showStudyCategoryPicker === deck ? studyCategories : undefined)}
                   disabled={stats.dueToday === 0}
                   className="mt-4 w-full py-2.5 rounded-xl font-heading font-semibold text-sm
                     bg-forest text-cream hover:bg-forest/90 active:scale-[0.98]
@@ -450,7 +550,7 @@ export default function StudyPage() {
                     dark:disabled:bg-white/10 dark:disabled:text-white/30
                     transition-all duration-150"
                 >
-                  {stats.dueToday === 0 ? 'All Caught Up!' : 'Start Review'}
+                  {stats.dueToday === 0 ? 'All Caught Up!' : studyCategories.size > 0 && showStudyCategoryPicker === deck ? `Study ${studyCategories.size} Selected` : 'Start Review'}
                 </button>
               </div>
             );
