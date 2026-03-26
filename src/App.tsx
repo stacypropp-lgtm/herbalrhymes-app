@@ -17,7 +17,7 @@ function PageLoader() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/herbalrhymes-app">
       <Suspense fallback={<PageLoader />}>
         <Routes>
           <Route element={<Layout />}>
